@@ -68,7 +68,12 @@ Prøv at tegne en lille hus og en sol, vha. referencen:
 
 ## Variabler og datatyper
 
+Herefter et oplæg om variabler og datatyper som er meget vigtige, faktisk forudsætningen for vi overhovedet kan skrive et computer-program
 
+
+-------------------
+
+## Afleveringsopgave nr. 1
 
 
 
