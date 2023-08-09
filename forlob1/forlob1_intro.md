@@ -48,20 +48,16 @@ Kig også i på processings reference-side og se om I kan finde dokumentationen 
 ## Indbyggede funktioner i processing
 
 Som i måske har lagt mærke til på nuværende tidspunkt, anvender man funktioner på følgende måde.   
-Funktionen "fun" er bare et navn jeg har fundet på:
-Hvad i tror i forresten "//" betyder?
+Funktionen "udskrivOrdXGange" er bare et funktion jeg har fundet på:
 
-<span style="color:green;font-weight:700;font-size:20px">
-    markdown color font styles
+<span style="padding: 10px;margin:0px;color:green;background:lightgray;font-weight:700;font-size:20px">
+      udskrivOrdXGange( "hej" , 10 ) ;
 </span>
 
-```
-fun(10,"hej");
-
-// navnet på funktionen er "fun" 
-// funktionen har to parametre og i dette tilfælde kalder jeg funktionen med argumenterne :
-// 1. argument : 10
-// 2. argument : "hej"
+- navnet på funktionen er "udskrivOrdXGange" 
+- funktionen har to parametre og i dette tilfælde kalder jeg funktionen med argumenterne :
+- første argument : "hej"
+- andet argument : 10
 ```
 
 ### Øvelse 2: Tegning vha. 2d-tegnefunktioner
