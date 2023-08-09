@@ -71,7 +71,8 @@ Prøv at tegne en lille hus og en sol, vha. referencen:
 Herefter et oplæg om variabler og datatyper som er meget vigtige, faktisk forudsætningen for vi overhovedet kan skrive et computer-program
 
 <p style="padding: 10px;margin:0px;color:green;background:lightgray;font-weight:700;font-size:20px">
-     int x ; </br>
+     int x ; 
+     <br>
      x = 20;
 </p>
 
