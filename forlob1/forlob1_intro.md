@@ -58,7 +58,7 @@ Funktionen "udskrivOrdXGange" er bare et funktion jeg har fundet på:
 - funktionen har to parametre og i dette tilfælde kalder jeg funktionen med argumenterne :
 - første argument : "hej"
 - andet argument : 10
-```
+
 
 ### Øvelse 2: Tegning vha. 2d-tegnefunktioner
 Prøv at tegne en lille hus og en sol, vha. referencen:     
@@ -70,7 +70,20 @@ Prøv at tegne en lille hus og en sol, vha. referencen:
 
 Herefter et oplæg om variabler og datatyper som er meget vigtige, faktisk forudsætningen for vi overhovedet kan skrive et computer-program
 
+<span style="padding: 10px;margin:0px;color:green;background:lightgray;font-weight:700;font-size:20px">
+     int x ; </br>
+     x = 20;
+</span>
 
+- navnet på variablen er "x" 
+- ved at skrive "int x", i denne rækkefølge, opretter man variablen kaldet "x".
+- ved at skrive "x = 20", i denne rækkefølge, giver vi variablen "x" værdien "20".
+
+Man kan også skrive det hele på en linje:
+
+<span style="padding: 10px;margin:0px;color:green;background:lightgray;font-weight:700;font-size:20px">
+     int x = 20;
+</span>
 -------------------
 
 ## Afleveringsopgave nr. 1
