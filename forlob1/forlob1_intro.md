@@ -50,9 +50,9 @@ Kig også i på processings reference-side og se om I kan finde dokumentationen 
 Som i måske har lagt mærke til på nuværende tidspunkt, anvender man funktioner på følgende måde.   
 Funktionen "udskrivOrdXGange" er bare et funktion jeg har fundet på:
 
-<span style="padding: 10px;margin:0px;color:green;background:lightgray;font-weight:700;font-size:20px">
+<p style="padding: 10px;margin:0px;color:green;background:lightgray;font-weight:700;font-size:20px">
       udskrivOrdXGange( "hej" , 10 ) ;
-</span>
+</p>
 
 - navnet på funktionen er "udskrivOrdXGange" 
 - funktionen har to parametre og i dette tilfælde kalder jeg funktionen med argumenterne :
@@ -70,10 +70,10 @@ Prøv at tegne en lille hus og en sol, vha. referencen:
 
 Herefter et oplæg om variabler og datatyper som er meget vigtige, faktisk forudsætningen for vi overhovedet kan skrive et computer-program
 
-<span style="padding: 10px;margin:0px;color:green;background:lightgray;font-weight:700;font-size:20px">
+<p style="padding: 10px;margin:0px;color:green;background:lightgray;font-weight:700;font-size:20px">
      int x ; </br>
      x = 20;
-</span>
+</p>
 
 - navnet på variablen er "x" 
 - ved at skrive "int x", i denne rækkefølge, opretter man variablen kaldet "x".
@@ -81,9 +81,9 @@ Herefter et oplæg om variabler og datatyper som er meget vigtige, faktisk forud
 
 Man kan også skrive det hele på en linje:
 
-<span style="padding: 10px;margin:0px;color:green;background:lightgray;font-weight:700;font-size:20px">
+<p style="padding: 10px;margin:0px;color:green;background:lightgray;font-weight:700;font-size:20px">
      int x = 20;
-</span>
+</p>
 -------------------
 
 ## Afleveringsopgave nr. 1
