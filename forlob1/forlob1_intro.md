@@ -51,6 +51,10 @@ Som i måske har lagt mærke til på nuværende tidspunkt, anvender man funktion
 Funktionen "fun" er bare et navn jeg har fundet på:
 Hvad i tror i forresten "//" betyder?
 
+<span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
+
 ```
 fun(10,"hej");
 
