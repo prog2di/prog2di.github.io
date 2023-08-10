@@ -4,6 +4,10 @@
 
 ## Agenda : 
 
+- Angående elever, der allerede kan programmere
+    - husk de andre skal lære det du allerede kan!
+    - mere avancerede opgaver?
+    - hjælpe gerne de andre når du er færdig?
 - Intro til undervisningsformen : 
     - ***logbog***,- vi starter næste gang...
     - ***test***,- vi laver løbende test uden hjælpemidler
@@ -45,6 +49,54 @@ Kig også i på processings reference-side og se om I kan finde dokumentationen 
 
 -------------------
 
+## Et processingsprograms opbygning
+
+Der er to måder man kan vælge at skrive et processingprogram på. 
+Nemlig med eller uden brugerdefinerede "funktioner". 
+
+### Simpel tilstand - uden at skrive funktioner
+I den simple tilstand laver man ikke funktioner som f.eks. “setup”. Og koden eksekverer en linje ad gangen ...
+
+´´´
+// simpel tilstand
+int x;
+x = 0;
+x = x + 1;
+´´´
+
+### Avanceret tilstand - med funktioner
+Her anvendes implementation af funktionerne, “setup” og “draw”.   
+(man kan også lave sine helt egne funktioner, men det kommer vi til senere)
+
+´´´
+// avanceret tilstand
+
+//man må gerne oprette variabler udenfor setup, draw eller andre funktioner ... 
+//men man må ikke skrive såkaldt aktiv kode såsom: x = 0;
+//andet aktiv kode, der selfølgelig heller ikke må skrives her er f.eks.: size(500,500)
+int x = 0;
+
+//indholdet i funktion setup bliver kørt én gang i starten af programmet.  
+//setup må kan skrives en gang i hele programmet
+void setup(){
+x = 0;
+}
+
+//inholdet i funktionen draw bliver som udgangspunkt gentaget med en frekvens på 30 gange pr sekund. Men det kan ændres til en anden frekvens.
+//draw må kun skrives en gang i hele programmet
+void draw(){
+x = x + 1;
+}
+´´´
+
+Se følgende links: 
+
+[https://processing.org/reference/setup_.html](https://processing.org/reference/setup_.html)
+
+[https://processing.org/reference/draw_.html]([https://processing.org/reference/draw_.html)
+
+-------------------
+
 ## Indbyggede funktioner i processing
 
 Som i måske har lagt mærke til på nuværende tidspunkt, anvender man funktioner på følgende måde.   
@@ -61,7 +113,7 @@ Funktionen "udskrivOrdXGange" er bare et funktion jeg har fundet på:
 
 
 ### Øvelse 2: Tegning vha. 2d-tegnefunktioner
-Prøv at tegne en lille hus og en sol, vha. referencen:     
+Prøv at tegne tegning vha. processings indbyggede tegnefunktioner. Måske et lille hus og en sol. Brug referencen:     
 [https://processing.org/reference/#shape](https://processing.org/reference/#shape)
 
 -------------------
@@ -85,10 +137,24 @@ Man kan også skrive det hele på en linje:
 <p style="padding: 10px;margin:0px;color:green;background:lightgray;font-weight:700;font-size:20px">
      int x = 20;
 </p>
+
+-------------------
+
+## Datatyper
+
+
+### Øvelse 3: Datatyper
+
+
+
 -------------------
 
 ## Afleveringsopgave nr. 1
 
+- Tegn et "væsen" vha. processings indbyggede 2D tegne funktioner, såsom "rect" eller "ellipse"
+- Anvend variabler istedet for direkte skrevne tal når i skal tegne jeres "væsen"
+- Find på en måde at flytte "væsnet" rundt på skærmen. Det må gerne nøjes med at bevæge sig i en retning og forsvinde ud af billedet, hvis opgaven er lidt svær
+- Hvis i har tid kan i jo prøve at få "væsnet" til at "bounce" eller bevæge sig længere væk så der simuleres en rummelig dimension
 
 
 
