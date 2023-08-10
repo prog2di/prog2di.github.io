@@ -57,18 +57,18 @@ Nemlig med eller uden brugerdefinerede "funktioner".
 ### Simpel tilstand - uden at skrive funktioner
 I den simple tilstand laver man ikke funktioner som f.eks. “setup”. Og koden eksekverer en linje ad gangen ...
 
-´´´
+```
 // simpel tilstand
 int x;
 x = 0;
 x = x + 1;
-´´´
+```
 
 ### Avanceret tilstand - med funktioner
 Her anvendes implementation af funktionerne, “setup” og “draw”.   
 (man kan også lave sine helt egne funktioner, men det kommer vi til senere)
 
-´´´
+```
 // avanceret tilstand
 
 //man må gerne oprette variabler udenfor setup, draw eller andre funktioner ... 
@@ -87,7 +87,7 @@ x = 0;
 void draw(){
 x = x + 1;
 }
-´´´
+```
 
 Se følgende links: 
 
@@ -120,7 +120,10 @@ Prøv at tegne tegning vha. processings indbyggede tegnefunktioner. Måske et li
 
 ## Variabler og datatyper
 
-Herefter et oplæg om variabler og datatyper som er meget vigtige, faktisk forudsætningen for vi overhovedet kan skrive et computer-program
+Herefter et oplæg om variabler og datatyper:    
+[slides_variable_datatyper.pdf](slides_variable_datatyper.pdf)
+
+variabler og datatyper som er meget vigtige, faktisk forudsætningen for vi overhovedet kan skrive et computer-program:
 
 <p style="padding: 10px;margin:0px;color:green;background:lightgray;font-weight:700;font-size:20px">
      int x ; 
@@ -142,21 +145,29 @@ Man kan også skrive det hele på en linje:
 
 ## Datatyper
 
+Der er to store kategorier at data-typer i processing (java). 
+Den ene hedder "primitive" den anden "objekter".
+I første omgang kigger vi kun på primitive typer (senere kommer objekterne). 
+Her kan du finde en oversigt over primitive typer i processing:
+
+[https://processing.org/reference/#data](https://processing.org/reference/#data)
+
+
+
 
 ### Øvelse 3: Datatyper
 
-
+- prøv at se om du kan gemme en "float-værdi" i en variabel kaldet "a"
+- osv.
 
 -------------------
 
 ## Afleveringsopgave nr. 1
 
+Opgaven
+
 - Tegn et "væsen" vha. processings indbyggede 2D tegne funktioner, såsom "rect" eller "ellipse"
 - Anvend variabler istedet for direkte skrevne tal når i skal tegne jeres "væsen"
+- Dit væsen skal sige noget. Dvs. du kan tegne en talebobbel på skærmen, ligesom i en tegneserie.
 - Find på en måde at flytte "væsnet" rundt på skærmen. Det må gerne nøjes med at bevæge sig i en retning og forsvinde ud af billedet, hvis opgaven er lidt svær
 - Hvis i har tid kan i jo prøve at få "væsnet" til at "bounce" eller bevæge sig længere væk så der simuleres en rummelig dimension
-
-
-
-
-
