@@ -1,4 +1,4 @@
-# Introduktion til programmering
+# Introduktion til programmering, tegnefunktioner, variabler og datatyper
 
 -------------------
 
@@ -45,11 +45,11 @@ println("dette er en prøve");
 ellipse(50,50,50,20);
 ```
 
-Kig også i på processings reference-side og se om I kan finde dokumentationen på de forskellige funktioner: print, println og ellipse.
+Kig også på processings reference-side og se om I kan finde dokumentationen på de forskellige funktioner: print, println og ellipse.
 
 -------------------
 
-## Et processingsprograms opbygning
+## Processing-programmets opbygning
 
 Der er to måder man kan vælge at skrive et processingprogram på. 
 Nemlig med eller uden brugerdefinerede "funktioner". 
@@ -155,16 +155,43 @@ Her kan du finde en oversigt over primitive typer i processing:
 
 
 
-### Øvelse 3: Datatyper
+### Øvelse 3: Tre små opgaver om datatyperne string, int float
 
-- prøv at se om du kan gemme en "float-værdi" i en variabel kaldet "a"
-- osv.
+3.1: Int og float
+Hvorfor er der en fejl på linje A og ikke på linje B?   
+Prøv at se om du kan bruge "Conversion" på linje A, så den ikke fejler!
+```
+float f1 = 2.2;
+int i1 = 2;
+i1 = f1; //linje A
+f1 = i1; //linje B
+```
+
+3.1: Int og float  
+Hvorfor udprintes 2 og ikke 2.2?   
+Hvad kan du ændre så der udskrives den korrekte værdi?
+```
+int a = 2;
+a+=0.2;
+print(a);
+```
+
+3.3: String og int
+Se om du kan lave en ændring på sidste linje så programmet ikke fejler.
+```
+int nummer = 1002302801;
+String personNummer;
+personNummer = nummer;
+```
 
 -------------------
 
 ## Afleveringsopgave nr. 1
 
 Opgaven
+
+Opgaven skal laves af højest to personer.   
+Afleveringen skal bestå af mindst 
 
 - Tegn et "væsen" vha. processings indbyggede 2D tegne funktioner, såsom "rect" eller "ellipse"
 - Anvend variabler istedet for direkte skrevne tal når i skal tegne jeres "væsen"
