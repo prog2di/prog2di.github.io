@@ -11,7 +11,7 @@
 - Intro til undervisningsformen : 
     - ***logbog***,- vi starter næste gang...
     - ***test***,- vi laver løbende test uden hjælpemidler
-    - ***afleveringer***, kode + video hvir i forklarer koden
+    - ***afleveringer***, kode + video hvor i forklarer koden
     - ***fagord***,- det er vigtigt at i anvender rigtige fagtermer  
     - ***karaktergivning***,- gives hovedsagligt på baggrund af test og afleveringer
 - intro til processing i.d.e og download
@@ -155,7 +155,7 @@ Her kan du finde en oversigt over primitive typer i processing:
 
 
 
-### Øvelse 3: Tre små opgaver om datatyperne string, int float
+### Øvelse 3: Tre små opgaver om datatyperne string, int og float
 
 3.1: Int og float       
 Hvorfor er der en fejl på linje A og ikke på linje B?   
@@ -190,7 +190,7 @@ personNummer = nummer;
 
 Afleveringen:   
 - Opgaven skal laves af højest to personer.   
--I skal aflevere "koden" og en "video" hvor forklarer koden, og anvender rigtige fagord 
+- I skal aflevere "koden" og en "video" hvor forklarer koden, og anvender rigtige fagord 
 
 Krav:
 - Tegn et "væsen" vha. de indbyggede 2D tegnefunktioner
