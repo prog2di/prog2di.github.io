@@ -157,7 +157,7 @@ Her kan du finde en oversigt over primitive typer i processing:
 
 ### Øvelse 3: Tre små opgaver om datatyperne string, int float
 
-3.1: Int og float
+3.1: Int og float       
 Hvorfor er der en fejl på linje A og ikke på linje B?   
 Prøv at se om du kan bruge "Conversion" på linje A, så den ikke fejler!
 ```
@@ -167,7 +167,7 @@ i1 = f1; //linje A
 f1 = i1; //linje B
 ```
 
-3.1: Int og float  
+3.1: Int og float       
 Hvorfor udprintes 2 og ikke 2.2?   
 Hvad kan du ændre så der udskrives den korrekte værdi?
 ```
@@ -176,7 +176,7 @@ a+=0.2;
 print(a);
 ```
 
-3.3: String og int
+3.3: String og int    
 Se om du kan lave en ændring på sidste linje så programmet ikke fejler.
 ```
 int nummer = 1002302801;
@@ -186,15 +186,17 @@ personNummer = nummer;
 
 -------------------
 
-## Afleveringsopgave nr. 1
+## Afleveringsopgave nr. 1 : The Creature
 
-Opgaven
+Afleveringen:   
+- Opgaven skal laves af højest to personer.   
+-I skal aflevere "koden" og en "video" hvor forklarer koden, og anvender rigtige fagord 
 
-Opgaven skal laves af højest to personer.   
-Afleveringen skal bestå af mindst 
+Krav:
+- Tegn et "væsen" vha. de indbyggede 2D tegnefunktioner
+- Lav en talebobbel på skærmen, ligesom i en tegneserie.
+- Anvend variabler istedet for direkte skrevne tal eller ord
+- Flyt "væsnet" rundt på skærmen. Det må gerne forsvinde ud af billedet, hvis opgaven er lidt svær
 
-- Tegn et "væsen" vha. processings indbyggede 2D tegne funktioner, såsom "rect" eller "ellipse"
-- Anvend variabler istedet for direkte skrevne tal når i skal tegne jeres "væsen"
-- Dit væsen skal sige noget. Dvs. du kan tegne en talebobbel på skærmen, ligesom i en tegneserie.
-- Find på en måde at flytte "væsnet" rundt på skærmen. Det må gerne nøjes med at bevæge sig i en retning og forsvinde ud af billedet, hvis opgaven er lidt svær
-- Hvis i har tid kan i jo prøve at få "væsnet" til at "bounce" eller bevæge sig længere væk så der simuleres en rummelig dimension
+Frivilligt: 
+- Prøv at få "væsnet" til f.eks at "bounce" eller bevæge sig længere væk så der simuleres en rummelig dimension
