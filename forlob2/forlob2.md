@@ -30,7 +30,7 @@ I skal åbne jeres logbog og skriv svaret på følgende spørgsmål, relateret t
 - hvordan opretter man en variabel?
 - hvilke datatyper anvendte du i din kode og hvorfor?
 - hvad betyder "parametre" og "argumenter" i prgrammering, og hvornår anvender du dem i din kode?
-- hvor har du brugt curlebrackets i din kode,- og hvilken betydning har de?
+- hvor har du brugt curly brackets (krølleparanteser) i din kode,- og hvilken betydning har de?
 - i programmering taler man om "variabel-scope" , prøv at se om du kan finde svaret på hvad det betyder og om det betyder noget i din kode?
 
 ## Fælles gennemgang
