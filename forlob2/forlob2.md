@@ -12,7 +12,7 @@ Der var dog et par kritik punkter jeg lige vil kommentere på fra sidst:
 
 ----
 
-## Opret jeres logbog
+## Logbog-opgave 1: Opret jeres logbog
 
 I skal nu oprette en logbog (i bestemmer selv hvordan). 
 Kravet er at det skal være et online dokument eller lignende, som der skal være tilgængeligt for mig i resten af jeres studietid.   
@@ -21,7 +21,7 @@ Når i har oprettet jeres logbog skal i aflevere et dokument, med et link til lo
 
 ---
 
-## Logbog-opgave 1: Spørgsmål til walking creature
+## Logbog-opgave 2: Spørgsmål til walking creature
 
 I skal åbne jeres logbog og skriv svaret på følgende spørgsmål, relateret til "walking cerature" afleveringen:
 
@@ -34,4 +34,58 @@ I skal åbne jeres logbog og skriv svaret på følgende spørgsmål, relateret t
 - i programmering taler man om "variabel-scope" , prøv at se om du kan finde svaret på hvad det betyder og om det betyder noget i din kode?
 
 ## Fælles gennemgang
-Jeg vælger tilfældige der skal svare på spørgsmålene. Vha. følgende kode:
+Jeg vælger tilfældige der skal svare på spørgsmålene. Vha. nedenstående kode.  
+Kan du regne ud hvordan den virker??:
+
+´´´
+void setup(){
+  size(400,400);
+  textSize(30);
+}
+
+void draw(){
+  clear();
+  text(random_elev,50,200);
+}
+
+void mousePressed(){
+  random_elev = navne[(int)random(0,navne.length)]; 
+}
+
+String random_elev = "tryk med musen";
+
+String[] navne ={"Alexander Carlmann",
+"Anton Snabe Engelhart",
+"Asger Munk",
+"Aske",
+"August Karoli Nørby",
+"Bunyakorn War",
+"Callum Finn",
+"Elliot Roland",
+"Elmer Steen",
+"Emilie Asta",
+"Gustav Emil Kaad",
+"Gustav Westenberg Bjørn",
+"Kathrine Lolle",
+"Kritik",
+"Lukas Wai Lok Chan",
+"Mads Christian Scheel",
+"Marcus Modest",
+"Maria",
+"Marina Frederikke Hald",
+"Mattias Krusell",
+"Mikkel Agergaard",
+"Mikkel Cetti",
+"Mikkel Lassenius Kaarup",
+"Neel Smidt",
+"Nojus",
+"Oliver",
+"Paris Xuetong",
+"Poul Gustav Berenthz",
+"Sofie",
+"Victor Østergaard",
+"Viggo Gringer",
+"William Brogaard"};
+
+
+´´´
