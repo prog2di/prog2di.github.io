@@ -37,7 +37,7 @@ I skal åbne jeres logbog og skriv svaret på følgende spørgsmål, relateret t
 Jeg vælger tilfældige der skal svare på spørgsmålene. Vha. nedenstående kode.  
 Kan du regne ud hvordan den virker??:
 
-´´´
+```
 void setup(){
   size(400,400);
   textSize(30);
@@ -86,6 +86,4 @@ String[] navne ={"Alexander Carlmann",
 "Victor Østergaard",
 "Viggo Gringer",
 "William Brogaard"};
-
-
-´´´
+```
