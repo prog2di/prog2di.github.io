@@ -147,12 +147,11 @@ Man kan også skrive det hele på en linje:
 
 Der er to store kategorier at data-typer i processing (java). 
 Den ene hedder "primitive" den anden "objekter".
-I første omgang kigger vi kun på primitive typer (senere kommer objekterne). 
+I første omgang kigger vi kun på primitive typer (senere kommer objekterne).   
+***Vi anvender dog stadig "String" datatypen selvom det er en objekt-type og ikke en primitiv***
 Her kan du finde en oversigt over primitive typer i processing:
 
 [https://processing.org/reference/#data](https://processing.org/reference/#data)
-
-
 
 
 ### Øvelse 3: Tre små opgaver om datatyperne string, int og float
