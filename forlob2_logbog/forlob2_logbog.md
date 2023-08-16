@@ -7,8 +7,12 @@
 Alle de opgaver jeg nåede at kigge igennem fra sidst var meget flot lavet, det ser absolut ud som om der er mere end tre der allerede kan kode ;-)
 
 Der var dog et par kritik punkter jeg lige vil kommentere på fra sidst:
-- Det er selvfølgelig muligt at konvertere fra værdi til en anden type se her, under "convertion": [https://processing.org/reference/#data](https://processing.org/reference/#data)
-- Det fremgik ikke af teksten fra sidst at datatypen "string" ikke er en primitiv type,- det har jeg rettet nu ;-)
+
+- Det er selvfølgelig muligt at konvertere fra værdi til en anden type se her, under "convertion":    
+[https://processing.org/reference/#data](https://processing.org/reference/#data)   
+
+
+- Det fremgik ikke af teksten fra sidst at datatypen "String" ikke er en primitiv type,- det har jeg rettet nu ;-)
 
 ----
 

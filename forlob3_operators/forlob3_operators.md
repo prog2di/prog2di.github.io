@@ -7,7 +7,7 @@ Aritmetiske (se under math / operators) :
 [https://processing.org/reference/#math](https://processing.org/reference/#math)    
 
 
-Sammenligning (se under control / relationel) : 
+Sammenligning (se under control / relationel) :    
 [https://processing.org/reference/#control](https://processing.org/reference/#control)    
 
 
@@ -19,7 +19,7 @@ Logiske (se under control / logic) :
 
 ## Her lige et par spørgsmål i aritmetiske operatorer
 
-- Længden og bredden af en rektangel er henholdsvis 5 og 7. Skriv et program til at beregne arealet og omkredsen af ​​rektanglen.
+- længden og bredden af en rektangel er henholdsvis 5 og 7. Skriv et program til at beregne arealet og omkredsen af ​​rektanglen.
 
 - skriv et program der beregner omkredsen og arealet af en retvinklet trekant.
 
