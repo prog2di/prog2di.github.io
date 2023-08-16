@@ -25,6 +25,6 @@ Logiske (se under control / logic) :
 
 - skriv et program der tager modulus 10 af frameCount og udskriver reultatet. Hvordan fungerer modulus?
 
-- løs nu det ovenstående spørgsmål ved hjælp af tildelingsoperatorer (f.eks. +=, -=, *=)
+- løs nu de ovenstående spørgsmål ved hjælp af tildelingsoperatorer (f.eks. +=, -=, *=)
 
 - kan du lave et program der bevæger en firkant hen over skærmen som en "stepfunktion" uden brug af if-statements, me kun modulus
