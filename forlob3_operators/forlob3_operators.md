@@ -25,7 +25,7 @@ Logiske (se under control / logic) :
 
 - skriv et program der tager modulus 10 af frameCount og udskriver frameCount og resultatet. Hvordan fungerer modulus?
 
-- skriv et program der tager division 100 af frameCount og udskriver frameCont og resultatet. Hvordan fungerer division i dette tilfælde?
+- skriv et program der tager division 100 af frameCount og udskriver frameCount og resultatet. Hvordan fungerer division i dette tilfælde?
 
 - løs nu de ovenstående spørgsmål ved hjælp af tildelingsoperatorer (f.eks. +=, -=, *=)
 
