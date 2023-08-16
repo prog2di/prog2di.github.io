@@ -7,8 +7,10 @@ Mvh underviseren selv Anders J.R. Petersen
 
 -----------------------------------
 
-[forløb 1 - *intro, porcessing, tegnefunktioner, variabler og datatyper*](forlob1/forlob1_intro.md)
+[forløb 1 - *intro, porcessing, tegnefunktioner, variabler og datatyper*](forlob1_intro/forlob1_intro.md)
 
-[forløb 2 - *oprettelse af logbog*](forlob2/forlob2.md)
+[forløb 2 - *oprettelse af logbog*](forlob2_logbog/forlob2_logbog.md)
+
+[forløb 3 - *operatorer*](forlob3_operators/forlob3_operators.md)
 
 -----------------------------------
