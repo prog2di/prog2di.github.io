@@ -29,4 +29,34 @@ Logiske (se under control / logic) :
 
 - løs nu de ovenstående spørgsmål ved hjælp af tildelingsoperatorer (f.eks. +=, -=, *=)
 
-- kan du lave et program der bevæger en firkant hen over skærmen som en "trappefunktion" uden brug af if-statements, men kun ved brug af modulus og division af frameCount!
+---------
+
+## Kodeopgave til logbogen 
+
+> Løsningen til nedenstående opgave skal beskrives i din logbog.
+
+I skal lave et program, der bevæger en firkant hen over skærmen på forskellige måder, uden brug af if-statements, men kun ved brug af ***modulus*** og ***division*** af frameCount!
+
+Se om du kan lave følgende bevægelser, start med den øverste :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z7RSALH8nYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Anvend "alpha", f.eks. på nedenstående måde, på for at lave "trace-effekten":
+```
+void setup(){
+  clear();
+  size(500,500);
+}
+
+void draw(){
+  noStroke();
+  
+  //istedet for background
+  fill(0,3);
+  rect(0,0,500,500);
+  
+  //firkant tegnes nu, og der kommer et "trace"  
+  fill(255);
+  rect(frameCount,250,2,2);
+}
+```
