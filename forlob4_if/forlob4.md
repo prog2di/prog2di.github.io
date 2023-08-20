@@ -14,7 +14,7 @@ Koden afvikles sekventielt, dvs. linje for linje, men kodens afvikling kan kontr
 
 [https://processing.org/reference/conditional.html](https://processing.org/reference/conditional.html)
 
-## 2. del - lille fællesopgave
+## 2. del - små fælles-eksempler
 *varighed cirka 5 minutter*
 
 ```java
@@ -33,9 +33,23 @@ if(jegErIkkeSyg){
 }
 ```
 
+
+```java
+//eksempel på kompakt måde at skrive if statements og betingelser
+
+void draw(){
+    if(mouseX > 50 && mouseY < 50) background(0); else background(255);
+}
+
+```
+
+
 ## 3. del - Kvadrant-opgaven
 *varighed cirka 20 minutter*
 Lav et lille program, der tegner skriver hvilken kvadrant musen er i.
 Husk lav en liste over de krav / steps i skal tage for at lave programmet.  
+
+Det er ikke et krav at lave et baggrundsbillede. Men hvis du ønsker det, læs da følgende:
+[https://processing.org/reference/PImage.html](https://processing.org/reference/PImage.html)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n-WkLxDzIOc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
