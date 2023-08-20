@@ -3,11 +3,12 @@
 Koden afvikles sekventielt, dvs. linje for linje, men kodens afvikling kan kontrolleres...
 
 ## 1. del - Oplæg
-*varighed cirka 20 minutter*  
+*varighed cirka 15 minutter*  
 
 [slides : if-else, relations-operatorer og logiske-operatorer](if_else_og_operatorer.pdf)
 
-*fra referencen : if, switch og ?* 
+*fra referencen : if, switch og ?*   
+
 [https://processing.org/reference/if.html](https://processing.org/reference/if.html)
 
 [https://processing.org/reference/switch.html](https://processing.org/reference/switch.html)
@@ -53,3 +54,12 @@ Det er ikke et krav at lave et baggrundsbillede. Men hvis du ønsker det, læs d
 [https://processing.org/reference/PImage.html](https://processing.org/reference/PImage.html)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n-WkLxDzIOc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## 4. del - Kompas-opgaven
+*varighed cirka 20 minutter*
+Lav et lille program, der tegner et kompas og skriver musen position ift. kompasset i midten af vinduet.   
+Er musens position i enten Syd, Nord, Øst eller Vest??   
+Husk lav en liste over de krav / steps i skal tage for at lave programmet.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FOtPUsnr2-E?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
