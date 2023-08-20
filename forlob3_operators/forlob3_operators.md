@@ -60,3 +60,39 @@ void draw(){
   rect(frameCount,250,2,2);
 }
 ```
+
+-----------
+
+## Løsning til Kodeopgaven
+
+For at løse denne opgave og designe en bevægelse baseret på frameCount, skal vi følge disse trin (tegningen af firkanten bør være placeret i draw):
+
+1. frameCount øger med 1 hver gang draw kaldes. Hvis vi bruger frameCount som x-koordinat for en firkant, vil firkanten bevæge sig fra venstre til højre og forsvinde ud til højre, men ikke komme tilbage.
+```
+rect(frameCount, height/2, 10, 10);
+```
+
+2. For at starte bevægelsen igen fra venstre side, kan vi bruge modulus-operationen på frameCount med width (frameCount % width). Dette gør, at bevægelsen kun forekommer inden for intervallet [0, width-1].
+```
+rect(frameCount % width, height/2, 10, 10);
+```
+
+3. For at få bevægelsen til at svinge op og ned, skal vi ændre y-koordinaten. Ved at tilføje frameCount % 2 * 30 til y-koordinaten, vil positionen svinge op og ned med 30 pixels for hvert frame.
+```
+rect(frameCount % width, height/2 + frameCount % 2 * 30, 10, 10);
+```
+
+4. Hvis vi ønsker, at bevægelsen kun sker hvert 100. frame, kan vi dividere frameCount med 100.
+```
+rect(frameCount % width, height/2 + (frameCount / 100) % 2 * 30, 10, 10);
+```
+
+5. For at skabe en nedadgående bevægelse laver vi et bidrag til højden, der kun gælder, når der er gået 100 frames.
+```
+rect(frameCount % width, height/2 + (frameCount / 100) % 2 * 30, 10, 30 * (frameCount % 100 / 99) + 10);
+```
+
+6. For at opnå et modsatrettet, dobbelt så højt step hver 200. frame, tilføjer vi en ekstra faktor.
+```
+rect(frameCount % width, height/2 + (frameCount / 100) % 2 * 30, 10, 30 * (frameCount % 100 / 99) - 60 * (frameCount % 199 / 200) + 10);
+```
