@@ -13,4 +13,6 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [forløb 3 - *operatorer*](forlob3_operators/forlob3_operators.md)
 
+[forløb 4 - *if statements*](forlob4_if/forlob4.md)
+
 -----------------------------------
