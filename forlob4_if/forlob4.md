@@ -34,7 +34,6 @@ if(jegErIkkeSyg){
 }
 ```
 
-
 ```java
 //eksempel på kompakt måde at skrive if statements og betingelser
 
@@ -43,20 +42,26 @@ void draw(){
 }
 
 ```
+---------------------------------------------------------------------------------------------------------------
+
+## Kodeopgaver til logbogen
+
+Løsningen til nedenstående opgaver skal beskrives i jeres logbog.
+
+Det er ikke et krav at anvende et baggrundsbilleder eller billeder i dine programmer. Men hvis du ønsker det, læs da følgende:
+[https://processing.org/reference/PImage.html](https://processing.org/reference/PImage.html)
 
 
-## 3. del - Kvadrant-opgaven
+### 3. del - Kvadrant-opgaven
 *varighed cirka 20 minutter*
 Lav et lille program, der tegner skriver hvilken kvadrant musen er i.
 Husk lav en liste over de krav / steps i skal tage for at lave programmet.  
 
-Det er ikke et krav at lave et baggrundsbillede. Men hvis du ønsker det, læs da følgende:
-[https://processing.org/reference/PImage.html](https://processing.org/reference/PImage.html)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n-WkLxDzIOc?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## 4. del - Kompas-opgaven
+### 4. del - Kompas-opgaven
 *varighed cirka 20 minutter*
 Lav et lille program, der tegner et kompas og skriver musen position ift. kompasset i midten af vinduet.   
 Er musens position i enten Syd, Nord, Øst eller Vest??   
