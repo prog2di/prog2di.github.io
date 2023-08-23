@@ -48,8 +48,9 @@ void draw(){
 
 Løsningen til nedenstående opgaver skal beskrives i jeres logbog.
 
-- I skal i nedenstående opgaver tænke over hvordan i undgår at gentage jer selv "DRY": [Hvad kan forbedres i denne kode?](opgave_dry.md)
-- Det er ikke et krav at anvende et baggrundsbilleder eller billeder i dine programmer. Men hvis du ønsker det, læs da følgende: [https://processing.org/reference/PImage.html](https://processing.org/reference/PImage.html)
+- I skal i nedenstående opgaver tænke over hvordan i undgår at gentage jer selv "DRY": <br/> [Hvad kan forbedres i denne kode?](opgave_dry.md)
+
+- Det er ikke et krav at anvende et baggrundsbilleder eller billeder i dine programmer. Men hvis du ønsker det, læs da følgende: <br/> [https://processing.org/reference/PImage.html](https://processing.org/reference/PImage.html)
 
 
 ### 3. del - Kvadrant-opgaven
