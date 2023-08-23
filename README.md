@@ -7,6 +7,8 @@ Mvh underviseren selv Anders J.R. Petersen
 
 -----------------------------------
 
+Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af test, afleveringsopgaver og projekter
+
 [forløb 1 - *intro, porcessing, tegnefunktioner, variabler og datatyper*](forlob1_intro/forlob1_intro.md)
 
 [forløb 2 - *oprettelse af logbog*](forlob2_logbog/forlob2_logbog.md)
@@ -16,5 +18,15 @@ Mvh underviseren selv Anders J.R. Petersen
 [forløb 4 - *if statements*](forlob4_if/forlob4.md)
 
 [forløb 5 - ***TEST og afleveringsopgave***]()
+
+[forløb 6 - arrays]()
+
+[forløb 7 - referencebaserede og værdibaserede datatyper]()
+
+[forløb 8 - for og while løkker]()
+
+[forlob 9 - funktioner]()
+
+[forløb 10 - klasser og objekter]()
 
 -----------------------------------
