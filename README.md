@@ -17,22 +17,18 @@ Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af tes
 
 [forløb 4 - *if statements*](forlob4_if/forlob4.md)
 
+forløb 5 - afleveringsopgave 2
 
-forløb 5 - ***TEST og afleveringsopgave***
+forløb 6 - ***TEST***
 
+forløb 7 - arrays
 
-forløb 6 - arrays
+forløb 8 - referencebaserede og værdibaserede datatyper
 
+forløb 9 - for og while løkker
 
-forløb 7 - referencebaserede og værdibaserede datatyper
+forlob 10 - funktioner
 
-
-forløb 8 - for og while løkker
-
-
-forlob 9 - funktioner
-
-
-forløb 10 - klasser og objekter
+forløb 11 - klasser og objekter
 
 -----------------------------------
