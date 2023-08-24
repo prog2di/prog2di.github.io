@@ -17,7 +17,7 @@ Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af tes
 
 [forløb 4 - *if statements*](forlob4_if/forlob4.md)
 
-forløb 5 - afleveringsopgave 2
+[forløb 5 - *afleveringsopgave 2*](forlob5_aflevering2/forlob5.md)
 
 forløb 6 - ***TEST***
 
