@@ -19,18 +19,18 @@ Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af tes
 
 [forløb 5 - *afleveringsopgave 2*](forlob5_aflevering2/forlob5.md)
 
-[forløb 6 - *while loops*](forlob6_while/forlob6.md)
+[forløb 6 - *intro loops*](forlob6_loops/forlob6.md)
 
-forløb 6 - ***TEST***
+forløb 7 - ***TEST***
 
-forløb 7 - for og while løkker
+forløb 8 - for og while løkker
 
-forløb 8 - arrays
+forløb 9 - arrays
 
-forløb 9 - referencebaserede og værdibaserede datatyper
+forløb 10 - referencebaserede og værdibaserede datatyper
 
-forlob 10 - funktioner
+forlob 11 - funktioner
 
-forløb 11 - klasser og objekter
+forløb 12 - klasser og objekter
 
 -----------------------------------

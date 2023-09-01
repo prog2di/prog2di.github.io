@@ -1,8 +1,18 @@
-# While loops
+# Loops - for og while
 
-[while loops - i referencen](https://processing.org/reference/while.html)
+Referencen:
+- [while loops - i referencen](https://processing.org/reference/while.html)
+- [for loops - i referencen](https://processing.org/reference/for.html)
 
-Opgave opgaver,- og opgaver. I må selv om hvilken rækkefølge i vælger at lave opgaverne i... (husk i skal bestemme hvornår loopet skal stoppe!)
+Eksempler på for-loops:
+- [eksempler på for-loops](loop_for_eksempler.md)
+
+Slides:
+- [slides loops]()
+
+***Opgaver i while:*** I må selv om hvilken rækkefølge i vælger at lave opgaverne i... (husk i skal bestemme hvornår loopet skal stoppe!)
+
+I behøver ikke lave alle disse opgaver - hvis i er sikker på i kan!!
 
 1. Skriv en while-løkke, der udskriver tal fra 1 til 10.
 2. Lav en while-løkke, der udskriver de første 5 lige tal (2, 4, 6, osv.).
@@ -15,3 +25,9 @@ Opgave opgaver,- og opgaver. I må selv om hvilken rækkefølge i vælger at lav
 9. Lav en while-løkke, der tegner en regnbue af farverige linjer ved at ændre farverne gradvist for hver gentagelse.
 10. Tegn en slags "trappe" ved at bruge en while-løkke til at skabe forskellige brede rektangler ved hvert trin.
 
+
+***Opgave i for-loop:***
+
+lav 10x10 små firkanter i midten af skærmen hvor firkanterne bliver gradvist mere røde nedad og gradvist mere grønne mod højre
+
+![firkantopgaven_med_for_loop.jpg](firkantopgaven_med_for_loop.jpg)
