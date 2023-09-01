@@ -8,7 +8,7 @@ Eksempler på for-loops:
 - [eksempler på for-loops](loop_for_eksempler.md)
 
 Slides:
-- [slides loops]()
+- [slides loops](slides_loops.pdf)
 
 ***Opgaver i både for og while:*** I må selv om hvilken rækkefølge i vælger at lave opgaverne i...
 
