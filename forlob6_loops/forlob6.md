@@ -10,9 +10,7 @@ Eksempler på for-loops:
 Slides:
 - [slides loops]()
 
-***Opgaver i både for og while:*** I må selv om hvilken rækkefølge i vælger at lave opgaverne i... (husk i skal bestemme hvornår loopet skal stoppe!)
-
-I behøver ikke lave alle disse opgaver - hvis i er sikker på i kan!!
+***Opgaver i både for og while:*** I må selv om hvilken rækkefølge i vælger at lave opgaverne i...
 
 1. Skriv en for og while-løkke, der udskriver tal fra 1 til 10.
 2. Lav en for og  while-løkke, der udskriver de første 5 lige tal (2, 4, 6, osv.).
