@@ -21,7 +21,7 @@ Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af tes
 
 [forløb 6 - *for og while loops*](forlob6_loops_intro/forlob6.md)
 
-[*TEST NUMMER 1**](test1/info_test1.md)
+[***TEST NUMMER 1***](test1/info_test1.md)
 
 [forløb 7 - *nestede for loops*](forlob7_nested_for/forlob7.md)
 
