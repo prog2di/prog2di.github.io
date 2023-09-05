@@ -21,16 +21,24 @@ Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af tes
 
 [forløb 6 - *for og while loops*](forlob6_loops_intro/forlob6.md)
 
-test n.1 - ***TEST***
+test nr.1 - ***TEST***
 
 [forløb 7 - *nestede for loops*](forlob7_nested_for/forlob7.md)
 
-forløb 8 - arrays
+forløb 8 - afleveringsopgave 3
 
-forløb 9 - referencebaserede og værdibaserede datatyper
+forløb 9 - arrays
 
-forlob 10 - funktioner
+test nr.2 - ***TEST***
 
-forløb 11 - klasser og objekter
+forløb 10 - referencebaserede og værdibaserede datatyper
+
+forlob 11 - funktioner
+
+test nr.3 - ***TEST***
+
+forløb 12 - klasser og objekter
+
+test n.4 - ***TEST***
 
 -----------------------------------
