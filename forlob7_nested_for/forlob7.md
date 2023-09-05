@@ -21,6 +21,7 @@ Lav et mønster med cirkler: Brug en for-løkke til at tegne flere rækker af ci
 
 ### Opgave 2: 
 Tegn et skakbræt: Brug to nestede for-loops til at tegne et skakbræt med rækker og kolonner af firkantede celler. Skift farve mellem sorte og hvide celler. Se billede nedenfor:
+(svært : du kan prøve at se om du kan tegene samme mønster med kun et for-loop ved anvendelse af "%" og "/")
 
 ![opg2_skaktern.png](opg2_skaktern.png)
 
