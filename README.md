@@ -17,7 +17,7 @@ Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af tes
 
 [forløb 4 - *if statements*](forlob4_if/forlob4.md)
 
-[forløb 5 - *afleveringsopgave 2*](aflevering2/aflevering2.md)
+[*afleveringsopgave 2*](aflevering2/aflevering2.md)
 
 [forløb 6 - *for og while loops*](forlob6_loops_intro/forlob6.md)
 
@@ -25,7 +25,7 @@ Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af tes
 
 [forløb 7 - *nestede for loops*](forlob7_nested_for/forlob7.md)
 
-forløb 8 - afleveringsopgave 3
+[*afleveringsopgave 3*](aflevering3/aflevering3.md)
 
 forløb 9 - arrays
 
