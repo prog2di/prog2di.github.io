@@ -12,6 +12,11 @@ for(int i=0; i<10 ; i++){
 }
 ```
 
+Her links til et par videoer, der illustrerer og forklarer indlejrede for-loops (nestede):
+
+- [video : nested for loop vist med en animation](https://youtu.be/vw5hsqXmqwA?si=SHyK7xXbJU7rHDA4)
+- [video : nested for loop forklaret](https://youtu.be/EClSzELKdR8?si=cy3wci1wGS32xSRv)
+
 ## Opgaver i nestede for loops: I skal forklare løsningerne i jeres logbog
 
 ### Opgave 1: 
