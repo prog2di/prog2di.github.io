@@ -27,7 +27,7 @@ Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af tes
 
 [***afleveringsopgave 3***](aflevering3/aflevering3.md)
 
-forløb 9 - arrays
+[forløb 9 - arrays](forlob8_arrays/forlob8.md)
 
 ***TEST NUMMER 2***
 
