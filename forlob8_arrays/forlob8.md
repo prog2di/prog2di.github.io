@@ -1,7 +1,7 @@
 # Arrays
 
-Arrays er en grundlæggende datatstruktur i programmering, og de bruges ofte til at organisere og behandle data i Processing. De giver dig mulighed for at gemme og arbejde med en samling af værdier på en effektiv måde.
-Array er en struktur i programmering, der tillader dig at gemme flere værdier af samme type under ét navn. Det er som en liste, hvor du kan opbevare og håndtere flere elementer af data på en struktureret måde.
+Arrays er en grundlæggende datatstruktur i programmering, der tillader dig at gemme flere værdier af samme type under ét navn. 
+De fungerer som en liste, hvor du kan opbevare og håndtere flere elementer af data på en struktureret måde.
 
 Fra referencen: [https://processing.org/reference/Array.html](https://processing.org/reference/Array.html)    
 Totorial: [https://processing.org/tutorials/arrays](https://processing.org/tutorials/arrays)   
@@ -20,8 +20,8 @@ Totorial: [https://processing.org/tutorials/arrays](https://processing.org/tutor
 ***Vigtigt : læg mærke til brugen af ordet "new" , dette viser at arrays er en objekttype***
 
 ```java
-    listeHeltal = {1,2,3,9,0,4,5,8,7,6}; //opretter og giver værdi med det samme
-    listKommatal = new float[4]; //opretter en tom liste med plads til fire floats
+    listeHeltal = {1,2,3,9,0,4,5,8,7,6}; //værdier indsat
+    listKommatal = new float[4]; //tom liste
 ```
 
 ## Index
@@ -60,9 +60,9 @@ Man kan også læse fra arrayet, det ser således ud
 
 ```java
 
-int sum = liste[3] + liste[8];  //dette læser indholdet på fra plads 3 og plads 8 i listen, og lægger værdierne sammen
+int sum = liste[3] + liste[8];  
                                 
-println(sum);                   //hvad tror du udskrives på skærmen ??????
+println(sum);   //hvad tror du udskrives??????
 
 ```
 
@@ -83,3 +83,8 @@ for( int i = 0 ; i < list.length ; i++){
    list[i] = list[i] + 1; 
 }
 ```
+------------------------------------------------------------------
+
+## Opgaver i arrays
+
+[diverse opgaver i arrays](opgaver_arrays1.md)
