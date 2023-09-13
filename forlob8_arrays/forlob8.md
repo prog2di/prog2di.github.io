@@ -8,7 +8,7 @@ Totorial: [https://processing.org/tutorials/arrays](https://processing.org/tutor
 
 ### Dekleration af arrays 
 
-> Vigtigt : Læg mærke til brugen af firkantparanteser [ ] , de bruges kun til arrays!!!!. 
+***Vigtigt : Læg mærke til brugen af firkantparanteser [ ] , de bruges kun til arrays!!!!.*** 
 
 ```java
     int[]   listeHeltal;
@@ -17,7 +17,7 @@ Totorial: [https://processing.org/tutorials/arrays](https://processing.org/tutor
 
 ### Oprettelse af arrays
 
-> Vigtigt : læg mærke til brugen af ordet "new"
+***Vigtigt : læg mærke til brugen af ordet "new" , dette viser at arrays er en objekttype***
 
 ```java
     listeHeltal = {1,2,3,9,0,4,5,8,7,6}; //opretter og giver værdi med det samme
@@ -29,7 +29,7 @@ Totorial: [https://processing.org/tutorials/arrays](https://processing.org/tutor
 Hvert element i en array har en unik position, kaldet et "indeks." Indeksene begynder normalt med 0, så det første element har indeks 0, det næste har indeks 1, og så videre.
 Ovenstående "array" er en liste med plads til 10 heltal. Hver plads har et nummer, så man kan fortælle hvilken plads man "skriver" til eller "henter" fra.
 
->Vigtigt : læg mærke til at plads-nummeret starter med 0 !!!
+***Vigtigt : læg mærke til at plads-nummeret starter med 0 !!!***
 
 | plads nummer   |  0     | 1      | 2      | 3      | 4      | 5      | 6     | 7     | 8     | 9      |
 | -------------- | ------ | ------ | ------ | ------ | ------ | ------ | ----- | ----- | ----- | ------ |
