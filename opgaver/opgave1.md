@@ -13,13 +13,16 @@ class TestClass {
     public static void main(String args[] ) throws Exception {
         //Alt din kode skrives iindenfor dette scope!
 
-        //Skriv denne linje for at lave et objekt "in" der kan håndtere input!
+        //Skriv denne linje for at lave et objekt "in",
+        //der kan håndtere input!
         Scanner in = new Scanner(System.in); 
 
-        //Skriv denne linje for at læse næste "integer" ind fra inputtet 
+        //Skriv denne linje for at læse næste "integer"
+        //ind fra inputtet 
         int heltal = in.nextInt();  //
 
-        //Eller skriv denne linje hvis du vil indlæse en hel linje fra inputtet ind som en String
+        //Eller skriv denne linje hvis du vil indlæse
+        //en hel linje fra inputtet ind som en String
         Sring linjeAfTekst = in.nextLine();
 
         //De enkelte tegn kan nu trækkes ud vha. charAt();
@@ -34,6 +37,17 @@ class TestClass {
 }
 ```
 
-## Opgave liste
-skriv om løsningerne i jeres log-bog:
+## Opgaver i "Basic Programming"
 
+Skriv om løsningerne i jeres log-bog:
+
+[opgave 1 - palindrome](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/palindrome-check-2/)
+
+
+[opgave 2 - zoo](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/)
+
+
+[opgave 3 - devisable](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisible-or-not-81b86ad7/)
+
+
+[opgave 4 - cartag](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cartag-948c2b02/)
