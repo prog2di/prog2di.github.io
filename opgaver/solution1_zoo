@@ -1,0 +1,24 @@
+https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/
+
+import java.util.*;
+
+class TestClass {
+    public static void main(String args[] ) throws Exception {
+        Scanner in = new Scanner(System.in);
+
+        int x = 0;
+        int y = 0;
+
+        String w = in.nextLine();
+        for(int i = 0 ; i < w.length() ; i++){
+            if(w.charAt(i)=='z') x++;
+            if(w.charAt(i)=='o') y++;
+        }
+
+        if(x*2 == y){
+            System.out.println("Yes");
+        }else{
+            System.out.println("No");
+        }
+    }
+}

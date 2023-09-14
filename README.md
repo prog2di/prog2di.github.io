@@ -4,6 +4,9 @@ Her kan du finde forløb med tilhørende materiale, opgaver og alt andet vi arbe
 
 Mvh underviseren selv Anders J.R. Petersen
 
+-----------------------------------
+
+[se træningsopgaver her](opgaver/opgave1.md)
 
 -----------------------------------
 

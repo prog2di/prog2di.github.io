@@ -1,0 +1,35 @@
+https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cartag-948c2b02/
+
+import java.util.*;
+
+class TestClass {
+    public static void main(String args[] ) throws Exception {
+        Scanner in = new Scanner(System.in);
+
+        String w = in.nextLine();
+
+        int e1 = (int)w.charAt(0) - 48;
+        int e2 = (int)w.charAt(1) - 48;
+
+        char e3 = w.charAt(2);
+
+        int e4 = (int)w.charAt(3) - 48;
+        int e5 = (int)w.charAt(4) - 48;
+        int e6 = (int)w.charAt(5) - 48;
+
+        int e8 = (int)w.charAt(7) - 48;
+        int e9 = (int)w.charAt(8) - 48;
+
+        boolean numbersOk = false;
+        boolean charOk = false; 
+
+        if((e1+e2)%2==0 && (e4+e5)%2==0 && (e5+e6)%2==0 && (e8+e9)%2==0 ) numbersOk = true;
+        if(e3!='A' && e3!='E' && e3!='I' && e3!='O' && e3!='U' && e3!='Y') charOk = true;
+
+        if(numbersOk && charOk){
+            System.out.println("valid"); 
+        }else{
+            System.out.println("invalid");
+        }
+    }
+}
