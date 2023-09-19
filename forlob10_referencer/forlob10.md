@@ -14,7 +14,7 @@ int[] array2 = array1; // array2 refererer nu til det samme array som array1
 array2[0] = 99; // Dette vil ændre værdien i både array1 og array2
 ```
 
-# Kode eksempler på primitive datatyper - værdibaserede
+## Kode eksempler på primitive datatyper - værdibaserede
 ```java
     int a = 2;
     float b = 2.2;
