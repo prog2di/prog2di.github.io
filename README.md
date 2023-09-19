@@ -30,17 +30,17 @@ Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af tes
 
 [***afleveringsopgave 3***](aflevering3/aflevering3.md)
 
-[forløb 9 - arrays](forlob8_arrays/forlob8.md)
+[forløb 8 - arrays](forlob8_arrays/forlob8.md)
+
+[forløb 9 - referencebaserede og værdibaserede datatyper](forlob9_referencer/forlob9.md)
 
 ***TEST NUMMER 2***
 
-forløb 10 - referencebaserede og værdibaserede datatyper
-
-forlob 11 - funktioner
+forlob 10 - funktioner
 
 ***TEST NUMMER 3***
 
-forløb 12 - klasser og objekter
+forløb 11 - klasser og objekter
 
 ***TEST NUMMER 4***
 
