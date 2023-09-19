@@ -5,7 +5,7 @@ Flerdimensionelle arrays i Processing Java er en udvidelse af det grundlæggende
 Nedenfor vises eksempler på flerdimensionelle arrays i Java-Processing. Hver gang der er en ny firkantparentes, repræsenterer det et nyt 'indre' array:
 
 ```java
-int[ ][ ][ ] list = { { { 1 , 2 } , { 3 , 4 } } , { { 5 , 6 } , { 7 , 8 } } };
+int[][][] list = { { { 1 , 2 } , { 3 , 4 } } , { { 5 , 6 } , { 7 , 8 } } };
 //hvordan tror du man udskriver tallet 4?
 //hvordan tror du man opretter et tomt array med samme dimensioner?
 
