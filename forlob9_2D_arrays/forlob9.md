@@ -7,7 +7,6 @@ Her er et par eksempel på et flerdimensionellet array i java-processing. For hv
 
 ```java
 
-int[][][] list = {{{1,2},{3,4}},{{5,6},{7,8}}};
 //hvordan tror du man udskriver tallet 8?
 //hvordan tror du man opretter et tomt array med samme dimensioner?
 
