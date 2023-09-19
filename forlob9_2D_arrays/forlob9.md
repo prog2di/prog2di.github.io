@@ -6,13 +6,13 @@ Flerdimensionelle arrays i Processing Java er en udvidelse af det grundlæggende
 Her er et par eksempel på et flerdimensionellet array i java-processing. For hver gang man har en ny firkantparantes-set er der et nyt "indre" array:
 
 ```java
-
-//hvordan tror du man udskriver tallet 8?
+int[][] list = { { 1 , 2 } , { 3 , 4 } };
+//hvordan tror du man udskriver tallet 4?
 //hvordan tror du man opretter et tomt array med samme dimensioner?
 
 ```
 
-[her en god 2d-array tutorial af Daniel Shiffman](https://processing.org/tutorials/2darray)
+[Her en god 2d-array tutorial af Daniel Shiffman](https://processing.org/tutorials/2darray)
 
 ## Opgaver
 
