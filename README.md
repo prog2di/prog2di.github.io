@@ -34,7 +34,7 @@ Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af tes
 
 [forløn 9 - flerdimensionelle arrays](forlob9_2D_arrays/forlob9.md)
 
-[forløb 10 - referencebaserede og værdibaserede datatyper](forlob10_referencer/forlob9.md)
+[forløb 10 - referencebaserede og værdibaserede datatyper](forlob10_referencer/forlob10.md)
 
 ***TEST NUMMER 2***
 
