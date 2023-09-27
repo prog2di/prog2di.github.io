@@ -2,7 +2,6 @@
 
 - [test nummer 2 - pdf](test2_2g.pdf)
 - [test nummer 2 løsning - pdf](test2_2g_solution.pdf)
-- test nummer 2 løsning - video
 
 Denne anden test evaluerer de samme koncepter som den første test, men introducerer nu også emnerne arrays og for-loops.
 
