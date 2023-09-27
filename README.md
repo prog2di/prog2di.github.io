@@ -36,7 +36,7 @@ Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af tes
 
 [forløb 10 - referencebaserede og værdibaserede datatyper](forlob10_referencer/forlob10.md)
 
-***TEST NUMMER 2***
+[***TEST NUMMER 2***](test2/info_test2.md)
 
 forlob 11 - funktioner
 
