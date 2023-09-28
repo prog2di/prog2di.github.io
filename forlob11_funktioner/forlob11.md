@@ -5,8 +5,6 @@ Dette emne er af afgørende betydning - sørg for at forstå det! Dette forløb 
 
 <img src="fungif.gif" height="300">
 
-
-
 -------------------------------------------------------------------------
 
 
@@ -21,6 +19,7 @@ Dette emne er af afgørende betydning - sørg for at forstå det! Dette forløb 
 
 <img src="funtermer.gif" height="300">
 
+-------------------------------------------------------------------------
 
 
 
@@ -32,8 +31,7 @@ Dette emne er af afgørende betydning - sørg for at forstå det! Dette forløb 
 
 <img src="funkald.gif" height="300">
 
-
-
+-------------------------------------------------------------------------
 
 
 
@@ -43,8 +41,6 @@ Dette emne er af afgørende betydning - sørg for at forstå det! Dette forløb 
 Funktioner kan også kaldes uden at returnere noget dette gøres ved at skrive returtypen "void"
 
 -------------------------------------------------------------------------
-
-
 
 
 
