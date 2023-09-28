@@ -1,9 +1,13 @@
 # Funktioner
+
+
 Dette emne er af afgørende betydning - sørg for at forstå det! Dette forløb fokuserer på funktioner, også kaldet metoder i objektorienterede sprog som f.eks. Java (og Processing er baseret på Java under overfladen). Du kan tænke på funktioner eller metoder som "underprogrammer," som du kan kalde flere gange fra "hovedprogrammet". Der er også en lighed med matematiske funktioner, da du kan sende "input" til funktionen og få et "output" retur!
 
 <img src="fungif.gif">
 
-## Funktionens opbygning:
+## Funktionens opbygning
+
+
 - ***Funtionens navn*** : anvendes til at "kalde" funktionen, når den skal anvendes
 - ***Parametre også kaldet metodeinput eller funktionsinput*** : kan bruges til at sende værdier til funktionen, kaldes "agrumenter"
 - ***Metodekrop eller funktionskrop*** : selve funktionens funktionalitet er skrevet inde i metodekroppen, som altid i Java markeres dette med krølle-paranteser
@@ -14,5 +18,14 @@ Dette emne er af afgørende betydning - sørg for at forstå det! Dette forløb 
 
 ## Funktionens anvendelse
 
-- Argumenter
-- "Kald"
+
+- ***Kald*** : selve anvendelsen af funktion foregår ved at skrive funktionens navn efterfulgt af inputtet, dette kaldes "funktions-kaldet"
+- ***Argumenter*** :  input værdierne til funktionen kaldes argumenterne
+
+<img src="funkald.gif">
+
+
+## void 
+
+
+Funktioner kan også kaldes uden at returnere noget dette gøres ved at skrive returtypen "void"
