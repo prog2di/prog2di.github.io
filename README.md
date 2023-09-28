@@ -40,6 +40,8 @@ Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af tes
 
 forlob 11 - funktioner
 
+projekt 1 - Projekt om vektorer i 2D: Færge over Limfjorden dobbeltfaglig projekt matematik og programmering
+
 ***TEST NUMMER 3***
 
 forløb 12 - klasser og objekter
