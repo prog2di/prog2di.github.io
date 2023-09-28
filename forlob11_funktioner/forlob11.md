@@ -11,3 +11,5 @@ Nye faglige begreber, som I skal lære, inkluderer:
 - Returtype
 - Metodekrop eller funktionskrop
 - Metodeinput eller funktionsinput
+
+<img src="funtermer.gif">
