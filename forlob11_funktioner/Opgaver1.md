@@ -1,4 +1,4 @@
-# Opgaver i funktioner - del 1
+# Opgaver i funktioner
 
 1. Hvad bruges krølle-parenteser til i en funktion (og hvad bruges krølle-parenteser til generelt...)
 2. Hvad anvendes almindelige parenteser til i en funktion
@@ -15,3 +15,13 @@
 13. (frivillig) Hvad betyder rekursion - prøv at slå det op
 14. (frivillig) Give et eksempel på en funktion, der anvender rekursion. Funktionen skal modtage et tal som parameter og returnere fakultet af tallet.
 F.eks.  beregnes fakultet af 5 således 5! = 5x4x3x2x1
+
+
+## Meget svære opgaver i funktioner
+
+15. Lav en rekursiv funktion "int fib(int t)" der kan retunere et bestemt tal i fibonacci-talrækken. F.eks. fib(6) = 5 og fib(8) = 13 
+- https://da.wikipedia.org/wiki/Fibonacci-tal
+- https://en.wikipedia.org/wiki/Recursion
+
+16. Lav en anden funktion, som vha. "fib" tegner følgende mønster:
+- https://da.wikipedia.org/wiki/Fibonacci-tal#/media/Fil:FibonacciBlocks.svg
