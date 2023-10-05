@@ -40,11 +40,9 @@ Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af tes
 
 [forlob 11 - funktioner](forlob11_funktioner/forlob11.md)
 
-[projekt 1 - del. 1 - vektorer i 2D: færge over limfjorden (med matematik)](projekt1_feargen/projekt1.md)
+[projekt 1 - Færge over limfjorden](projekt1_feargen/projekt1.md)
 
 ***TEST NUMMER 3***
-
-projekt 1 - del. 2 - vektorer i 2D: færge over limfjorden (med matematik)
 
 forløb 12 - klasser og objekter
 
