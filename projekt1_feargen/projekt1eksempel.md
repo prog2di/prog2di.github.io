@@ -1,3 +1,5 @@
+![sejlsim.png](sejlsim.gif)
+
 ```java
 PImage kort;
 
@@ -46,5 +48,3 @@ void mousePressed(){
  skib_start.set(mouseX,mouseY); 
 }
 ```
-
-![sejlsim.png](sejlsim.png)
