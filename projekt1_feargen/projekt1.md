@@ -27,29 +27,31 @@ Det er selvfølgelig tilladt at have flere funktionaliteter:
 ## Projektplan
 
 <table>
+<tr>
     <th style = "text-align: left">dato</th>
     <th style = "text-align: left">indhold</th>
+</tr>
   <tr>
-    <td style = "text-align: left">Fre d.6/10 - 1</td>
+    <td style = "text-align: left">Fre 6/10 - 1</td>
     <td style = "text-align: left">(1) lav skitser over programmets brugerflade og </br> 
                                     (2) lav forløbig liste over programmets funktioner</td>
     <td> 
   </tr>
   <tr>
-    <td style = "text-align: left">Fre d.6/10 - 2</td>
+    <td style = "text-align: left">Fre 6/10 - 2</td>
     <td style = "text-align: left">Programmer info-panel for skibs og strøm hastighed</td>
     <td> 
   </tr>
   <tr>
-    <td style = "text-align: left">Onsdag d.11/10 - 1</td>
+    <td style = "text-align: left">Ons 11/10 - 1</td>
     <td style = "text-align: left">Programmer simulering/animation af skibs-bevægelsen</td>
   </tr>
     <tr>
-    <td style = "text-align: left">Onsdag d.11/10 - 2</td>
-    <td style = "text-align: left">Programmer start, stop og reset af skibs-bevægelsen og andet ...</td>
+    <td style = "text-align: left">Ons 11/10 - 2</td>
+    <td style = "text-align: left">Programmer start, stop og 'reset' af skibs-bevægelsen og ...</td>
   </tr>
   <tr>
-    <td colspan="3" style = "text-align: left">Aflevering fredag d.13/10 kl.</td>
+    <td colspan="2" style = "text-align: left">Aflevering fredag d.13/10 kl.</td>
   </tr>
 </table>
 
