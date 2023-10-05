@@ -41,7 +41,6 @@ Det er tilladt at udvide krav-listen:
         <td style = "text-align: left">2 - fre 6/10</td>
         <td style = "text-align: left">programmer info-panel for skibs og strøm hastighed</td> 
     </tr>
-    <tr><td colspan="2">-</td></tr>
     <tr>
         <td style = "text-align: left"></td>
         <td style = "text-align: left">programmer styring af skibs og strøm hastighed</td> 
