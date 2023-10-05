@@ -1,6 +1,6 @@
 # Projekt : Færge over Limfjorden 
 
-I skal i dette projekt lave et værktøj, der kan simulere matematikprojektet ***Projekt om vektorer i 2D: Færge over Limfjorden***.
+I skal i dette projekt lave et værktøj inspireret af matematikprojektet ***Projekt om vektorer i 2D: Færge over Limfjorden***.
 Udviklingen af projekterne skal foregå i grupper på 2 eller, hvis aftalt, 3 personer.
 
 ![faerge.png](faerge.png)
@@ -15,7 +15,7 @@ Det er tilladt at udvide krav-listen:
 - ***Rigtigt sø-kort*** med størrelsforhold der matcher færge og strøm hastighed
 
 
-## Diverse materiale
+## Info materiale
 
 [Løsnings-eksempel](projekt1eksempel.md)
 
@@ -60,7 +60,7 @@ Det er tilladt at udvide krav-listen:
     </tr>
     <tr><td colspan="2">-</td>
     <tr>
-        <td colspan="2" style = "text-align: left">Aflevering fredag d.13/10 kl.</td>
+        <td colspan="2" style = "text-align: left">Aflevering fredag d.13/10 kl.20:00</td>
     </tr>
 </table>
 
