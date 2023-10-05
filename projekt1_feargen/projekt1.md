@@ -32,7 +32,7 @@ Det er selvfølgelig tilladt at have flere funktionaliteter:
     <td style = "text-align: left">Programmer start, stop og reset af skibs-bevægelsen og andet ...</td>
   </tr>
   <tr>
-    <td style = "text-align: left">Aflevering fredag d.13/10</td>
+    <td colspan="3" style = "text-align: left">Aflevering fredag d.13/10 kl.</td>
   </tr>
 </table>
 
