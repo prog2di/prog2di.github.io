@@ -1,4 +1,4 @@
-<img src="sejlSim.gif" height="300">
+<img src="sejlSim.gif" height="600">
 
 ```java
 PImage kort;
