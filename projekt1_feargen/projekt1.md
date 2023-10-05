@@ -60,7 +60,7 @@ Det er tilladt at udvide krav-listen:
 </table>
 
 
-</br>
+
 
 
 ## Aflevering senest - fredag d.27/10 kl.20:00
