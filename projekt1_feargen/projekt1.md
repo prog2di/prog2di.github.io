@@ -32,24 +32,33 @@ Det er selvfølgelig tilladt at have flere funktionaliteter:
     </tr>
     <tr>
         <td style = "text-align: left">1 - fre 6/10</td>
-        <td style = "text-align: left">(1) lav skitser over programmets brugerflade</td>
+        <td style = "text-align: left">(1) tegn skitser over programmets brugerflade</td>
     </tr>
     <tr>
         <td style = "text-align: left"></td>
-        <td style = "text-align: left">(2) lav forløbig liste over programmets funktioner</td>
+        <td style = "text-align: left">(2) skriv forløbig liste over programmets funktioner</td>
     </tr>
+    <tr><td colspan="2">-</td>
     <tr>
         <td style = "text-align: left">2 - fre 6/10</td>
-        <td style = "text-align: left">Programmer info-panel for skibs og strøm hastighed</td> 
+        <td style = "text-align: left">programmer info-panel for skibs og strøm hastighed</td> 
     </tr>
+    <tr><td colspan="2">-</td>
+    <tr>
+        <td style = "text-align: left">2 - fre 6/10</td>
+        <td style = "text-align: left">programmer info-panel for skibs og strøm hastighed</td> 
+    </tr>
+    <tr><td colspan="2">-</td>
     <tr>
         <td style = "text-align: left">1 - ons 11/10</td>
-        <td style = "text-align: left">Programmer simulering/animation af skibs-bevægelsen</td>
+        <td style = "text-align: left">programmer simulering/animation af skibs-bevægelsen</td>
     </tr>
+    <tr><td colspan="2">-</td>
     <tr>
-        <td style = "text-align: left">2 -ons 11/10</td>
-        <td style = "text-align: left">Programmer start, stop og 'reset' af skibs-bevægelsen og ...</td>
+        <td style = "text-align: left">2 - ons 11/10</td>
+        <td style = "text-align: left">programmer start/stop/'reset' simulering og tilpas kortet...</td>
     </tr>
+    <tr><td colspan="2">-</td>
     <tr>
         <td colspan="2" style = "text-align: left">Aflevering fredag d.13/10 kl.</td>
     </tr>
