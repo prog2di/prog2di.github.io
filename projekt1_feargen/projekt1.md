@@ -34,7 +34,7 @@ Det er tilladt at udvide krav-listen:
     </tr>
     <tr>
         <td style = "text-align: left"></td>
-        <td style = "text-align: left">skriv forløbig liste over programmets funktioner</td>
+        <td style = "text-align: left">skriv foreløbig liste over programmets funktioner</td>
     </tr>
     <tr><td colspan="2">-</td></tr>
     <tr>
@@ -46,7 +46,7 @@ Det er tilladt at udvide krav-listen:
         <td style = "text-align: left">programmer styring af skibs og strøm hastighed</td> 
     </tr>
     <tr><td colspan="2">-</td></tr>
-    <tr><td colspan="2">Efterårsferie...</td></tr>
+    <tr><td colspan="2">...Efterårsferie...</td></tr>
     <tr><td colspan="2">-</td></tr>
     <tr>
         <td style = "text-align: left">3 - ons 25/10</td>
@@ -59,7 +59,7 @@ Det er tilladt at udvide krav-listen:
     </tr>
     <tr><td colspan="2">-</td></tr>
     <tr>
-        <td colspan="2" style = "text-align: left">Aflevering fredag d.27/10 senest kl.20:00 - i får en karakter for projektet</td>
+        <td colspan="2">Aflevering fredag d.27/10 senest kl.20:00 - i får en karakter for projektet</td>
     </tr>
 </table>
 
