@@ -21,6 +21,8 @@ Det er tilladt at udvide krav-listen:
 - [PVector datatypen](https://processing.org/reference/PVector.html) : Det er ikke et krav, men hvis man ikke ønsker lave alle vektor-beregninger bør man læse om PVector     
 - [2D Transformationer til simulering](https://processing.org/tutorials/transform2d) : Dette er heller ikke et krav, men hvis man vil rotere billeder eller andet grafisk bør man læse denne tutorial om 2d transformationer            
 
+----------------------------------------------------------------------------------------------------
+
 ## Projektplan
 
 <table>
@@ -60,7 +62,7 @@ Det er tilladt at udvide krav-listen:
 </table>
 
 
-
+----------------------------------------------------------------------------------------------------
 
 
 ## Aflevering senest - fredag d.27/10 kl.20:00
