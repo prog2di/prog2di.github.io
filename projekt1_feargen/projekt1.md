@@ -57,15 +57,11 @@ Det er tilladt at udvide krav-listen:
         <td style = "text-align: left">4 - fre 27/10</td>
         <td style = "text-align: left">programmer start/stop/reset simulering og tilpas kortet...</td>
     </tr>
-    <tr><td colspan="2">-</td></tr>
-    <tr>
-        <td colspan="2">.....Aflevering.....</td>
-    </tr>
 </table>
 
 ## Aflevering senest - fredag d.27/10 kl.20:00
 
-- Skitser af brugerflade og listen over de planlagte funktioner
+- Tegning af brugerflade og listen over de planlagte funktioner
 - Koden som zip-fil
 - Video der forklarer kode og produkt 
 
