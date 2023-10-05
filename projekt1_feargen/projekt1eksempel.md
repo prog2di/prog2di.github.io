@@ -1,4 +1,4 @@
-![sejlsim.png](sejlsim.gif)
+<img src="sejlSim.gif" height="300">
 
 ```java
 PImage kort;
