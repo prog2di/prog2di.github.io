@@ -1,7 +1,6 @@
-# Projekt om vektorer i 2D : Færge over Limfjorden 
-## Dobbeltfagligt projekt med Matematik
+# Projekt : Færge over Limfjorden 
 
-I skal i dette projekt lave et værktøj, der kan simulere det i har arbejdet med i matematikprojektet ***Projekt om vektorer i 2D: Færge over Limfjorden***.
+I skal i dette projekt lave et værktøj, der kan simulere matematikprojektet ***Projekt om vektorer i 2D: Færge over Limfjorden***.
 Udviklingen af projekterne skal foregå i grupper på 2 eller, hvis aftalt, 3 personer.
 
 ![faerge.png](faerge.png)
