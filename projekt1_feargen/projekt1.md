@@ -8,20 +8,18 @@ Udviklingen af projekterne skal foregå i grupper på 2 eller, hvis aftalt, 3 pe
 ## Krav til programmet
 
 Det er tilladt at udvide krav-listen:
-- ***Opbygge programmet vha. funktioner*** med hver sit et "ansvars-område" og et omfang på højest 10 "kode-linjer"
+- ***Opbyg koden af funktioner*** med hver sit et "ansvars-område" og et omfang på højest 10 "kode-linjer"
 - ***Bruger-kontrolleret hastighed og kurs*** for både færgen og strømmen 
 - ***Information-panel*** for både færgen og strøm
 - ***Bruger-kontrolleret simulering*** med start, stop og "reset"
 - ***Rigtigt sø-kort*** med størrelsforhold der matcher færge og strøm hastighed
 
 
-## Info materiale
+## Relevant materiale
 
-[Løsnings-eksempel](projekt1eksempel.md)
-
-[PVector datatypen](https://processing.org/reference/PVector.html)
-
-[2D Transformationer til simulering](https://processing.org/tutorials/transform2d)
+[Løsnings-eksempel](projekt1eksempel.md)           
+[PVector datatypen](https://processing.org/reference/PVector.html)       
+[2D Transformationer til simulering](https://processing.org/tutorials/transform2d)             
 
 ## Projektplan
 
@@ -32,33 +30,33 @@ Det er tilladt at udvide krav-listen:
     </tr>
     <tr>
         <td style = "text-align: left">1 - fre 6/10</td>
-        <td style = "text-align: left">(1) tegn skitser over programmets brugerflade</td>
+        <td style = "text-align: left">tegn skitser over programmets brugerflade</td>
     </tr>
     <tr>
         <td style = "text-align: left"></td>
-        <td style = "text-align: left">(2) skriv forløbig liste over programmets funktioner</td>
+        <td style = "text-align: left">skriv forløbig liste over programmets funktioner</td>
     </tr>
-    <tr><td colspan="2">-</td>
+    <tr><td colspan="2">-</td></tr>
     <tr>
         <td style = "text-align: left">2 - fre 6/10</td>
         <td style = "text-align: left">programmer info-panel for skibs og strøm hastighed</td> 
     </tr>
-    <tr><td colspan="2">-</td>
+    <tr><td colspan="2">-</td></tr>
     <tr>
         <td style = "text-align: left">2 - fre 6/10</td>
         <td style = "text-align: left">programmer info-panel for skibs og strøm hastighed</td> 
     </tr>
-    <tr><td colspan="2">-</td>
+    <tr><td colspan="2">-</td></tr>
     <tr>
         <td style = "text-align: left">1 - ons 11/10</td>
         <td style = "text-align: left">programmer simulering/animation af skibs-bevægelsen</td>
     </tr>
-    <tr><td colspan="2">-</td>
+    <tr><td colspan="2">-</td></tr>
     <tr>
         <td style = "text-align: left">2 - ons 11/10</td>
         <td style = "text-align: left">programmer start/stop/'reset' simulering og tilpas kortet...</td>
     </tr>
-    <tr><td colspan="2">-</td>
+    <tr><td colspan="2">-</td></tr>
     <tr>
         <td colspan="2" style = "text-align: left">Aflevering fredag d.13/10 kl.20:00</td>
     </tr>
