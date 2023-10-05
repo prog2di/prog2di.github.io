@@ -25,10 +25,6 @@ Det er tilladt at udvide krav-listen:
 
 <table>
     <tr>
-        <th style = "text-align: left">dato</th>
-        <th style = "text-align: left">indhold</th>
-    </tr>
-    <tr>
         <td style = "text-align: left">1 - fre 6/10</td>
         <td style = "text-align: left">tegn skitser over programmets brugerflade</td>
     </tr>
