@@ -59,6 +59,10 @@ Det er tilladt at udvide krav-listen:
     </tr>
 </table>
 
+
+</br>
+
+
 ## Aflevering senest - fredag d.27/10 kl.20:00
 
 - Tegning af brugerflade og listen over de planlagte funktioner
