@@ -38,7 +38,7 @@ Det er tilladt at udvide krav-listen:
     </tr>
     <tr><td colspan="2">-</td></tr>
     <tr>
-        <td style = "text-align: left">2 - fre 6/10</td>
+        <td style = "text-align: left">2 - fre 6/10 og ons 11/10</td>
         <td style = "text-align: left">programmer info-panel for skibs og strøm hastighed</td> 
     </tr>
     <tr>
@@ -47,17 +47,17 @@ Det er tilladt at udvide krav-listen:
     </tr>
     <tr><td colspan="2">-</td></tr>
     <tr>
-        <td style = "text-align: left">1 - ons 11/10</td>
+        <td style = "text-align: left">3 - ons 25/10</td>
         <td style = "text-align: left">programmer simulering/animation af skibs-bevægelsen</td>
     </tr>
     <tr><td colspan="2">-</td></tr>
     <tr>
-        <td style = "text-align: left">2 - ons 11/10</td>
+        <td style = "text-align: left">4 - fre 27/10</td>
         <td style = "text-align: left">programmer start/stop/'reset' simulering og tilpas kortet...</td>
     </tr>
     <tr><td colspan="2">-</td></tr>
     <tr>
-        <td colspan="2" style = "text-align: left">Aflevering fredag d.13/10 kl.20:00</td>
+        <td colspan="2" style = "text-align: left">Aflevering fredag d.27/10 senest kl.20:00 - i får en karakter for projektet</td>
     </tr>
 </table>
 
