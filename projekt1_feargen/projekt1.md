@@ -16,33 +16,23 @@ Det er selvfølgelig tilladt at have flere funktionaliteter:
 
 ## Projektplan
 
-|              |                                                                                                 |
-|--------------|-------------------------------------------------------------------------------------------------|
-| fr 6/10      | 1. Tegn skitser af det program i tænker at lave og få det godkendt hos jeres underviser         |
-|              | 2. Liste over funktioner, der skal programmeres, og få dem godkendt hos jeres underviser        |
-|              |                                                                                                 |
-|              | 3. Programmer informations-panel og bruger-sinteraktion                                          |
-|              |                                                                                                 |
-| on 11/10     | 4. Programmer færge animation                                                                   |
-|              |                                                                                                 |
-| fr 13/10     | 5. Fejl og mangler...                                                                           |
-|              |                                                                                                 |
-
 <table>
+    <th style = "text-align: left">Dato</th>
+    <th style = "text-align: left">1. modul (minimums plan)</th>
+    <th style = "text-align: left">2. modul (minimums plan)</th>   
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <td style = "text-align: left">Fredag d.6/10</td>
+    <td style = "text-align: left">(1) Lav skitser over programmets brugerflade og (2) forløbig liste over programmets funktioner</td>
+    <td style = "text-align: left">Programmer info-panel for skibs og strøm hastighed</td>
+    <td> 
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td style = "text-align: left">Onsdag d.11/10</td>
+    <td style = "text-align: left">Programmer simulering/animation af skibs-bevægelsen</td>
+    <td style = "text-align: left">Programmer start, stop og reset af skibs-bevægelsen og andet ...</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td style = "text-align: left">Aflevering fredag d.13/10</td>
   </tr>
 </table>
 
