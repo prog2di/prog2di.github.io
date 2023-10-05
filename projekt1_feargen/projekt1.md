@@ -59,7 +59,7 @@ Det er tilladt at udvide krav-listen:
     </tr>
     <tr><td colspan="2">-</td></tr>
     <tr>
-        <td colspan="2">Aflevering fredag d.27/10 senest kl.20:00 - i får en karakter for projektet</td>
+        <td colspan="2">Aflevering fre. d.27/10 kl.20:00 - i får karakter</td>
     </tr>
 </table>
 
