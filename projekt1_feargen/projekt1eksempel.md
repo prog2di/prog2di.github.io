@@ -1,6 +1,6 @@
 Et løsnings-forslag:
 
-<img src="sejlSim.gif" height="800">
+<img src="sejlSim.gif" height="600">
 
 Og koden (funktionerne står i andre tabs):
 

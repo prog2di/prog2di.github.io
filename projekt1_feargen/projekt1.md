@@ -3,7 +3,7 @@
 I skal i dette projekt lave et værktøj inspireret af matematikprojektet ***Projekt om vektorer i 2D: Færge over Limfjorden***.
 Udviklingen af projekterne skal foregå i grupper på 2 eller, hvis aftalt, 3 personer.
 
-![faerge.png](faerge.png)
+<img src="sejlSim.gif" height="300">
 
 ## Krav til programmet
 
