@@ -1,4 +1,8 @@
-<img src="sejlSim.gif" height="600">
+Et løsnings-forslag:
+
+<img src="sejlSim.gif" height="800">
+
+Og koden (funktionerne står i andre tabs):
 
 ```java
 PImage kort;
