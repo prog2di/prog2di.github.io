@@ -1,8 +1,4 @@
-Et løsnings-forslag:
-
-<img src="sejlSim.gif" height="600">
-
-Og koden (funktionerne står i andre tabs):
+Et løsningsforslag til kode-opbygning (funktionerne står i andre tabs):
 
 ```java
 PImage kort;
@@ -52,3 +48,7 @@ void mousePressed(){
  skib_start.set(mouseX,mouseY); 
 }
 ```
+
+Et løsningsforslag til brugerfladen:
+
+<img src="sejlSim.gif" height="600">
