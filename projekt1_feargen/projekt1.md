@@ -5,14 +5,14 @@ Udviklingen af projekterne skal foregå i grupper på 2 eller, hvis aftalt, 3 pe
 
 ![faerge.png](faerge.png)
 
-## Minimumskrav til projektet. 
+## Krav til programmet
 
-Det er selvfølgelig tilladt at have flere funktionaliteter:
-- I skal opbygge programmet vha. funktioner, hvor hver funktion kun må have et "ansvars-område" og højest have et omfang på 10 "kode-linjer"
-- Det skal være muligt at vælge en hastighed og kurs for både færgen og strømmen, imens programmet kører 
-- Der skal være information-panel for både færgen og strømmen
-- Det skal være muligt at starte, stoppe og vælge "reset" af en simuleringen af sejlturen med færgen
-- Der skal være et kort som baggrund, der har et størrelsforhold der matcher størrelseforholdet på beregningen af færge og strøm hastighed
+Det er tilladt at udvide krav-listen:
+- ***Opbygge programmet vha. funktioner*** med hver sit et "ansvars-område" og et omfang på højest 10 "kode-linjer"
+- ***Bruger-kontrolleret hastighed og kurs*** for både færgen og strømmen 
+- ***Information-panel*** for både færgen og strøm
+- ***Bruger-kontrolleret simulering*** med start, stop og "reset"
+- ***Rigtigt sø-kort*** med størrelsforhold der matcher færge og strøm hastighed
 
 
 ## Diverse materiale
