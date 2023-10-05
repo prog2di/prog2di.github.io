@@ -46,6 +46,8 @@ Det er tilladt at udvide krav-listen:
         <td style = "text-align: left">programmer styring af skibs og strøm hastighed</td> 
     </tr>
     <tr><td colspan="2">-</td></tr>
+    <tr><td colspan="2">Efterårsferie...</td></tr>
+    <tr><td colspan="2">-</td></tr>
     <tr>
         <td style = "text-align: left">3 - ons 25/10</td>
         <td style = "text-align: left">programmer simulering/animation af skibs-bevægelsen</td>
@@ -53,7 +55,7 @@ Det er tilladt at udvide krav-listen:
     <tr><td colspan="2">-</td></tr>
     <tr>
         <td style = "text-align: left">4 - fre 27/10</td>
-        <td style = "text-align: left">programmer start/stop/'reset' simulering og tilpas kortet...</td>
+        <td style = "text-align: left">programmer start/stop/reset simulering og tilpas kortet...</td>
     </tr>
     <tr><td colspan="2">-</td></tr>
     <tr>
