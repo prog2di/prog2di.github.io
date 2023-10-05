@@ -36,9 +36,13 @@ Det er tilladt at udvide krav-listen:
         <td style = "text-align: left"></td>
         <td style = "text-align: left">skriv foreløbig liste over programmets funktioner</td>
     </tr>
+    <tr>
+        <td style = "text-align: left"></td>
+        <td style = "text-align: left">læs tutorials og test ideer</td>
+    </tr>
     <tr><td colspan="2">-</td></tr>
     <tr>
-        <td style = "text-align: left">2 - fre 6/10 og ons 11/10</td>
+        <td style = "text-align: left">2 - ons 11/10</td>
         <td style = "text-align: left">programmer info-panel for skibs og strøm hastighed</td> 
     </tr>
     <tr>
