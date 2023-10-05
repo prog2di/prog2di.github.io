@@ -17,9 +17,9 @@ Det er tilladt at udvide krav-listen:
 
 ## Relevant materiale
 
-[Løsnings-eksempel](projekt1eksempel.md)           
-[PVector datatypen](https://processing.org/reference/PVector.html)       
-[2D Transformationer til simulering](https://processing.org/tutorials/transform2d)             
+- [Løsnings-eksempel](projekt1eksempel.md) : Forslag til funktioner og funktionskald fra "draw", "keyPressed" og "mousePressed"        
+- [PVector datatypen](https://processing.org/reference/PVector.html) : Det er ikke et krav, men hvis man ikke kode en masse vektor-beregninger bør man læse om PVector     
+- [2D Transformationer til simulering](https://processing.org/tutorials/transform2d) :Dette er heller ikke et krav, men hvis man vil rotere billeder eller andet grafisk bør man læse denne tutorial om 2d transformationer            
 
 ## Projektplan
 
