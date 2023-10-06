@@ -1,7 +1,9 @@
 # Projekt : Færge over Limfjorden 
 
-I skal i dette projekt lave et værktøj inspireret af matematikprojektet ***Projekt om vektorer i 2D: Færge over Limfjorden***.
-Udviklingen af projekterne skal foregå i grupper på 2 eller, hvis aftalt, 3 personer.
+I skal i dette projekt lave et værktøj til matematikprojektet:       
+***Projekt om vektorer i 2D: Færge over Limfjorden***.
+Udviklingen af projekterne skal foregå i grupper på 2 eller, hvis aftalt, 3 personer.    
+Og i får karakter for afleveringen.
 
 <img src="sejlSim.gif" height="400">
 
