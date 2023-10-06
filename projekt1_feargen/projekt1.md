@@ -1,7 +1,7 @@
 # Projekt : Færge over Limfjorden 
 
 I skal i dette projekt lave et værktøj til matematikprojektet:       
-***Projekt om vektorer i 2D: Færge over Limfjorden***.
+***Projekt om vektorer i 2D: Færge over Limfjorden***      
 Udviklingen af projekterne skal foregå i grupper på 2 eller, hvis aftalt, 3 personer.    
 Og i får karakter for afleveringen.
 
