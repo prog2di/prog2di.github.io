@@ -6,7 +6,8 @@ Mvh underviseren selv Anders J.R. Petersen
 
 -----------------------------------
 
-[se træningsopgaver her](opgaver/opgave1.md)
+[træningsopgaver på /www.hackerearth.com](opgaver1/beskrivelse.md)
+[træningsopgaver i prcessing](opgaver2/beskrivelse.md)
 
 -----------------------------------
 
