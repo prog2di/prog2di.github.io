@@ -8,7 +8,7 @@ Mvh underviseren selv Anders J.R. Petersen
 
 [træningsopgaver 1 : med java](opgaver1/beskrivelse.md)
 
-[træningsopgaver 2 : med prcessing](opgaver2/beskrivelse.md)
+[træningsopgaver 2 : med processing](opgaver2/beskrivelse.md)
 
 -----------------------------------
 

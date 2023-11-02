@@ -1,11 +1,11 @@
 # Opgaver i basal implementation og funktioner
 
-Jeg har taget udgangspunkt i forskellig opgaver fra "www.hackerearth.com" indenfor emnet "basic-programming, basics of Implementation" - og omskrevet opgaverne list så de løses med processing.
+Jeg har taget udgangspunkt opgaver fra "www.hackerearth.com" indenfor emnet "basics of Implementation" - og omskrevet opgaverne så de kan løses med processing.
 
-I følge hackerearth er "Basics of Implementation" følgende:        
+Hackerearth definerer "Basics of Implementation" således:        
 ***"Questions that are based on ad-hoc ideas and brute-force solutions"***
 
-Jeg har lavet opgaverne således, at det er nødvendigt i skriver funktioner til at løse dem.
+Det er nødvendigt i skriver funktioner for at løse opgaverne.
 
 # Opgaverne
 

@@ -6,6 +6,7 @@ Se beskrivelse af den oprindelige opgave her:
 Krav:
 - implementer funktionen "contains(..,..)" der kan fortælle om et bestemt tal er i et array
 - anvend funktionen "contain" til at implementere funktionen "min_max(...)" der kan finde ud af om et array indeholder alle fortløbende tal imellem de to elementer der er min og max
+
 ```java
 void setup(){
   int[] list1 = {1,2,3,5,6};

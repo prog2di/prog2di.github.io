@@ -6,8 +6,8 @@ Se beskrivelse af den oprindelige opgave her:
 I behøver kun løse problemet med K=1, dvs. fjernelse af et enkelt tal.
 
 Krav til opgaven:
-- Implementer funkion "removeNr", der kan fjerne en enkelt char i en string. 
-- Implementer funktionen "largest", der løser opgaven for K=1, vha. funktionen "removeNr".   
+- Implementer først funktionen "removeNr", der kan fjerne en enkelt char i en string. 
+- Implementer først funktionen "largest", der løser opgaven for K=1, vha. funktionen "removeNr".   
 
 ```java
 void setup(){
@@ -24,25 +24,21 @@ void setup(){
 ```
 
 ## Hints
-
 Konvertering fra int til string er nemt anvend f.eks. processings indbyggede konverteringsfunktion "str(..)":
 ```java
-int tal     = 1234;
-String w    = str(tal); 
+String w    = str(1234); 
 ```
 
 Til at fjerne et enkelt ciffer i en integer, kan i f.eks. konvertere den til en String og anvende funktionen substring:
 ```java
 String word     = "Anders";
-String subWord  = word.substring(0,2); 
-//subWord er nu "An"
+String subWord  = word.substring(0,2); //subWord er nu "An"
 ```
 
 For at sammenligne de forskellige tal kan i f.eks. anvende processings indbyggede koverteringsfunktion "int(..)":
 ```java
 String word     = "1234";
-int tal         = int(word); 
-//tal indeholder nu heltallet 1234
+int tal         = int(word); //tal indeholder nu heltallet 1234
 ```
 
 ## Frivilig

@@ -14,7 +14,6 @@ void setup(){
 ```
 
 ## Hints
-
 Til at hente en enkelt char dvs. et enkelt tegn fra en string kan man anvende "charAt(..)" funktionen:
 
 ```java
