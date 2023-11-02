@@ -13,6 +13,6 @@ Det er nødvendigt i skriver funktioner for at løse opgaverne.
 
 [opgave 2.2 - count string](opgave2_count.md)
 
-[opgave 3.3 - beauty factor](opgave3_beautyfactor.md)
+[opgave 2.3 - beauty factor](opgave3_beautyfactor.md)
 
-[opgave 4.4 - min max](opgave4_minmax.md)
+[opgave 2.4 - min max](opgave4_minmax.md)
