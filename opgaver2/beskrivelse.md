@@ -2,9 +2,10 @@
 
 Jeg har taget udgangspunkt i forskellig opgaver fra "www.hackerearth.com" indenfor emnet "basic-programming, basics of Implementation" - og omskrevet opgaverne list så de løses med processing.
 
-I følge hackerearth er "Basics of Implementation" følgende: ***"Questions that are based on ad-hoc ideas and brute-force solutions"***
+I følge hackerearth er "Basics of Implementation" følgende:        
+***"Questions that are based on ad-hoc ideas and brute-force solutions"***
 
-Jeg lavet opgaverne således, at det er nødvendigt i skriver funktioner til at løse dem.
+Jeg har lavet opgaverne således, at det er nødvendigt i skriver funktioner til at løse dem.
 
 # Opgaverne
 

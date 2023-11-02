@@ -6,8 +6,8 @@ Se beskrivelse af den oprindelige opgave her:
 I behøver kun løse problemet med K=1, dvs. fjernelse af et enkelt tal.
 
 Krav til opgaven:
-- Implementer følgende kode, og selve løsningen i funktionen "largest".   
-- Funktionen "largest" skal bruge en anden funkion "removeNr", der kan fjerne en enkelt char i en string. 
+- Implementer funkion "removeNr", der kan fjerne en enkelt char i en string. 
+- Implementer funktionen "largest", der løser opgaven for K=1, vha. funktionen "removeNr".   
 
 ```java
 void setup(){
