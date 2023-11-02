@@ -3,7 +3,7 @@
 Se beskrivelse af den oprindelige opgave her:
 [https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/min-max-3/](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/min-max-3/)
 
-Krav:
+## Krav til opgaven:
 - implementer funktionen "contains(..,..)" der afgør om et array indeholder et bestemt tal
 - implementer funktionen "min_max(......)" der afgør om et array indeholder alle tal fra min til max, vha. "contains"
 

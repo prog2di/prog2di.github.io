@@ -3,9 +3,8 @@
 Se beskrivelse af den oprindelige opgave her:
 [https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/largest-number-10-ca319b09/](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/largest-number-10-ca319b09/)
 
+## Krav til opgaven:
 I behøver kun løse problemet med K=1, dvs. fjernelse af et enkelt tal.
-
-Krav til opgaven:
 - Implementer funktionen "removeNr", der kan fjerne en enkelt char i en string. 
 - Implementer funktionen "largest", der løser opgaven for K=1, vha. funktionen "removeNr".   
 
@@ -23,7 +22,7 @@ void setup(){
 }
 ```
 
-## Hints
+## Hints:
 Konvertering fra int til string er nemt anvend f.eks. processings indbyggede konverteringsfunktion "str(..)":
 ```java
 String w    = str(1234); 
@@ -41,5 +40,5 @@ String word     = "1234";
 int tal         = int(word); //tal indeholder nu heltallet 1234
 ```
 
-## Frivilig
+## Frivilligt:
 Måske du kan udbygge din løsning vha. rekusion, så det er muligt fjerne op til tre tal, dvs. K=3??

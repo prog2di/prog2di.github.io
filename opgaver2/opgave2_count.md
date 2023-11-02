@@ -3,6 +3,7 @@
 Se beskrivelse af den oprindelige opgave her:
 [https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/count-in-string-5114694d/](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/count-in-string-5114694d/)
 
+## Krav til opgaven:
 Implementer følgende kode, og selve løsningen i funktionen "countChar":
 
 ```java
@@ -13,7 +14,7 @@ void setup(){
 }
 ```
 
-## Hints
+## Hints:
 Til at hente en enkelt char dvs. et enkelt tegn fra en string kan man anvende "charAt(..)" funktionen:
 
 ```java

@@ -3,10 +3,10 @@
 Se beskrivelse af den oprindelige opgave her:
 [https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/beauty-factor-bab8f334/](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/beauty-factor-bab8f334/)
 
+## Krav til opgaven:
 I den oprindelige opgave beskrives en såkaldt "beauty factor". Dette tal opnåes ved at lægge alle cifre i et tal sammen og gentage denne process til der kun er et ciffer,- dette ene ciffer er den såkaldte "beauty factor".... spørg hvis i er forvirrede ;-)
 I skal implementere en løsning til at beregne denne "beauty factor".
 
-Krav:
 - Implementer funktionen "beautifyOnce", der beregner summen af et vilkårligt tals cifre:
 - Implementer funktionen "beautyFactor", der beregner hvor mange gange man skal anvende "beautifyOnce" før man får et tal på et enkelt ciffer:
 
@@ -23,7 +23,8 @@ void setup(){
 }
 ```
 
-
+## Frivilligt:
+I må selvfølgelig gerne lave hele opgaven som den er beskrevet på hackerearth
 
 
 
