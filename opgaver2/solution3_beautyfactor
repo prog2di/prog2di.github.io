@@ -1,0 +1,29 @@
+void setup(){
+  //Beregner sum af cifre i et tal
+  println(beautifyOnce(123)); //udskriver tallet 6,  da 1+2+3=6
+  println(beautifyOnce(234)); //udskriver tallet 9,  da 2+3+4=9
+  println(beautifyOnce(444)); //udskriver tallet 12, da 4+4+4=12
+
+  //Beregner "beauty factor" ...
+  println(beautyFactor(444)); //udskriver tallet 3, da 4+4+4=12,og 1+2=3
+  println(beautyFactor(1987));//udskriver tallet 7, da 1+9+8+7=25, og 2+5=7
+}
+
+int beautyFactor(int tal){
+  int resultat = beautifyOnce(tal);
+  //println("beautifyOnce :" + resultat);
+  while(str(resultat).length()>1){
+    resultat = beautifyOnce(resultat);
+  }
+  return resultat;
+}
+
+int beautifyOnce(int tal){
+  String t = str(tal);
+  int sum = 0;
+  for(int i=0 ; i <t.length() ; i++){
+    //println("ciffer:"+t.charAt(i), "sum :" + sum);
+    sum = sum + int(t.charAt(i)+"");    
+  }
+  return sum;
+}

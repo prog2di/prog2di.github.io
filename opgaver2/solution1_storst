@@ -1,0 +1,19 @@
+void setup(){
+  println(largest(3412)); //udskriver 412
+  println(largest(4990)); //udskriver 990
+  println(largest(8193)); //udskriver 893
+}
+
+int largest(int tal){
+  String talS = tal + "";
+  int largest = 0;
+  for(int i=0 ; i<talS.length() ; i++){
+    int talSub = int(rNr(talS,i));
+    if(talSub>largest) largest = talSub;
+  }
+  return largest;
+}
+
+String rNr(String w,int nr){
+ return w.substring(0,nr)+w.substring(nr+1,w.length());
+}
