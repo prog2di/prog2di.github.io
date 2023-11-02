@@ -4,8 +4,8 @@ Se beskrivelse af den oprindelige opgave her:
 [https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/min-max-3/](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/min-max-3/)
 
 Krav:
-- implementer funktionen "contains(..,..)" der kan fortælle om et bestemt tal er i et array
-- anvend funktionen "contain" til at implementere funktionen "min_max(...)" der kan finde ud af om et array indeholder alle fortløbende tal imellem de to elementer der er min og max
+- implementer funktionen "contains(..,..)" der afgør om et array indeholder et bestemt tal
+- implementer funktionen "min_max(......)" der afgør om et array indeholder alle tal fra min til max, vha. "contains"
 
 ```java
 void setup(){
