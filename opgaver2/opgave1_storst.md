@@ -12,7 +12,7 @@ I behøver kun løse problemet med K=1, dvs. fjernelse af et enkelt tal.
 void setup(){
   //fejrnelse af en enkelt char
   println(removeNr("3412",1));//udskriver strengen 312
-  println(removeNr("4990",3));//udskriver strengen 990
+  println(removeNr("4990",3));//udskriver strengen 499
   println(removeNr("8193",2));//udskriver strengen 813
   
   //opnåelse af størst mulige tal ved at fjernelse af et enkelt ciffer
