@@ -2,6 +2,9 @@ void setup(){
   println(largest(3412)); //udskriver 412
   println(largest(4990)); //udskriver 990
   println(largest(8193)); //udskriver 893
+
+  println(removeNr("word",0)); 
+
 }
 
 int largest(int tal){
