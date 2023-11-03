@@ -23,7 +23,7 @@ void setup(){
   //Eksisterer alle tal imellem min og max?
   println(min_max(list1)); //udskriver NO , max=6 og min=1, og 4, der ligger imellem 1 og 6 mangler! 
   println(min_max(list2)); //udskriver YES, max=9 og min=5, og alle tal imellem 9 og 5 er i arrayet
-  println(min_max(list3)); //udskriver YES, max=4 og min=1, og alle tal imellem 9 og 5 er i arrayet
+  println(min_max(list3)); //udskriver YES, max=4 og min=1, og alle tal imellem 4 og 1 er i arrayet
   println(min_max(list4)); //udskriver NO , max=9 og min=0, og 2,3,4,5,6,7,8 mangler
 }
 ``` 
