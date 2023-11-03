@@ -1,14 +1,15 @@
 # Forløb 12
 # Intro til objektorienteret programmering
-## {nye begreber: klasse, objekt, dot-notation, konstruktør},{nye keywords: class, new}
+### Begreber: klasse, objekt, dot-notation, konstruktør
+### Keywords: class, new
 
 Objektorienteret programmering (forkortet oop) er meget stort og vigtigt område indenfor programmering. Man kalder ofte oop et programmerings-paradigme, da det er en helt speciel måde at tænke programmering på.
 Men bered jer - det er et svært emne - derfor bruger vi også et par uger alene på at introducere konceptet.
 
 -----------------------------------------------------------------------------------------------------
-## Video introduktion til oop - lavet af "the coding train"
+## Opgave til logbog
 Se følgende tre videoer, der introducerer oop. Efter hver video skal i svare på spørgsmålene nedenfor
-og skrive udførlige svar i jeres log-bog. Sammenlign jeres svar med en eller to andre.
+og skrive udførlige svar i jeres log-bog.
 
 Video 1: [https://youtu.be/YcbcfkLzgvs](https://youtu.be/YcbcfkLzgvs)   
 - Forklar hvad der menes med "class"
