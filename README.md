@@ -44,10 +44,8 @@ Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af tes
 
 [projekt 1 - Færge over limfjorden](projekt1_feargen/projekt1.md)
 
+[forløb 12 - klasser og objekter](forlob12_oop/forlob12.md)
+
 ***TEST NUMMER 3***
-
-forløb 12 - klasser og objekter
-
-***TEST NUMMER 4***
 
 -----------------------------------
