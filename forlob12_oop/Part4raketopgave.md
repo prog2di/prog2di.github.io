@@ -1,7 +1,7 @@
 # Forløb 12
 ## Knapper der flytter raketter
 
-Denne lille opgave bygger oven på "forløb 17 - knappe opgaven" - genbrug min kode fra løsningsforslaget, eller lav noget der er tilsvarende godt.
+Denne lille opgave bygger oven på "knappe opgaven" - genbrug min kode fra løsningsforslaget, eller lav noget der er tilsvarende godt.
 
 Opgaven er igen at identificere hvilke klasser det er nødvendigt at bygge - og derefter bygge dem.
 
