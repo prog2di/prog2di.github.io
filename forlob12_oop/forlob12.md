@@ -1,4 +1,5 @@
-# Forløb 12 - OOP , Objekt orienteret programmering
+# Forløb 12 - OOP 
+## Objekt orienteret programmering
 
 - [Del 1 - intro](Part1intro.md)
 - [Del 2 - opgave : knapper](Part2knap.md)
