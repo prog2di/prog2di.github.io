@@ -6,13 +6,15 @@ Mvh underviseren selv Anders J.R. Petersen
 
 ---
 
-[træningsopgaver 1 : hackerearth opgaver, med java](opgaver1/beskrivelse.md)
+Her er links til forskellige træningsopgaver
 
-[træningsopgaver 2 : hackerearth opgaver, med processing](opgaver2/beskrivelse.md)
+- [træningsopgaver 1 : hackerearth opgaver, med java](opgaver1/beskrivelse.md)
+- [træningsopgaver 2 : hackerearth opgaver, med processing](opgaver2/beskrivelse.md)
+- [træningsopgaver 3 : diverse funktioner, med processing](opgaver3/beskrivelse.md)
 
-[træningsopgaver 3 : diverse funktioner, med processing](opgaver3/beskrivelse.md)
+---
 
-Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af test, afleveringsopgaver og projekter
+Listen nedenfor er kun en grov skitse af undervisingsplanen, der vil forekomme ændringer iform af test, afleveringsopgaver og projekter
 
 [forløb 1 - _intro, porcessing, tegnefunktioner, variabler og datatyper_](forlob1_intro/forlob1_intro.md)
 
