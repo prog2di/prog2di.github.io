@@ -4,33 +4,33 @@ Her kan du finde forløb med tilhørende materiale, opgaver og alt andet vi arbe
 
 Mvh underviseren selv Anders J.R. Petersen
 
------------------------------------
+---
 
-[træningsopgaver 1 : med java](opgaver1/beskrivelse.md)
+[træningsopgaver 1 : hackerearth opgaver, med java](opgaver1/beskrivelse.md)
 
-[træningsopgaver 2 : med processing](opgaver2/beskrivelse.md)
+[træningsopgaver 2 : hackerearth opgaver, med processing](opgaver2/beskrivelse.md)
 
------------------------------------
+[træningsopgaver 3 : diverse funktioner, med processing](opgaver3/beskrivelse.md)
 
 Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af test, afleveringsopgaver og projekter
 
-[forløb 1 - *intro, porcessing, tegnefunktioner, variabler og datatyper*](forlob1_intro/forlob1_intro.md)
+[forløb 1 - _intro, porcessing, tegnefunktioner, variabler og datatyper_](forlob1_intro/forlob1_intro.md)
 
-[forløb 2 - *oprettelse af logbog*](forlob2_logbog/forlob2_logbog.md)
+[forløb 2 - _oprettelse af logbog_](forlob2_logbog/forlob2_logbog.md)
 
-[forløb 3 - *operatorer*](forlob3_operators/forlob3_operators.md)
+[forløb 3 - _operatorer_](forlob3_operators/forlob3_operators.md)
 
-[forløb 4 - *if statements*](forlob4_if/forlob4.md)
+[forløb 4 - _if statements_](forlob4_if/forlob4.md)
 
-[***afleveringsopgave 2***](aflevering2/aflevering2.md)
+[**_afleveringsopgave 2_**](aflevering2/aflevering2.md)
 
-[forløb 6 - *for og while loops*](forlob6_loops_intro/forlob6.md)
+[forløb 6 - _for og while loops_](forlob6_loops_intro/forlob6.md)
 
-[***TEST NUMMER 1***](test1/info_test1.md)
+[**_TEST NUMMER 1_**](test1/info_test1.md)
 
-[forløb 7 - *nestede for loops*](forlob7_nested_for/forlob7.md)
+[forløb 7 - _nestede for loops_](forlob7_nested_for/forlob7.md)
 
-[***afleveringsopgave 3***](aflevering3/aflevering3.md)
+[**_afleveringsopgave 3_**](aflevering3/aflevering3.md)
 
 [forløb 8 - arrays](forlob8_1D_arrays/forlob8.md)
 
@@ -38,7 +38,7 @@ Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af tes
 
 [forløb 10 - referencebaserede og værdibaserede datatyper](forlob10_referencer/forlob10.md)
 
-[***TEST NUMMER 2***](test2/info_test2.md)
+[**_TEST NUMMER 2_**](test2/info_test2.md)
 
 [forlob 11 - funktioner](forlob11_funktioner/forlob11.md)
 
@@ -46,6 +46,6 @@ Listen nedenfor er kun en grov skitse, der vil forekomme ændringer iform af tes
 
 [forløb 12 - klasser og objekter](forlob12_oop/forlob12.md)
 
-***TEST NUMMER 3***
+**_TEST NUMMER 3_**
 
------------------------------------
+---
