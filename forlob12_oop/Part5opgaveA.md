@@ -1,5 +1,5 @@
 # Forløb 12 - 5 Almindelig
-<h1>Den almindelige opgave : Follower</h1s>
+<h1>Den almindelige opgave : Follower</h1>
 
 Du skal lave en klasse "Follower", og et objekt af klassen , der hele tiden bevæger sig imod musens position.  
 Og derefter udbygge den så du har et objekt mere, der følger efter det første,....
