@@ -1,4 +1,4 @@
-# Forløb 12
+# Forløb 12 - 5
 # Træningsopgaver i oop
 
 Vælge en af de to opgaver nedenfor. A er almindelig - B er svær.     
