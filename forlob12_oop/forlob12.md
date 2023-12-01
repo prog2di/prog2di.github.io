@@ -15,3 +15,5 @@
 - [Del 4 - opgave : knapper der flytter raketter](Part4raketopgave.md)
 
 -------------------------------------------------
+
+- [Del 5 - Træningsopgaver i klasser og objekter (almindelige og frivillige svære)](Part5exercises.md)

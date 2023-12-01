@@ -50,4 +50,6 @@ Listen nedenfor er kun en grov skitse af undervisingsplanen, der vil forekomme Ã
 
 **_TEST NUMMER 3_**
 
+projekt 2 - Kortspils programmet 
+
 ---
