@@ -2,7 +2,9 @@
 # Træningsopgaver i oop
 
 Vælge en af de to opgaver nedenfor. A er almindelig - B er svær.     
-Begge opgaver omhandler objekter, der "hænger" sammen.
+Begge opgaver omhandler objekter, der "hænger" sammen.   
+
+Hvis man laver alle delopgaver i A, er den også svær :-)
 
 ----------------------------------------------------
 
