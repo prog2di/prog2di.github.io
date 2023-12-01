@@ -1,5 +1,4 @@
-# Forløb 12 - 5:
-# Den almindelige opgave : Follower
+# Forløb 12 - 5: Den almindelige opgave : Follower
 
 Du skal lave en klasse "Follower", og et objekt af klassen , der hele tiden bevæger sig imod musens position.  
 Og derefter udbygge den så du har et objekt mere, der følger efter det første,....
@@ -8,10 +7,10 @@ Og derefter udbygge den så du har et objekt mere, der følger efter det første
 
 ## Del 1: Lav klassen 
 
-#### Klassen skal indeholde følgende data:
+Klassen skal indeholde følgende data:
 - positionens koordinater, x og y
 
-#### Klassen skal indeholde følgende metoder/funktioner:
+Klassen skal indeholde følgende metoder/funktioner:
 - en funktion "display", der kan tegne objektet (du bestemmer selv hvordan det ser ud)
 - en funktion "move", der kan flytte objektet en pixel tættere på musens koordinater 
 
@@ -20,7 +19,7 @@ Og derefter udbygge den så du har et objekt mere, der følger efter det første
 
 ## Del 2: Lav et objekt af klassen og brug det
 
-#### Anvend klassen ved at oprette et objekt
+Anvend klassen ved at oprette et objekt
 - Lav et nyt globalt objekt af klassen "Follower" 
 - I draw kald objektets "display" og "move" funktion
 
