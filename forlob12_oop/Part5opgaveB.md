@@ -1,4 +1,5 @@
-# Forløb 12 - 5: Den svære : linked list
+# Forløb 12 - 5B
+<h1>Den svære : linked list</h1>
 ![linkedlist](pic_linked.png)
 
 I skal lave den såkaldte linked list datastruktur som ses ovenfor.   
