@@ -6,11 +6,11 @@ Begge opgaver omhandler objekter "hænger" sammen.
 
 ----------------------------------------------------
 
-[Den almindelige opgave : Follower objekter](Part5_2.md)
+[Den almindelige opgave : Follower objekter](Part5opgaveA.md)
 
 ----------------------------------------------------
 
-[Den svære opgave : Linked-list som stak eller kø](Part5_3.md)
+[Den svære opgave : Linked-list som stak eller kø](Part5opgaveB.md)
 
 
 
