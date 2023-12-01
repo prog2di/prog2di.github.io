@@ -1,16 +1,16 @@
 # Forløb 12
-# Træningsopgaver i oop - almindelige og svære
+# Træningsopgaver i oop
 
-Vælge en af de to opgaver nedenfor.   
-Begge opgaver omhandler objekter "hænger" sammen.
-
-----------------------------------------------------
-
-[Den almindelige opgave : Follower objekter](Part5opgaveA.md)
+Vælge en af de to opgaver nedenfor. A er almindelig - B er svær.     
+Begge opgaver omhandler objekter, der "hænger" sammen.
 
 ----------------------------------------------------
 
-[Den svære opgave : Linked-list som stak eller kø](Part5opgaveB.md)
+[Opgave A : Follower objekter](Part5opgaveA.md)
+
+----------------------------------------------------
+
+[Opgave B : Linked-list som stak eller kø](Part5opgaveB.md)
 
 
 
