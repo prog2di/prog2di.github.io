@@ -22,3 +22,5 @@ Svar på følgende i din logbog:
 - forklar hvordan man anvender extends, og hvordan det virker?
 - forklar hvordan man anvender super, og hvordan det virker?
 - lav exercise 22-2, fra kapitel 22.2, og skriv koden ind i din logbog!
+
+Frivillig svær opgave: Forklar hvad der i værste tilfælde kan ske hvis man nedarver fra flere klasser på samme tid! Og hvorfor java (processing) ikke tillader dette
