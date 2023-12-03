@@ -46,11 +46,11 @@ Listen nedenfor er kun en grov skitse af undervisingsplanen, der vil forekomme �
 
 [**projekt 1 - Færge over limfjorden**](projekt1_feargen/projekt1.md)
 
-[forløb 12 - klasser og objekter](forlob12_oop/forlob12.md)
+[forløb 12 - klasser og objekter](forlob12_oop1/forlob12.md)
 
 **_TEST NUMMER 3_**
 
-forløb 13 - nedarvning og klassediagrammer (december)
+[forløb 13 - nedarvning og klassediagrammer](forlob13_oop2/forlob13.md)
 
 **projekt 2 - Kortspils program** (januar)
 
