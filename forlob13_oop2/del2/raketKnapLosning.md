@@ -1,7 +1,7 @@
 # Forløb 13
 # Løsningsforslag til Raket og knapper
 
-Se den oprindelige opgaven her : 
+Se den oprindelige opgaven her :    
 [Forløb 12 - Knapper der flytter raketter](../../forlob12_oop1/Part4/Part4raketopgave.md).   
 
 Jeg har opdelt koden i tre faner i processing sketch-book.
