@@ -1,7 +1,7 @@
 # Forløb 13
 # Del 2 - nedarvning med override
 
-![nedarvning](nedarvning2.png)
+![nedarvning](nedarvning3.png)
 
 Opgaven i denne omgang er at lave projektet raketter og knapper vha. nedarvning og override. I kan se den orindelige opgave her:       
 [Forløb 12 - Knapper der flytter raketter](../../forlob12_oop1/Part4/Part4raketopgave.md).
