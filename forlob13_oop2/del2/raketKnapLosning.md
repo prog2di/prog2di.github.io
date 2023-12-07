@@ -9,6 +9,7 @@ Koden fra de tre faner ses nedenfor:
 
 -------------------------------------------------------------------------------
 Fane 1 - Main
+
 ```java
 Knap    opKnap       = new Knap(75,325,50,50,"up","raketOp");
 Knap    venstreKnap  = new Knap(25,375,50,50,"left","raketVenstre");
@@ -110,5 +111,3 @@ class Raket {
  }
 }
 ```
-
-
