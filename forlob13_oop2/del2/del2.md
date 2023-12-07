@@ -21,8 +21,15 @@ I skal selvfølgelig også lige kende til "override" og hvilke fordele der er ve
 Anvend enten din egen løsning fra "Knapper der flytter raketter" eller brug min løsning ovenfor som udgangspunkt.
 
 1. : identificer hvordan du med fordel kan anvende nedarvning (systemet skal muligvis udbygges med en ny klasse?)
+
 2. : byg/ombyg klasserne så de anvender nedarvning, baseret på din analyse fra spørgsmål 1 
+
 3. : udtænk og byg/ombyg de konstruktører, der nu skal være i dine klasser
+
 4. : udtænk og byg/ombyg de funktioner, der kan flyttes direkte op i din superklasse
+
 5. : udtænk og byg/ombyg de funktioner, der skal flyttes op i din superklasse, men også overskrives med ny funktionalitet (override)
+
 6. : (frivillig) Hvis alle dine objekter har samme super-type kan de flyttes ind i et array. Prøv at flytte alle dine objekter ind i et array og anvend det i et loop istedet for at kalde metoder på hver enkelt objekt direkte
+
+7. : (frivillig) Hvor simpel kode er det muligt for dig at lave ?? 
