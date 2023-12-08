@@ -48,7 +48,7 @@ Listen nedenfor er kun en grov skitse af undervisingsplanen, der vil forekomme �
 
 [forløb 12 - klasser og objekter](forlob12_oop/forlob12.md)
 
-**_TEST NUMMER 3_**
+[**_TEST NUMMER 3_**](test3/info_test3.md)
 
 forløb 13 - nedarvning og klassediagrammer (december)
 
