@@ -67,7 +67,7 @@ String[] navne ={"Alexander Carlmann",
 "Callum Finn",
 "Elliot Roland",
 "Elmer Steen",
-"Emilie Asta",
+//"Emilie Asta", emilie var oppe ved tavlen d.1/12-2023
 "Gustav Emil Kaad",
 "Gustav Westenberg Bjørn",
 "Kathrine Lolle",
