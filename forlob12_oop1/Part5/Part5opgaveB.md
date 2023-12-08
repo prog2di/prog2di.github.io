@@ -2,14 +2,15 @@
 <h1>Opgaven linked list</h1>
 ![linkedlist](pic_linked.png)
 
-I skal lave den såkaldte linked list datastruktur som ses ovenfor.   
+I skal lave den såkaldte linked list datastruktur som ses ovenfor.     
+Kun et link pr. node!   
 Det er en smart og meget brugt datastruktur der kan bruges til at implementere de almen kendte datastrukturer kaldet "kø" og "stak"
 
 [https://en.wikipedia.org/wiki/Linked_list](https://en.wikipedia.org/wiki/Linked_list)
 
 
 ## Del 1 : Lav node klassen
-Noden, der indeholder selve listens data, skal selvfølgelig kunne anvende alle slags datatyper. Derfor skal i lave denne som en generisk klasse:
+Noden, der indeholder selve listens data, skal selvfølgelig kunne anvende alle slags datatyper. Derfor skal i lave denne som en generisk klasse (husk kun et link pr. node):
 [https://www.geeksforgeeks.org/generics-in-java/](https://www.geeksforgeeks.org/generics-in-java/)
 
 ## Del 2 : Lav stakken
