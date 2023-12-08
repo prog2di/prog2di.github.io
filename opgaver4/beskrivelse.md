@@ -15,10 +15,18 @@ class Kat
 
 
 
+
+
+
+
+
+
 //indsæt manglende krølleparanteser
 //indsæt manglende returtype
 //opret objekt af kat inde i setup
       setup
+
+
 
 
 
@@ -43,6 +51,12 @@ class Kat
      
 
 
+
+
+
+
+
+
 //indsæt manglende krølleparanteser
 //indsæt manglende keyword der forbinder Dyr til Kat vha. nedarvning
 //indsæt manglende konstruktør der forbinder til superklassen Dyr
@@ -50,6 +64,12 @@ class Kat
 class Kat 
 
         int alder = 0;
+
+
+
+
+
+
 
 
 //indsæt manglende krølleparanteser
