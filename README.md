@@ -11,6 +11,7 @@ Her er links til forskellige træningsopgaver
 - [træningsopgaver 1 : hackerearth opgaver, med java](opgaver1/beskrivelse.md)
 - [træningsopgaver 2 : hackerearth opgaver, med processing](opgaver2/beskrivelse.md)
 - [træningsopgaver 3 : diverse funktioner, med processing](opgaver3/beskrivelse.md)
+- [træningsopgaver 4 : diverse opgaver som løses på tavlen](opgaver4/beskrivelse.md)
 
 ---
 
