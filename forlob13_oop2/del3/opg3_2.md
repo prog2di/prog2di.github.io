@@ -46,18 +46,19 @@ void setup(){
 Brug eventuelt denne sorterings-metode, kaldet selection-sort:
 ![sorterings-gif](https://miro.medium.com/v2/resize:fit:720/format:webp/1*5WXRN62ddiM_Gcf4GDdCZg.gif)
 
-Her er processing-koden der hører sammen med ovenstående gif:
+Her er processing-koden for selection-sort, der hører sammen med ovenstående animation:
 ```java
  int[] list = {6,8,3,5,9,10,7,2,4,1};
 
- for(int i=0 ; i<list.length ; i ++){
-    int ps = i;
-    for(int j=i ; j<list.length ; j++){
-        if(ps>list[i]){ ps = i; }
-    }
-    int tmp = list[ps];
-    list[ps]= list[i];
-    list[i] = tmp; 
- }
+for(int i=0 ; i<10 ; i++){
+  int p = i;
+  for(int j= i ; j<10 ; j++){
+    if( list[p] > list[j] ) p = j;
+  }
+  int tmp = list[p];
+  list[p] = list[i];
+  list[i] = tmp;
+}
 
+println(list);
 ```
