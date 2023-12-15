@@ -1,0 +1,15 @@
+/home/anders/Desktop/github/prog2di.github.io/forlob13_oop2/del3/myprogram/bin/Debug/net8.0/myprogram
+/home/anders/Desktop/github/prog2di.github.io/forlob13_oop2/del3/myprogram/bin/Debug/net8.0/myprogram.deps.json
+/home/anders/Desktop/github/prog2di.github.io/forlob13_oop2/del3/myprogram/bin/Debug/net8.0/myprogram.runtimeconfig.json
+/home/anders/Desktop/github/prog2di.github.io/forlob13_oop2/del3/myprogram/bin/Debug/net8.0/myprogram.dll
+/home/anders/Desktop/github/prog2di.github.io/forlob13_oop2/del3/myprogram/bin/Debug/net8.0/myprogram.pdb
+/home/anders/Desktop/github/prog2di.github.io/forlob13_oop2/del3/myprogram/obj/Debug/net8.0/myprogram.GeneratedMSBuildEditorConfig.editorconfig
+/home/anders/Desktop/github/prog2di.github.io/forlob13_oop2/del3/myprogram/obj/Debug/net8.0/myprogram.AssemblyInfoInputs.cache
+/home/anders/Desktop/github/prog2di.github.io/forlob13_oop2/del3/myprogram/obj/Debug/net8.0/myprogram.AssemblyInfo.cs
+/home/anders/Desktop/github/prog2di.github.io/forlob13_oop2/del3/myprogram/obj/Debug/net8.0/myprogram.csproj.CoreCompileInputs.cache
+/home/anders/Desktop/github/prog2di.github.io/forlob13_oop2/del3/myprogram/obj/Debug/net8.0/myprogram.sourcelink.json
+/home/anders/Desktop/github/prog2di.github.io/forlob13_oop2/del3/myprogram/obj/Debug/net8.0/myprogram.dll
+/home/anders/Desktop/github/prog2di.github.io/forlob13_oop2/del3/myprogram/obj/Debug/net8.0/refint/myprogram.dll
+/home/anders/Desktop/github/prog2di.github.io/forlob13_oop2/del3/myprogram/obj/Debug/net8.0/myprogram.pdb
+/home/anders/Desktop/github/prog2di.github.io/forlob13_oop2/del3/myprogram/obj/Debug/net8.0/myprogram.genruntimeconfig.cache
+/home/anders/Desktop/github/prog2di.github.io/forlob13_oop2/del3/myprogram/obj/Debug/net8.0/ref/myprogram.dll
