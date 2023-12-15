@@ -19,7 +19,7 @@
 
 2. Alle i gruppen præsenterer deres løsning på "raketter og knapper, med nedarvning"
 
-3. I snakker i fællesskab om hvilken løsning der var bedst og hvorfor
+3. I snakker i fællesskab om hvilken løsning, der var bedst og hvorfor
 
 4. Når i er enige kommer i forbi mig (eller jeg kommer forbi jer) og i præsenterer hvad i har fundet ud af
 
