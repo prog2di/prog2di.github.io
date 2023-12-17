@@ -8,4 +8,6 @@ Den første ting vi skal lære om er nedarvning.
 
 [Del 2 : raket-knap projektet med nedarvning](del2/del2.md)
 
-[Del 3 : gruppepræsentation og klassediagrammer](del3/del3.md)
+[Del 3 : gruppepræsentation og linked-list sortering](del3/del3.md)
+
+[Del 4 : klassediagrammer](del4/del4.md)
