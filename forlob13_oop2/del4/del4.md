@@ -2,7 +2,7 @@
 ## Del 4 - Klasse-diagrammer
 
 #### Emner : oop diagrammer og dokumentation
-
+...
 Når man anvender om klassediagrammer ifm. processing bør man være opmærksom på mindst fire ting.
 1. For det første virker "class Visibility" ikke ordentligt i prcessing, så det kan vi ikke angive i vores klassediagrammer.
 2. For det andet eksisterer der ikke noget der hedder "Parameter Directionality", så det angiver vi heller ikke.   
