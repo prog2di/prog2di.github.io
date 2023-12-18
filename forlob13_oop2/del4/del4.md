@@ -17,7 +17,7 @@ Jeg foreslår i bruger et af føgende værktøjer til at tegne jeres klassediagr
 - [Diagram værktøj : https://online.visual-paradigm.com/](https://online.visual-paradigm.com/)
 - [Diagram værktøj : https://app.diagrams.net/](https://app.diagrams.net/)
 
-<iframe style="background:white" src="test2Mermaid.html" width="100%" height="500px"></iframe>
+<iframe style="background:white" src="test2Mermaid.html" width="100%" height="200px"></iframe>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
