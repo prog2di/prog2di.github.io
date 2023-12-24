@@ -1,4 +1,4 @@
-# Projekt : Færge over Limfjorden 
+# Projekt 1 : Færge over Limfjorden 
 
 I skal i dette projekt lave et værktøj til matematikprojektet:       
 ***Projekt om vektorer i 2D: Færge over Limfjorden***      
