@@ -8,7 +8,7 @@ Dem der ikke har et spil, mås selvfølgelig selv om designet..
 
 ## Udleveret kode
 
-[kode](Koden/Card.md)
+[kode](KortspilBib/Card.md)
 
 ## Minimumskrav
 
