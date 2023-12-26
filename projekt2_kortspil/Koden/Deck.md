@@ -5,7 +5,7 @@ Biblioteket indeholder en "calculateHandValue", til beregninge af point for blac
 
 | [Card](Card.md)   | [Hand](Hand.md)   | [Desck](Deck.md)   | [Player]()   | [AIPlayer]()   |  [HumanPlayer]()  |
 | ----------------- | ----------------- | ------------------ | ------------ | -------------- | ----------------- |
-
+|                   |                   |                    |              |                |                   |
 ## Klassen : Card
 
 Dette er kortspils klassen Card, der udgør skabelonen for et enkelt spillekort.
