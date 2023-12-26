@@ -37,13 +37,13 @@ Listen nedenfor er kun en grov skitse af undervisingsplanen, der vil forekomme �
 
 [forløb 8 - arrays](forlob8_1D_arrays/forlob8.md)
 
-[forløn 9 - flerdimensionelle arrays](forlob9_2D_arrays/forlob9.md)
+[forløb 9 - flerdimensionelle arrays](forlob9_2D_arrays/forlob9.md)
 
 [forløb 10 - referencebaserede og værdibaserede datatyper](forlob10_referencer/forlob10.md)
 
 [**_TEST NUMMER 2_**](test2/info_test2.md)
 
-[forlob 11 - funktioner](forlob11_funktioner/forlob11.md)
+[forløb 11 - funktioner](forlob11_funktioner/forlob11.md)
 
 [**projekt 1 - Færge over limfjorden**](projekt1_feargen/projekt1.md)
 
