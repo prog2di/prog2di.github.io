@@ -1,23 +1,30 @@
 # Projekt 2 : Kortspil
 
-I skal nu igang med at udvikle et kortspils-program.
+I skal nu gå i gang med at udvikle et kortspilsprogram.
 
-Som udgangspunkt for spillet skal i anvende et "kortspils-bibliotek", der indeholder klasser og funktionen til simulation af kort, blanding af kort, trække kort, osv.
-Jeg har allerede lavet et bibliotek som i kan anvende, men det er selvfølgelig også tilladt at udvikle sit eget bibliotek.
-Uanste hvad jeres gruppe vælger skal i dog stadig udvikle både design og bruger-interface.
+Som udgangspunkt for spillet skal I anvende et "kortspilsbibliotek", der indeholder klasser og funktioner til simulering af kort, blanding af kort, trækning af kort, osv. Jeg har allerede lavet et bibliotek, som I kan bruge, men det er også tilladt at udvikle jeres eget bibliotek. Uanset hvad jeres gruppe vælger, skal I dog stadig udvikle både design og brugerinterface.
 
-Dem der har kom-it A-niveau, har allerede designet et spil, og skal tage udgangspunkt i dette under udvikling af programmet.
-Hvis man ikke har et design, skal man udtænke et, osm skal godkendes inden programmeringen påbegyndes.
+Dem, der har kom-it A-niveau, har allerede designet et spil, og skal tage udgangspunkt i dette under udviklingen af programmet. Hvis man ikke har et design, skal man tænke et ud, som skal godkendes, inden programmeringen påbegyndes.
 
-God fornøjelse-
+God fornøjelse - og godt nytår! 😊
 
 ## Kortspils bibliotek - udleveret kode
 
-[Kortspils bibliotek - github repository](https://github.com/prog2di/KortspilsBibliotek/tree/main)
+[Kortspils bibliotek - github repository](https://github.com/prog2di/KortspilsBibliotek/tree/main){:target="_blank"}
 
 ## Minimumskrav
 
+- Maksimalt tre personer pr. gruppe
+- Programmet skal simulere et rigtigt kortspil
 - Det skal være muligt at spille mod computeren
+- Man skal kunne spille videre uden at genstarte programmet
+
+## Forløbsplan
+- uge 2 - 3 moduler
+- uge 3 - 3 moduler
+- uge 4 - 1 modul
+- uge 5 - 0 moduler
+- uge 6 - 2 moduler
 
 ## Aflevering
 
