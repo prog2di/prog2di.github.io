@@ -8,7 +8,7 @@ Dem der ikke har et spil, mås selvfølgelig selv om designet..
 
 ## Udleveret kode
 
-[kode](sketch_231224a.pde)
+[kode](Koden/Card.md)
 
 ## Minimumskrav
 

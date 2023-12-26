@@ -6,22 +6,28 @@ Biblioteket indeholder en "calculateHandValue", til beregninge af point for blac
 | [Card](Card.md) | [Hand](Hand.md) | [Desck]() | [Player]() | [AIPlayer]() | [HumanPlayer]() |
 |-----------------|-----------------|-----------|------------|--------------|-----------------|
 
-## Klassen : Card
+## Klassen : Hand
 
-Dette er kortspils klassen Card, der udgør skabelonen for et enkelt spillekort.
+Dette er kortspils klassen Hand, der udgør skabelonen for en "hånd", altså de kort en spiller kan have på hånden.
 
 ```java
-class Card {
-  String suit;
-  String rank;
+class Hand {
+  ArrayList<Card> cards;
 
-  Card(String suit, String rank) {
-    this.suit = suit;
-    this.rank = rank;
+  Hand() {
+    cards = new ArrayList<Card>();
   }
 
-  String getDisplayName() {
-    return rank + " of " + suit;
+  void addCard(Card card) {
+    cards.add(card);
   }
+  
+ String handToString() {
+   String h ="";
+    for (Card card : cards) {
+      h += "["+card.getDisplayName() + "] ";
+    }
+   return h;
+  }    
 }
 ```
