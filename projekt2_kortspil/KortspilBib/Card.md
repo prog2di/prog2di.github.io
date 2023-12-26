@@ -1,4 +1,3 @@
-#
 ## Card
 
 Vælg at åbne koden for en af bibliotekets andre klasser her nedenfor:   
