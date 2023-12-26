@@ -3,7 +3,7 @@
 Dette et eksempel på et kortspils-bibliotek, der kan udgøre "modellen" for jeres kortspils-spil.
 Biblioteket indeholder en "calculateHandValue", til beregninge af point for blackJack, men kan selvfølgelig ændres eller udbygges med andre point-systemer. 
 
-| [Card](Card.md) | [Hand](Hand.md) | [Desck]() | [Player]() | [AIPlayer]() | [HumanPlayer]() |
+| [Card](Card.md) | [Hand](Hand.md) | [Desck](Deck.md) | [Player]() | [AIPlayer]() | [HumanPlayer]() |
 |-----------------|-----------------|-----------|------------|--------------|-----------------|
 
 ## Klassen : Card
