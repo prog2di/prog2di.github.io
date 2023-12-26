@@ -10,9 +10,7 @@ God fornøjelse - og godt nytår! 😊
 
 ![cards](cards2.png)
 
-## Kortspils bibliotek - udleveret kode
-
-[Kortspils bibliotek - github repository](https://github.com/prog2di/KortspilsBibliotek/tree/main){:target="_blank"}
+## [Kortspils bibliotek - github repository](https://github.com/prog2di/KortspilsBibliotek/tree/main){:target="_blank"}
 
 ## Minimumskrav
 
@@ -22,11 +20,11 @@ God fornøjelse - og godt nytår! 😊
 - Man skal kunne spille videre uden at genstarte programmet
 
 ## Forløbsplan
-- uge 2 - 3 moduler
-- uge 3 - 3 moduler
-- uge 4 - 1 modul
-- uge 5 - 0 moduler
-- uge 6 - 2 moduler
+- **uge2, 3 moduler** : Ombygge og afprøve biblioteket. (1) Find ud af hvordan i genstarter et spil. (2) Tilpas bib. så det passer til jeres spil.  
+- **uge3, 3 moduler** : Opbyg knapper og interface. (1) Opbyg de nødvendige knapper og tekstfelter og andre ui-komponenter. (2) Start på at forbinde bibliotek og komponenter
+- **uge4, 1 moduler** : Afprøv spillet og fejlretning
+- **uge5, 0 moduler** : - 
+- **uge6, 2 moduler** : Lav aflevering
 
 ## Aflevering
 
