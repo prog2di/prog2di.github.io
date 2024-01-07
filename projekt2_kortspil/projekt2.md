@@ -20,15 +20,15 @@ God fornøjelse - og godt nytår! 😊
 - Man skal kunne spille videre uden at genstarte programmet
 
 ## Forløbsplan
-- **uge2, 3 moduler** : Ombygge og afprøve biblioteket. (1) Find ud af hvordan i genstarter et spil. (2) Tilpas bib. så det passer til jeres spil.  
-- **uge3, 3 moduler** : Opbyg knapper og interface. (1) Opbyg de nødvendige knapper og tekstfelter og andre ui-komponenter. (2) Start på at forbinde bibliotek og komponenter
-- **uge4, 1 moduler** : Afprøv spillet og fejlretning
-- **uge5, 0 moduler** : - 
-- **uge6, 2 moduler** : Lav aflevering
+- **uge2**, 3 moduler  : skitser, krav og klasse-diagram. [Se beskrivelse her](uge2.md) 
+- **uge3**, 3 moduler  : færdiggørelse af brugerfladen
+- **uge4**, 1 moduler  : test og fejlretning 
+- **uge5**, 0 moduler  : - 
+- **uge6**, 2 moduler  : lav aflevering
 
 ## Aflevering
 
-- Klassediagram med dertilhørende beskrivelse og/eller noter/forklaring på diagrammet
+- Endeligt klassediagram med dertilhørende beskrivelse og/eller noter/forklaring på diagrammet
 - Video hvor i demonstrerer spillet, og forklarer jeres program ( maks. 4 minutter )
 - Koden
 
