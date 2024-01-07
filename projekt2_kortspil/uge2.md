@@ -1,5 +1,4 @@
-# Uge 2 - 2. projekt : Kortspillets
-## Mål : Lav skitser, funktions-krav og klasse-diagrammer
+# Uge 2 : Lav skitser, krav og klasse-diagrammer
 
 ### 1. Modul : Introduktion
 
@@ -10,7 +9,6 @@ Introduktion af projekt og herefter opstart af projektforberedelser.
 - **funktions-kravs** liste
 - **klasse-diagram** over hele programmet (projektet skal være lavet med oop)
 
-
 ### 2. Modul : Aflevering af skitser, krav og klasse-diagrammer
 
 I løbet af denne time skal alle grupper have afleveret skitser, krav og klasse-diagrammer.
@@ -20,8 +18,8 @@ Hvis man allerede har lavet design, skitser og funktions-krav i kom-it, behøver
 
 ### 3. Modul : Opstart på udvikling
 
-Grupperne starter op på projektet.   
-Jeg godkender (forhåbentligt) løbende jeres afleveringer - og ideer ;-)
+Grupperne starter op på projektet. Jeg godkender (forhåbentligt) løbende jeres afleveringer - og ideer ;-)
+
 Hvis i vælger at bruge det udleverede bibliotek, skal i først lære det at kende. 
 Lav derfor følgende opgaver:
 
