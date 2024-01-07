@@ -20,7 +20,7 @@ God fornøjelse - og godt nytår! 😊
 - Man skal kunne spille videre uden at genstarte programmet
 
 ## Forløbsplan
-- **uge2**, 3 moduler  : skitser, krav og klasse-diagram. [Se beskrivelse her](uge2.md) 
+- **uge2**, 3 moduler  : [Se beskrivelse uge 2 : Skitser, krav og klasse-diagram](uge2.md) 
 - **uge3**, 3 moduler  : færdiggørelse af brugerfladen
 - **uge4**, 1 moduler  : test og fejlretning 
 - **uge5**, 0 moduler  : - 

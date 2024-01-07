@@ -1,5 +1,5 @@
 # Uge 2 - 2. projekt : Kortspillets
-## Mål : Udarbejdelse af design-skitser, funktions-krav og klasse-diagrammer
+## Mål : Lav skitser, funktions-krav og klasse-diagrammer
 
 ### 1. Modul : Introduktion
 
