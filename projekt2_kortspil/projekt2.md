@@ -8,9 +8,9 @@ Dem, der har kom-it A-niveau, har allerede designet et spil, og skal tage udgang
 
 God fornøjelse - og godt nytår! 😊
 
-![cards](cards2.png)
+## [Kortspils bibliotek -tryk og se github-repository](https://github.com/prog2di/KortspilsBibliotek/tree/main){:target="_blank"}
 
-## [Kortspils bibliotek - github repository](https://github.com/prog2di/KortspilsBibliotek/tree/main){:target="_blank"}
+![cards](cards2.png)
 
 ## Minimumskrav
 
