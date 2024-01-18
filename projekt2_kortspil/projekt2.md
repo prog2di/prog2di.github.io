@@ -21,14 +21,14 @@ God fornøjelse - og godt nytår! 😊
 
 ## Forløbsplan
 - **uge2**, 3 moduler  : [Se beskrivelse uge 2 : Skitser, krav og klasse-diagram](uge2.md) 
-- **uge3**, 3 moduler  : færdiggørelse af brugerfladen
+- **uge3**, 3 moduler  : [Se beskrivelse uge 3 : færdiggørelse af brugerfladen](uge3.md)
 - **uge4**, 1 moduler  : test og fejlretning 
 - **uge5**, 0 moduler  : - 
 - **uge6**, 2 moduler  : lav aflevering
 
 ## Aflevering
-
-- Endeligt klassediagram med dertilhørende beskrivelse og/eller noter/forklaring på diagrammet
-- Video hvor i demonstrerer spillet, og forklarer jeres program ( maks. 4 minutter )
-- Koden
+- Rapport med følgende:
+	- Endeligt klassediagram med dertilhørende beskrivelse og/eller noter/forklaring på diagrammer
+	- Koden som bilag
+	- yderligere punkter følger ...
 
