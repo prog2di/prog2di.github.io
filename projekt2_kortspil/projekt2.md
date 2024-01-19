@@ -22,9 +22,13 @@ God fornøjelse - og godt nytår! 😊
 ## Forløbsplan
 - **uge2**, 3 moduler  : [Se beskrivelse uge 2 : Skitser, krav og klasse-diagram](uge2.md) 
 - **uge3**, 3 moduler  : [Se beskrivelse uge 3 : færdiggørelse af brugerfladen](uge3.md)
-- **uge4**, 1 moduler  : test og fejlretning 
+- **uge4**, 1 moduler  :  
 - **uge5**, 0 moduler  : - 
-- **uge6**, 2 moduler  : lav aflevering
+- **uge6**, 2 moduler  : 
+- **uge7**, vinterferie
+- **uge8**, 1 moduler :
+- **uge9**, 0 moduler :
+- **uge10**, 2 moduler : aflevering
 
 ## Aflevering
 - Endeligt klassediagram med dertilhørende beskrivelse og/eller noter/forklaring på diagrammer
