@@ -19,6 +19,6 @@ Prøv at opbygge programmet så modulerbart som det er muligt. Det optimale er h
 
 - I får alle tre moduler til at projekt-arbejde
 - I klassen SKAL ALLE arbejde når der ikke er pause
-- ...
+- Hvis man gerne vil arbejde hjemme snak da med mig
 
 God arbejdslyst :-)

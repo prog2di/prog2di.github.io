@@ -24,6 +24,20 @@
 <body>
     <!-- lav tabel med solid sort border -->
     
+    <p> Dette er ufuldstændig liste over forskellene imellem typen ArrayList og det "almindelige" array. 
+        Jeg har forsøgt at fremhæve nogle af de forskelle jeg mener er vigtigst for jer.
+        Overordnet kan man sige at ArrayList er en mere avanceret datastruktur, der er dynamisk - forstået på den måde, 
+        at det er muligt at blive ved at tilføje nye elementer eller slette elementer fra listen.
+        Men både array og ArrayList er lineære liste datastrukturer.
+        </br>
+        Hvad er en lineær liste? En lineær liste er en liste hvor elementerne er placeret efter hinanden i en bestemt rækkefølge.
+        </br>
+        Hvad er en datastruktur? En datastruktur er en måde at organisere data på, så det er nemmere at arbejde med.
+        </p>
+        </br>
+        <p>
+        Se den direkte implementation af ArrayList i Java her: <a href="https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html">ArrayList</a>
+        </p>
     <table style="border: 3px solid black;">
         <!-- lav en header med overskrifterne ArrayList og Array-->
         <thead>
@@ -36,21 +50,97 @@
         <!-- lav en række -->
         <tr>
             <!-- lav en celle -->
-            <td style="border: 1px solid black;">oprettelse af tom "liste"</td>
+            <td style="border: 1px solid black;">Oprettelse af tom "liste"</td>
             <td style="border: 1px solid black;"> <code>(1)ArrayList liste = new ArrayList();</code> </br> 
                                                     <code>(2)ArrayList&lt;Card&gt; = new ArrayList&lt;Card&gt;()</code> </td>
             <td style="border: 1px solid black;"><code>int[] liste = new int[10];</code></td>
         </tr>
         <tr>
             <td style="border: 1px solid black;"></td>
-            <td style="border: 1px solid black;">1 ovenfor : listen kan indeholde alle typer </br>
-                                                   2 ovenfor : </td>
-            <td style="border: 1px solid black;"></td>
+            <td style="border: 1px solid black;">1 ovenfor : listen kan indeholde alle objekt-typer </br>
+                                                   2 ovenfor : listen kan indeholde Card-typer</td>
+            <td style="border: 1px solid black;">listen ovenfor kan indeholde int. </br>
+                                                   Arrays kan laves til alle typer!</td>
         </tr>
         <tr>
-            <td style="border: 1px solid black;">7</td>
-            <td style="border: 1px solid black;">8</td>
-            <td style="border: 1px solid black;">9</td>
+            <!-- lav en celle -->
+            <td style="border: 1px solid black;">Oprettelse af "liste" med indhold</td>
+            <td style="border: 1px solid black;"> <code>ikke muligt</code> </td>
+            <td style="border: 1px solid black;"> <code>int[] liste = {1,2,3,4};}</code></td>
+        </tr>
+
+
+
+        <!-- tom række  -->
+        <tr>
+            <td style="border: 1px solid black;"> </td>
+        </tr>
+
+        <tr>
+            <td style="border: 1px solid black;">Længden</td>
+            <td style="border: 1px solid black;">Længden er dynamisk. </br>
+                                                   Det altid muligt at indsætte elementer</td>
+            <td style="border: 1px solid black;">Længden bestemmes ved oprettelsen </br>
+                                                   Index størrer end længden er ikke tilgængelige </td>
+        </tr>
+
+        <!-- bestemmelse af længde -->
+        <tr>
+            <td style="border: 1px solid black;">Bestemmelse af længde</td>
+            <td style="border: 1px solid black;"><code>liste.size();</code></td>
+            <td style="border: 1px solid black;"><code>liste.length;</code></td>
+        </tr>
+
+        
+        <!-- tom række  -->
+        <tr>
+            <td style="border: 1px solid black;"> </td>
+        </tr>
+
+        <tr>
+            <td style="border: 1px solid black;">Indsæt element</td>
+            <td style="border: 1px solid black;"><code>liste.add(element);</code></td>
+            <td style="border: 1px solid black;"><code>liste[index] = element;</code></td>
+        </tr>
+        <!-- indsæt elemnt på bestemt plads-->
+        <tr>
+            <td style="border: 1px solid black;">Indsæt element på bestemt plads</td>
+            <td style="border: 1px solid black;"><code>liste.add(index, element);</code></td>
+            <td style="border: 1px solid black;"><code>liste[index] = element;</code></td>
+        </tr>  
+
+           <!-- tom række  -->
+           <tr>
+            <td style="border: 1px solid black;"> </td>
+        </tr>
+
+        <tr>
+            <td style="border: 1px solid black;">slet bestemt element</td>
+            <td style="border: 1px solid black;"><code>liste.remove(element);</code></td>
+            <td style="border: 1px solid black;"><code>ikke muligt - men kan dog indsætte noget andet</code></td>
+        </tr>
+
+        <tr>
+            <td style="border: 1px solid black;">slet element på bestemt index</td>
+            <td style="border: 1px solid black;"><code>liste.remove(index);</code></td>
+            <td style="border: 1px solid black;"><code>ikke muligt - men kan dog indsætte noget andet</code></td>
+        </tr>
+
+
+           <!-- tom række  -->
+           <tr>
+            <td style="border: 1px solid black;"> </td>
+        </tr>
+
+        <tr>
+            <td style="border: 1px solid black;">slet hele listen</td>
+            <td style="border: 1px solid black;"><code>liste.clear();</code></td>
+            <td style="border: 1px solid black;"><code>ikke muligt - men kan dog indsætte noget andet</code></td>
+        </tr>
+
+        <!-- tom række  -->
+        <tr>
+            <td style="border: 1px solid black;"> </td>
         </tr>
     </table>                                                   
     
