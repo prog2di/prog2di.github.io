@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = myprogram
-build_property.ProjectDir = /home/anders/Desktop/github/prog2di.github.io/forlob13_oop2/del3/myprogram/
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = c:\Users\ajrp\Desktop\MineRepos\prog2di.github.io\forlob13_oop2\del3\myprogram\

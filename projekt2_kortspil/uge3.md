@@ -10,7 +10,6 @@ Lav video med forklaring af kode, klassediagram og demo
 
 ### ArrayList vs Arrays : 
 Jeg vil lige gennemgånogle vigtige aspeketer ved datatypen ArrayList.
-
     <table style="border: 3px solid black;">
         <!-- lav en header med overskrifterne ArrayList og Array-->
         <thead>
@@ -39,9 +38,7 @@ Jeg vil lige gennemgånogle vigtige aspeketer ved datatypen ArrayList.
             <td style="border: 1px solid black;">8</td>
             <td style="border: 1px solid black;">9</td>
         </tr>
-    </table>                                                   
-                           |
-
+    </table>                                                 
 ### Projekt arbejdet** : 
 Jeg foreslår at i arbejder med at jeres "brugerflade" og at koble "spil-biblioteket" sammen med brugerfladen.
 Prøv at opbygge programmet så modulerbart som det er muligt. Det optimale er hvis man kan genbruge koden til andre kort-spil.
