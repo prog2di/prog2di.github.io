@@ -5,13 +5,42 @@
 ### Godkendelse af projekterne : 
 Jeres projekter er alle blevet godkendt, men jeg har kommentarer læs dem og kontakt mig hvis i har spørgsmål
 
-### Aflever en rapport** : 
-Jeg har ændret afleveringen til at være en rapport. Det bliver lidt presset med tiden, men god øvelse ;-).     
-Jeg gemmengår indholdet næste gang.
+### Ændring af aflevering : 
+Lav video med forklaring af kode, klassediagram og demo
 
 ### ArrayList vs Arrays : 
 Jeg vil lige gennemgånogle vigtige aspeketer ved datatypen ArrayList.
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">ArrayList</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Array</th></tr></thead><tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">oprettelse</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">ArrayList&lt;Integer&gt; list = new ArrayList&lt;Integer&gt;( );<br>ArrayList list = ArrayList();</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">int[] list = new int[10];<br>int[] list = {1,2,3,4,5,6,7,8,9,0};<br></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">dynamisk længde</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">ja<br></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">nej</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">hvad er længden?</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">list.size()</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">list.length</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">kan indeholde</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">kun objekt-typer</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">alle typer</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Indsætte element på bestemt plads</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">list.add(0,kort)</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">list[0] = card <br></td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Sletning et bestemt element</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">list.delete(kort);</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">ikke muligt</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">slet element på bestemt plads</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">list.delete(1)</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">ikke muligt</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">slet hele indholdet</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">list.clear()</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">ikke muligt</td></tr></tbody></table>                                                                                                          |
+
+    <table style="border: 3px solid black;">
+        <!-- lav en header med overskrifterne ArrayList og Array-->
+        <thead>
+            <tr>
+                <th style="border: 1px solid black;"></th>
+                <th style="border: 1px solid black;">ArrayList</th>
+                <th style="border: 1px solid black;">Array</th>
+            </tr>
+        </thead>
+        <!-- lav en række -->
+        <tr>
+            <!-- lav en celle -->
+            <td style="border: 1px solid black;">oprettelse af tom "liste"</td>
+            <td style="border: 1px solid black;"> <code>(1)ArrayList liste = new ArrayList();</code> </br> 
+                                                    <code>(2)ArrayList&lt;Card&gt; = new ArrayList&lt;Card&gt;()</code> </td>
+            <td style="border: 1px solid black;"><code>int[] liste = new int[10];</code></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;"></td>
+            <td style="border: 1px solid black;">1 ovenfor : listen kan indeholde alle typer </br>
+                                                   2 ovenfor : </td>
+            <td style="border: 1px solid black;"></td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;">7</td>
+            <td style="border: 1px solid black;">8</td>
+            <td style="border: 1px solid black;">9</td>
+        </tr>
+    </table>                                                   
+                           |
 
 ### Projekt arbejdet** : 
 Jeg foreslår at i arbejder med at jeres "brugerflade" og at koble "spil-biblioteket" sammen med brugerfladen.

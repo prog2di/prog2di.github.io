@@ -27,8 +27,6 @@ God fornøjelse - og godt nytår! 😊
 - **uge6**, 2 moduler  : lav aflevering
 
 ## Aflevering
-- Rapport med følgende:
-	- Endeligt klassediagram med dertilhørende beskrivelse og/eller noter/forklaring på diagrammer
-	- Koden som bilag
-	- yderligere punkter følger ...
-
+- Endeligt klassediagram med dertilhørende beskrivelse og/eller noter/forklaring på diagrammer
+- Koden
+- Video, med forklaring af kode, klassediagram og demo
