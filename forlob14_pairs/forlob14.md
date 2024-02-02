@@ -8,11 +8,11 @@ Pair-programming er en metode til at sikre, at alle arbejder og deler viden. Des
 
 ## Installation af Visual Studio Code (VSCode) og Processing Extension:
 
-1. **Download VSCode:**
+**Download VSCode:**
    - Gå til [Visual Studio Code's officielle hjemmeside](https://code.visualstudio.com/).
    - Download og installer VSCode i henhold til din computers styresystem.
 
-2. **Installér Processing Extension fra Luke-Zhang-04:**
+**Installér Processing Extension fra Luke-Zhang-04:**
    - Åbn VSCode.
    - Gå til Extensions (ikonet med firkanter på venstre side) eller brug `Ctrl + Shift + X`.
    - Søg efter "Processing" i Extensions-panelet.
@@ -21,21 +21,24 @@ Pair-programming er en metode til at sikre, at alle arbejder og deler viden. Des
 
 ## Installation af Live Share og Videovejledning:
 
-3. **Installér Live Share fra Microsoft:**
+**Installér Live Share fra Microsoft:**
    - Gå til Extensions igen og søg efter "Live Share."
    - Installer Live Share fra Microsoft.
    - Log ind med din Microsoft-konto.
 
-4. **Se Video om Live Share:**
+**Se Video om Live Share:**
    - Se [denne video](https://youtu.be/A2ceblXTBBc?feature=shared) om Live Share for at lære, hvordan det fungerer og hvordan du kan drage fordel af funktionerne.
 
 ## Læsning af Regler for Pair Programming:
 
-5. **Læs Regler for Pair Programming:**
+**Læs Regler for Pair Programming:**
    - For at sikre en effektiv pair-programming-session, skal du overholde følgende regler:
       - Anvend metoden med en navigatør og en driver.
       - Skift roller mindst hver halve time for at opretholde koncentration og engagement.
       - Overvej fordele ved pair-programming, såsom fejlreduktion, vidensoverførsel og hurtigere problemopløsning.
       - Forstå, at denne arbejdsmetode på sigt kan skiftes ud med en parallel arbejdsmetode, hvor begge partnere bidrager mere aktivt og konstant til kodningen.
+
+    - **Navigatør:** Denne rolle dikterer, hvad koden skal indeholde. Navigatøren kommunikerer og forklarer tanker tydeligt til føreren.
+    - **Driver:** Denne rolle er ansvarlig for at implementere/skrive den aktuelle kode.
 
 God fornøjelse med samarbejdet ;-)
