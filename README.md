@@ -53,9 +53,13 @@ Listen nedenfor er kun en grov skitse af undervisingsplanen, der vil forekomme �
 
 [forløb 13 - nedarvning og klassediagrammer](forlob13_oop2/forlob13.md)
 
-[projekt 2 - Kortspils program](projekt2_kortspil/projekt2.md)
+[**projekt 2 - Kortspils program**](projekt2_kortspil/projekt2.md)
 
-forløb 14 - tre-lags arkitektur og database (februar)
+[forløb 14 - Samarbejde : Pair-programming](/forlob14_pairs/forlob14.md)
+
+forløb 15 - Samarbejde : Team-programming
+
+<!--forløb 14 - tre-lags arkitektur og database (februar)-->
 
 **projekt 3 - GUI bibliotek og anvendelse** (marts)
 
