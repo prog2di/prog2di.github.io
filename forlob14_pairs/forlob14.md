@@ -38,7 +38,8 @@ Pair-programming er en metode til at sikre, at alle arbejder og deler viden. Des
       - Overvej fordele ved pair-programming, såsom fejlreduktion, vidensoverførsel og hurtigere problemopløsning.
       - Forstå, at denne arbejdsmetode på sigt kan skiftes ud med en parallel arbejdsmetode, hvor begge partnere bidrager mere aktivt og konstant til kodningen.
 
-    - **Navigatør:** Denne rolle dikterer, hvad koden skal indeholde. Navigatøren kommunikerer og forklarer tanker tydeligt til føreren.
-    - **Driver:** Denne rolle er ansvarlig for at implementere/skrive den aktuelle kode.
+**Navigatør:** Denne rolle dikterer, hvad koden skal indeholde. Navigatøren kommunikerer og forklarer tanker tydeligt til føreren.
+    
+**Driver:** Denne rolle er ansvarlig for at implementere/skrive den aktuelle kode.
 
 God fornøjelse med samarbejdet ;-)
