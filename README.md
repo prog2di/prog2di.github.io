@@ -59,9 +59,11 @@ Listen nedenfor er kun en grov skitse af undervisingsplanen, der vil forekomme �
 
 forløb 15 - Samarbejde : Team-programming
 
+**_TEST NUMMER 4_**
+
 <!--forløb 14 - tre-lags arkitektur og database (februar)-->
 
-**projekt 3 - GUI bibliotek og anvendelse** (marts)
+<!--**projekt 3 - GUI bibliotek og anvendelse** (marts)-->
 
 **SRC** (maj)
 
