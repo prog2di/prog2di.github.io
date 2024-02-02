@@ -40,6 +40,6 @@ Pair-programming er en metode til at sikre, at alle arbejder og deler viden. Des
 
 **Navigatør:** Denne rolle dikterer, hvad koden skal indeholde. Navigatøren kommunikerer og forklarer tanker tydeligt til føreren.
     
-**Driver:** Denne rolle er ansvarlig for at implementere/skrive den aktuelle kode.
+**Driver:** I denne rolle er det ansvaret at implementere/skrive den aktuelle kode. Rollen indebærer ansvar for fejlsikring og evaluering af koden, og derfor skal føreren sikre sig, at de har fuldt forståelse for alt, der bliver skrevet.
 
 God fornøjelse med samarbejdet ;-)
