@@ -26,7 +26,7 @@ God fornøjelse - og godt nytår! 😊
 - **uge5**, 0 moduler  : - 
 - **uge6**, 2 moduler  : [Se beskrivelse uge 6 : alle skal arbejde! og arraylist ](uge6.md)
 - **uge7**, vinterferie
-- **uge8**, 1 moduler : TEST D.27/2 (samme emner som sidst - nye spørgsmål)
+- **uge8**, 1 moduler : TEST D.23/2 (samme emner som sidst - nye spørgsmål)
 - **uge9**, 0 moduler : -
 - **uge10**, 2 moduler : aflevering
 
