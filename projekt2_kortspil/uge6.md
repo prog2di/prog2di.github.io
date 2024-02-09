@@ -9,7 +9,9 @@ Jeg har opdateret min liste med "Arrays vs. ArrayList" , så den også viser til
 ### Projekt arbejdet : 
 
 - I får begge moduler til projekt-arbejde
-- I klassen SKAL ALLE arbejde når der ikke er pause,- samarbejde er også pensum i programmering (der er 2 metoder). ***Desuden skal gennemsnittet i testeresultaterne hæves***:
+- I klassen SKAL ALLE arbejde,- samarbejde er også pensum i programmering (der er 2 metoder). 
+- ***Gennemsnittet i testeresultaterne skal hæves***:
+- Samarbejdsmetoder:    
     - samarbejds metode 1 : pair-programming - en del af extreme programming metoden
     - samarbejds metode 2 : parallel udvikling i teams, nemmest med f.eks. git og github
 
