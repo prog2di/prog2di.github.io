@@ -20,14 +20,14 @@ God fornøjelse - og godt nytår! 😊
 - Man skal kunne spille videre uden at genstarte programmet
 
 ## Forløbsplan
-- **uge2**, 3 moduler  : [Se beskrivelse uge 2 : Skitser, krav og klasse-diagram](uge2.md) 
+- **uge2**, 3 moduler  : [Se beskrivelse uge 2 : skitser, krav og klasse-diagram](uge2.md) 
 - **uge3**, 3 moduler  : [Se beskrivelse uge 3 : færdiggørelse af brugerfladen](uge3.md)
-- **uge4**, 1 moduler  :  
+- **uge4**, 1 moduler  : arbejd selv
 - **uge5**, 0 moduler  : - 
-- **uge6**, 2 moduler  : 
+- **uge6**, 2 moduler  : [Se beskrivelse uge 6 : alle skal arbejde! og arraylist ](uge6.md)
 - **uge7**, vinterferie
 - **uge8**, 1 moduler :
-- **uge9**, 0 moduler :
+- **uge9**, 0 moduler : TEST D.27/2 (samme emner som sidst - nye spørgsmål)
 - **uge10**, 2 moduler : aflevering
 
 ## Aflevering
