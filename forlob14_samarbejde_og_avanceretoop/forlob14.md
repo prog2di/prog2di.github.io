@@ -1,45 +1,40 @@
-# Vejledning til Brug af VSCode med Processing til Pair-Programming
+# Forlob 14
+# Platformerspil
+## Lavet med samarbejde og oop principper
 
+Dette forløb varer cirka 14 moduler. Vi starter med noget forskellig teori der er nødvendigt for at lave et god objektorienteret programmering ( oop ) i grupper.
 
-Dette er en guide til at bruge VSCode i stedet for Processing Sketch. At benytte VSCode giver os på lang sigt adskillige fordele, da værktøjet leveres med mange forskellige extensions, og vi kan anvende det til adskillige programmeringssprog. Indledningsvis vil vi bruge det til at samarbejde via "pair-programming" ved hjælp af en extension kaldet "Live Share".
+Herefter har jeg delt udviklingsprojektet op i dele ( platformerspillet), som vi så laver trinvist.
+Selvom i vælger at arbejde 
 
-Pair-programming er en metode til at sikre, at alle arbejder og deler viden. Desuden har metoden vist sig at reducere antallet af fejl. Dette er den første samarbejdsmetode, vi vil arbejde med inden for programmering; senere vil vi også eksperimentere med at arbejde "parallelt".
+God fornøjelse :-)
 
+--------------------------------------------------------------------------------
+### Teori: 2 moduler
 
-## Installation af Visual Studio Code (VSCode) og Processing Extension:
+- [Samarbejdsmetode 1 : Vejledning i pair-programming](pair_programming.md)
 
-**Download VSCode:**
-   - Gå til [Visual Studio Code's officielle hjemmeside](https://code.visualstudio.com/).
-   - Download og installer VSCode i henhold til din computers styresystem.
+- [Samarbejdsmetode 2 : Teams og versionsstyring]()
 
-**Installér Processing Extension fra Luke-Zhang-04:**
-   - Åbn VSCode.
-   - Gå til Extensions (ikonet med firkanter på venstre side) eller brug `Ctrl + Shift + X`.
-   - Søg efter "Processing" i Extensions-panelet.
-   - Installer Processing Extension af Luke-Zhang-04.
-   - Konfigurér stien til din Processing-editor ved at gå til VSCode Settings (ikonet med tandhjulet nederst i venstre hjørne) og indstille "processing.executablePath" med stien til din Processing-editor.
+- [OOP kerne-principper]()
+    - indkapsling
+    - polymorfi
+    - nedarvning
+    - abstraktion
 
-## Installation af Live Share og Videovejledning:
+- [SOLID design-principper]()
+    - single responsibility priciple
+    - open/close principle
+    - linskov substitution principle
+    - interface segregation principle
+    - dependency inversion principle
 
-**Installér Live Share fra Microsoft:**
-   - Gå til Extensions igen og søg efter "Live Share."
-   - Installer Live Share fra Microsoft.
-   - Log ind med din Microsoft-konto.
+--------------------------------------------------------------------------------
+### Udvikling at platformsspillet : 12 moduler
 
-**Se Video om Live Share:**
-   - Se [denne video](https://youtu.be/A2ceblXTBBc?feature=shared) om Live Share for at lære, hvordan det fungerer og hvordan du kan drage fordel af funktionerne.
+- [Del 1 : spiller](platforms_spillet_udvikles/del1_spilleren/del1_spilleren.md)
+- [Del 2 : platforme]()
+- [Del 3 : tilemap]()
+- [Del 4 : coins]()
+- [Del 5 : fjender]()
 
-## Læsning af Regler for Pair Programming:
-
-**Læs Regler for Pair Programming:**
-   - For at sikre en effektiv pair-programming-session, skal du overholde følgende regler:
-      - Anvend metoden med en navigatør og en driver.
-      - Skift roller mindst hver halve time for at opretholde koncentration og engagement.
-      - Overvej fordele ved pair-programming, såsom fejlreduktion, vidensoverførsel og hurtigere problemopløsning.
-      - Forstå, at denne arbejdsmetode på sigt kan skiftes ud med en parallel arbejdsmetode, hvor begge partnere bidrager mere aktivt og konstant til kodningen.
-
-**Navigatør:** Denne rolle dikterer, hvad koden skal indeholde. Navigatøren kommunikerer og forklarer tanker tydeligt til føreren.
-    
-**Driver:** I denne rolle er det ansvaret at implementere/skrive den aktuelle kode. Rollen indebærer ansvar for fejlsikring og evaluering af koden, og derfor skal føreren sikre sig, at de har fuldt forståelse for alt, der bliver skrevet.
-
-God fornøjelse med samarbejdet ;-)
