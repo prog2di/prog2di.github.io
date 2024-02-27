@@ -1,14 +1,12 @@
 # Forlob 14
-# Platformerspil 
-## Lavet med samarbejde og oop principper
-
-
+## Platformerspil, samarbejde og oop-principper
 
 I skal i dette forløb lave et platformer computerspil i grupper hvor i anvender et github repository til at gemme jeres kode, og forskellige avancerede objektorienterede kodningsprincipper.
 
 --------------------------------------------------------------------------------
 
-### Teori: 2 moduler
+### Teori
+cirka 2 moduler
 
 - [Samarbejdsmetode 1 : Vejledning i pair-programming](teori/pair_programming.md)
 - [Samarbejdsmetode 2 : Teams og versionsstyring]()
@@ -17,30 +15,14 @@ I skal i dette forløb lave et platformer computerspil i grupper hvor i anvender
 
 ---------------------------------------------------------------------------------
 
-### Udvikling at platformsspillet : 12 moduler - to moduler pr. del
+### Udvikling at platformsspillet
+cirka 12 moduler,- og cirka 2 moduler pr. del
 
 - [Del 1 : spiller](udvikling/del1_spilleren/del1_spilleren.md)
-I skal lave en spillerklasse.     
-Anvend kerne-principperne : indkapsling og abstraktion.   
-Anvend SOLID-principperne : single responsibility.
-
-- [Del 2 : gameobjekt og fjender]()
-Nu skal der laves en fjendeklasse. For at undgå gentagelser i spiller og fjende klasserne, skal i også lave en gameobjekt-klasse som både fjende-klassen og spiller-klassen nedarver fra.    
-Anvend kerne-principperne : nedarvning.     
-Anvend SOLID-principperne : LINSKOV-substitution i nedarvnings-herakiet.   
-
-- [Del 3 : animationer]()
-Både fjender og spiller skal være animeret, derfor introducerer vi nu en animationsklasse, der bygges ind i fjenden og spilleren vha. komposition.   
-Anvend SOLID-principperne : open/close, da vi kan skifte animationer ud... 
-
-- [Del 4 : platforme]()
-
-
-- [Del 5 : tilemap]()
-
-
-- [Del 6 : coins]()
-
-
-- [Del 7 : HUD]()
+- [Del 2 : gameobjekt og fjender](udvikling/del2_fjender.md)
+- [Del 3 : animationer](udvikling/del3_animationer.md)
+- [Del 4 : platforme](udvikling/del4_platforme)
+- [Del 5 : tilemap](udvikling/del5_tilemap.md)
+- [Del 6 : coins](udvikling/del6_coins.md)
+- [Del 7 : HUD](udvikling/del7_HUD.md)
 
