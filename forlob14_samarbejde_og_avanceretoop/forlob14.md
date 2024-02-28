@@ -6,7 +6,7 @@ I skal i dette forløb lave et platformer computerspil i grupper hvor i anvender
 --------------------------------------------------------------------------------
 
 ### Teori
-cirka 2 moduler
+Dette er den overordnede teori som i skal have styr på efter forløbet
 
 - [Samarbejdsmetode 1 : Vejledning i pair-programming](teori/pair_programming.md)
 - [Samarbejdsmetode 2 : Teams og versionsstyring]()
@@ -16,8 +16,9 @@ cirka 2 moduler
 ---------------------------------------------------------------------------------
 
 ### Udvikling at platformsspillet
-cirka 12 moduler,- og cirka 2 moduler pr. del
+cirka 14 moduler,- og cirka 2 moduler pr. del
 
+- [Del 0 : setup](udvikling/del0_setup.md)
 - [Del 1 : spiller](udvikling/del1_spilleren.md)
 - [Del 2 : gameobjekt og fjender](udvikling/del2_fjender.md)
 - [Del 3 : animationer](udvikling/del3_animationer.md)

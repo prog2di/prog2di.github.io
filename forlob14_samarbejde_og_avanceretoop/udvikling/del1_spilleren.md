@@ -7,4 +7,4 @@
 I skal lave en spillerklasse. I første omgang skal den bare tegnes som en simpel firkant eller en cirkel.
 Det er selve bevægelsesfunktionaliteten der skal opbygges. 
 
-Skriv kommentarer der viser hvor du anvender de forskellige oop-principper, både i klassen og repositoriets readme-fil.
+> Skriv kommentarer der viser hvor du anvender de forskellige oop-principper, både i klassen og repositoriets readme-fil.
