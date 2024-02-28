@@ -18,7 +18,7 @@ cirka 2 moduler
 ### Udvikling at platformsspillet
 cirka 12 moduler,- og cirka 2 moduler pr. del
 
-- [Del 1 : spiller](udvikling/del1_spilleren/del1_spilleren.md)
+- [Del 1 : spiller](udvikling/del1_spilleren.md)
 - [Del 2 : gameobjekt og fjender](udvikling/del2_fjender.md)
 - [Del 3 : animationer](udvikling/del3_animationer.md)
 - [Del 4 : platforme](udvikling/del4_platforme)
