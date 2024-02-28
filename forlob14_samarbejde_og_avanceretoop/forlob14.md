@@ -15,7 +15,7 @@ Dette er den overordnede teori som i skal have styr på efter forløbet
 
 ---------------------------------------------------------------------------------
 
-### Udvikling at platformsspillet
+### Udvikling
 cirka 14 moduler,- og cirka 2 moduler pr. del
 
 - [Del 0 : setup](udvikling/del0_setup.md)
