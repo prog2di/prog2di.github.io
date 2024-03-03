@@ -1,9 +1,9 @@
 # Del 1: Udvikling af spiller-klassen
 ## indkapsling og abstraktion 
 
-- Anvend kerne-principperne : indkapsling og abstraktion.   
-- Anvend SOLID-principperne : single responsibility.
-- ***Kommenter hvor I oop-principper, i koden og readme-filen***
+- Anvend kerne-principperne : ***indkapsling*** og ***abstraktion***.   
+- Anvend SOLID-principperne : ***single responsibility***.
+- ***Kommenter hvordan hvordan i anvender oop-principper, i koden og readme-filen***
 
 I skal lave en spillerklasse. I første omgang skal den bare tegnes som en simpel firkant eller en cirkel.
 Det er selve bevægelsesfunktionaliteten der skal opbygges. 
