@@ -57,7 +57,7 @@ Listen nedenfor er kun en grov skitse af undervisingsplanen, der vil forekomme �
 
 [forløb 14 - Platformerspil med samarbejde og oop-rinciper](/forlob14_samarbejde_og_avanceretoop/forlob14.md)
 
-**_TEST NUMMER 4_**
+[**_TEST NUMMER 4_**](test4/info_test4.md)
 
 <!--forløb 14 - tre-lags arkitektur og database (februar)-->
 
