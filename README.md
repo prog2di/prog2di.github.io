@@ -55,9 +55,11 @@ Listen nedenfor er kun en grov skitse af undervisingsplanen, der vil forekomme �
 
 [**projekt 2 - Kortspils program**](projekt2_kortspil/projekt2.md)
 
+[**_TEST NUMMER 4_**](test4/info_test4.md)
+
 [forløb 14 - Platformerspil med samarbejde og oop-rinciper](/forlob14_samarbejde_og_avanceretoop/forlob14.md)
 
-[**_TEST NUMMER 4_**](test4/info_test4.md)
+**_TEST NUMMER 5_**
 
 <!--forløb 14 - tre-lags arkitektur og database (februar)-->
 
