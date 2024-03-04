@@ -1,4 +1,4 @@
-# VSCode med processing og pair-programming
+# Pair-programming med vscode og processing
 
 Dette er en guide til at bruge VSCode i stedet for Processing Sketch. At benytte VSCode giver os på lang sigt adskillige fordele, da værktøjet leveres med mange forskellige extensions, og vi kan anvende det til adskillige programmeringssprog. Indledningsvis vil vi bruge det til at samarbejde via "pair-programming" ved hjælp af en extension kaldet "Live Share".
 
