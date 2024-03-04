@@ -18,7 +18,7 @@ https://docs.github.com/en/desktop/overview/getting‐started‐with‐github‐
 **Udgiv det via publish på github‐platformen & invitér andre**
     
 - inviter andre til samarbejde. Klik på ‘Settings’ og dernæst på ‘Collaborators’ og inviter via mail
-- de inviterede kan klone projektet ned på egen computer, og så tilføje det som repository til deres github desktop program Derfra kan de  sende eller ‘pushe’ ny version af projektet op og løbende lave ‘pull’‐kommando ned.
+- de inviterede kan klone projektet ned på egen computer, og så tilføje det som repository til deres github desktop program Derfra kan de  sende eller ‘pushe’ ny version af projektet op og løbende lave ‘pull’‐kommando ned.
 
 **Commit, push & pull**
     
