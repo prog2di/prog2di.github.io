@@ -5,6 +5,16 @@ I skal i dette forløb lave et platformer computerspil i grupper hvor i anvender
 
 --------------------------------------------------------------------------------
 
+## Forberdelser inden forløbet
+
+- download vscode
+- installer vscode extension "processing vscode" af Luke-Zhang-04.
+- installer vscode extension "live share"
+- opret konto på github
+- download github desktop
+
+--------------------------------------------------------------------------------
+
 ### Teori
 Dette er den overordnede teori som i skal have styr på efter forløbet
 
