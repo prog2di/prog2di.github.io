@@ -7,11 +7,11 @@ I skal i dette forløb lave et platformer computerspil i grupper hvor i anvender
 
 ## Forberdelser inden forløbet
 
-- download vscode
-- installer vscode extension "processing vscode" af Luke-Zhang-04.
-- installer vscode extension "live share"
 - opret konto på github
 - download github desktop
+- download vscode
+    - installer vscode extension "processing vscode" af Luke-Zhang-04.
+    - installer vscode extension "live share"
 
 --------------------------------------------------------------------------------
 
@@ -28,7 +28,6 @@ Dette er den overordnede teori som i skal have styr på efter forløbet
 ### Udvikling
 cirka 14 moduler,- og cirka 2 moduler pr. del
 
-- [Del 0 : setup](udvikling/del0_setup.md)
 - [Del 1 : spiller](udvikling/del1_spilleren.md)
 - [Del 2 : gameobjekt og fjender](udvikling/del2_fjender.md)
 - [Del 3 : animationer](udvikling/del3_animationer.md)
