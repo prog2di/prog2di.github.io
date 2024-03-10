@@ -20,8 +20,8 @@ Dette er den overordnede teori som i skal have styr på efter forløbet
 
 - [Samarbejdsmetode 1 : Vejledning i pair-programming](teori/pair_programming.md)
 - [Samarbejdsmetode 2 : Teams og versionsstyring](teori/github_vejledning.md)
-- [OOP kerne-principper](teori/oop_kerne_principper.md)
-- [SOLID design-principper](teori/solid_principper.md)
+- [OOP kerne-principper](teori/oop_kerne_principper/oop_kerne_principper.md)
+- [SOLID design-principper](teori/solid_principper/solid_principper.md)
 
 ---------------------------------------------------------------------------------
 
