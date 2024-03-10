@@ -30,4 +30,4 @@ Se følgende eksempel:
 
 ## Kode til at komme igang
 Koden nedenfor er ikke objektorienteret, og funktionaliteten er ikke god nok. F.eks. kan spilleren "hoppe" og "gå" i luften!:
-
+[spiller kode - på github](https://github.com/prog2di/prog2di.github.io/blob/main/forlob14_samarbejde_og_avanceretoop/udvikling/kode/spiller/spiller.pde)
