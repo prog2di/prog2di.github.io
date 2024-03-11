@@ -10,8 +10,8 @@ I skal i dette forløb lave et platformer computerspil i grupper hvor i anvender
 - opret konto på github
 - download github desktop
 - download vscode
-    - installer vscode extension "processing vscode" af Luke-Zhang-04.
-    - installer vscode extension "live share"
+    - og extension "processing vscode" af Luke-Zhang-04.
+    - og extension "live share"
 
 --------------------------------------------------------------------------------
 
