@@ -3,7 +3,7 @@ Car myCar; // Variabel til at holde en instans af Car-klassen
 
 void setup() {
   size(400, 200);
-  myCar = new Car(0, height/2, 2); // Opret en ny bil med startposition og hastighed
+  myCar = new Car(0, height/2, 2, this); // Opret en ny bil med startposition og hastighed
 }
 
 void draw() {
