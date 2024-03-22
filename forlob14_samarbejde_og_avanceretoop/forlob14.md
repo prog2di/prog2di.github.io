@@ -10,6 +10,8 @@ I skal i dette forløb lave et platformer computerspil i grupper hvor i anvender
 - [github konto](https://github.com/) oprettes og [github desktop](https://desktop.github.com/) downloades
 - [vscode](https://code.visualstudio.com/) downloades, med "processing vscode Luke-Zhang-04" og "live share" extensions
 
+---------------------------------------------------------------------------------
+
 #### Teori
 Dette er den overordnede teori som i skal have styr på efter forløbet
 
