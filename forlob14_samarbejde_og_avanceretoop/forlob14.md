@@ -12,7 +12,7 @@ I skal i dette forløb lave et platformer computerspil i grupper hvor i anvender
 
 --------------------------------------------------------------------------------
 
-### Teori
+## Teori
 Dette er den overordnede teori som i skal have styr på efter forløbet
 
 - [vscode og live-share](teori/pair_programming.md) og [github versionsstyring](teori/github_vejledning.md)
@@ -20,7 +20,7 @@ Dette er den overordnede teori som i skal have styr på efter forløbet
 
 ---------------------------------------------------------------------------------
 
-### Udvikling
+## Udvikling
 cirka 14 moduler,- og cirka 2 moduler pr. del
 
 - [Del 1 : spiller](udvikling/del1_spilleren.md)
