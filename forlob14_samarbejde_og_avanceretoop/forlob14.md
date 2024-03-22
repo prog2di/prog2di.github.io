@@ -15,10 +15,8 @@ I skal i dette forløb lave et platformer computerspil i grupper hvor i anvender
 ### Teori
 Dette er den overordnede teori som i skal have styr på efter forløbet
 
-- [vscode og live-share](teori/pair_programming.md)
-- [github versionsstyring](teori/github_vejledning.md)
-- [OOP kerne-principper](teori/oop_kerne_principper/oop_kerne_principper.md)
-- [SOLID design-principper](teori/solid_principper/solid_principper.md)
+- [vscode og live-share](teori/pair_programming.md) og [github versionsstyring](teori/github_vejledning.md)
+- [OOP kerne-principper](teori/oop_kerne_principper/oop_kerne_principper.md) og [SOLID design-principper](teori/solid_principper/solid_principper.md)
 
 ---------------------------------------------------------------------------------
 
