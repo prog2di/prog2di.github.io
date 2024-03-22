@@ -5,10 +5,10 @@ I skal arbejde videre på et processing program jeg har lavet i forvejen.
 Programmet er i mappen "PlayerImplementationV1" i github repositoriet.   
 
 Koden er her:   
-[https://github.com/prog2di/PlatformerProjektet/](https://github.com/prog2di/PlatformerProjektet/)
+[PlatformerProjektet repository](https://github.com/prog2di/PlatformerProjektet/)
 
 Opgaverne er her:    
-[https://github.com/prog2di/PlatformerProjektet/blob/main/PlayerImplementationV1/ABOUT_PLAYER_V1.md](https://github.com/prog2di/PlatformerProjektet/blob/main/PlayerImplementationV1/ABOUT_PLAYER_V1.md)
+[ABOUT_PLAYER_V1.md fra mappen PlayerImplementationV1](https://github.com/prog2di/PlatformerProjektet/blob/main/PlayerImplementationV1/ABOUT_PLAYER_V1.md)
 
 Her en video af hvordan Player-objektet fungerer når det er færdigt:
 
