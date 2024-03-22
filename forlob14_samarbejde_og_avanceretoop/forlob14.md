@@ -7,11 +7,9 @@ I skal i dette forløb lave et platformer computerspil i grupper hvor i anvender
 
 ## Forberdelser inden forløbet
 
-- opret konto på github
-- download github desktop
-- download vscode
-    - og extension "processing vscode" af Luke-Zhang-04.
-    - og extension "live share"
+- ***github konto*** oprettes
+- ***github desktop*** downloades
+- ***vscode*** downloades, med extension "processing vscode Luke-Zhang-04" og "live share"
 
 --------------------------------------------------------------------------------
 
