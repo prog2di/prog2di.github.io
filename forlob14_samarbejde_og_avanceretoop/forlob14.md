@@ -7,8 +7,8 @@ I skal i dette forløb lave et platformer computerspil i grupper hvor i anvender
 
 ## Forberdelser inden forløbet
 
-- ***github konto*** oprettes og ***github desktop*** downloades
-- ***vscode*** downloades, med "processing vscode Luke-Zhang-04" og "live share" extensions
+- [github konto](https://github.com/) oprettes og [github desktop](https://desktop.github.com/) downloades
+- [vscode](https://code.visualstudio.com/) downloades, med "processing vscode Luke-Zhang-04" og "live share" extensions
 
 --------------------------------------------------------------------------------
 
