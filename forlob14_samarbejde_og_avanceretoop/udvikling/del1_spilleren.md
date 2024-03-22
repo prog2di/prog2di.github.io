@@ -8,4 +8,4 @@ Koden er her:
 [https://github.com/prog2di/PlatformerProjektet/](https://github.com/prog2di/PlatformerProjektet/)
 
 Opgaverne er her:    
-[https://github.com/prog2di/PlatformerProjektet/blob/main/PlayerImplementationV1/README.md](https://github.com/prog2di/PlatformerProjektet/blob/main/PlayerImplementationV1/README.md)
+[https://github.com/prog2di/PlatformerProjektet/blob/main/PlayerImplementationV1/ABOUT_PLAYER_V1.md](https://github.com/prog2di/PlatformerProjektet/blob/main/PlayerImplementationV1/ABOUT_PLAYER_V1.md)
