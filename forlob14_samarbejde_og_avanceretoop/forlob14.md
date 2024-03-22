@@ -9,7 +9,7 @@ I skal i dette forløb lave et platformer computerspil i grupper hvor i anvender
 
 - ***github konto*** oprettes
 - ***github desktop*** downloades
-- ***vscode*** downloades, med extension "processing vscode Luke-Zhang-04" og "live share"
+- ***vscode*** downloades, med ***processing vscode Luke-Zhang-04*** og ***live share*** extensions
 
 --------------------------------------------------------------------------------
 
