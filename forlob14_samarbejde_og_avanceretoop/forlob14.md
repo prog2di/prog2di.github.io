@@ -24,9 +24,9 @@ Dette er den overordnede teori som i skal have styr på efter forløbet
 cirka 14 moduler,- og cirka 2 moduler pr. del
 
 - [Del 1 : spiller](udvikling/del1_spilleren.md)
-- [Del 2 : gameobjekt og fjender](udvikling/del2_fjender.md)
+- [Del 2 : platforme](udvikling/del2_platforme)
 - [Del 3 : animationer](udvikling/del3_animationer.md)
-- [Del 4 : platforme](udvikling/del4_platforme)
+- [Del 4 : gameobjekt og fjender](udvikling/del4_fjender.md)
 - [Del 5 : tilemap](udvikling/del5_tilemap.md)
 - [Del 6 : coins](udvikling/del6_coins.md)
 - [Del 7 : HUD](udvikling/del7_HUD.md)
