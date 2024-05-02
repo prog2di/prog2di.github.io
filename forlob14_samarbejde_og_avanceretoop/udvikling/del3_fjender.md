@@ -1,4 +1,4 @@
-# Del 1: Udvikling af Fjender
+# Del 3: Udvikling af Fjender
 ## Nedarvning og Linskovs substitutions princip
 
 I skal arbejde videre på et processing program jeg har lavet i forvejen.   

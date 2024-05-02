@@ -28,7 +28,7 @@ cirka 14 moduler,- og cirka 2 moduler pr. del
 - [Del 1 : spiller](udvikling/del1_spilleren.md)
 - [Del 2 : platforme](udvikling/del2_platforme.md)
 - [Del 3 : gameobjekt og fjender](udvikling/del3_fjender.md)
-- Del 4 : animationer
+- [Del 4 : animationer](udvikling/del4_animationer.md)
 - Del 5 : tilemap
 - Del 6 : coins
 - Del 7 : HUD

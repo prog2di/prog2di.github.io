@@ -1,4 +1,4 @@
-# Del 1: Udvikling af platform
+# Del 2: Udvikling af platform
 ## Platformsklasse med indkapsling og single responsibility
 
 I skal arbejde videre på et processing program jeg har lavet i forvejen.   

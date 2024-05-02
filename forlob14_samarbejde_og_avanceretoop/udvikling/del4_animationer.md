@@ -1,5 +1,10 @@
-Del 3: Animationer  
-Classes should be open for extension, but closed for modification   
-Anvend SOLID-principperne : ***open/close***, da vi kan skifte animationer ud...    
-***Kommenter hvordan hvordan i anvender oop-principper, i koden og readme-filen***   
-Både fjender og spiller skal være animeret, derfor introducerer vi nu en animationsklasse, der bygges ind vha. komposition.   
+# Del 4: Animationer
+## Open for extension closed for modifications
+
+Jeg har lavet en animations-klasse, som I skal anvende i jeres platformerspil. 
+
+Alt kode er her:   
+[PlatformerProjektet repository](https://github.com/prog2di/PlatformerProjektet/)
+  
+Opgaverne er her:    
+[ABOUT_AIMATION.md fra mappen ](https://github.com/prog2di/PlatformerProjektet/blob/main/AnimationsImplementationV1/ABOUT_ANIMATION.md)
