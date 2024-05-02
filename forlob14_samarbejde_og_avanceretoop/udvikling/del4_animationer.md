@@ -7,4 +7,4 @@ Alt kode er her:
 [PlatformerProjektet repository](https://github.com/prog2di/PlatformerProjektet/)
   
 Opgaverne er her:    
-[ABOUT_AIMATION.md fra mappen ](https://github.com/prog2di/PlatformerProjektet/blob/main/AnimationsImplementationV1/ABOUT_ANIMATION.md)
+[ABOUT_ANIMATION.md fra mappen ](https://github.com/prog2di/PlatformerProjektet/blob/main/AnimationsImplementationV1/ABOUT_ANIMATION.md)
