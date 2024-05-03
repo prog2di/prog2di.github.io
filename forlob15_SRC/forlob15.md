@@ -18,9 +18,9 @@ Dog skal opgaven indeholde empiri,- som i vores tilfælde er test af jeres progr
 ## OOP-principper fra undervsningen
 Nedarvning, komposition, indkapsling, polymorfi, single-reposibility, open/closed princippet og liskovs subsitutionsprincip
 
-## Litteratur / Materiale
+## Udleveret materiale
 
-Linket nedenfor, skal i bruge som en kilde i jeres opgave, find mindst et relevant materiale mere selv:   
+Anvendes som kilde, find mindst en mere selv:   
 [geeksforgeeks om oop](https://www.geeksforgeeks.org/best-practices-of-object-oriented-programming-oop/)
 
 # Forløbsplan
