@@ -10,18 +10,18 @@ Dog skal opgaven indeholde empiri,- som i vores tilfælde er test af jeres progr
 
 ## Krav til design af programmet
 
-- Prototypen I designer skal være et "selvvalgt" matematikværktøj.     
-- Prototypen skal designes ud fra selvvalgte OOP-designprincipper
-- I må selv vælge sprog og platform 
-- Mindst én/ét oop-princip/design/ide skal være noget vi IKKE har haft i undervisningen.
+- Design "selvvalgt" matematikværktøj.     
+- Vælg selv OOP-designprincipper
+- Vælg selv sprog og platform 
+- Et nyt oop-princip/design/ide
 
 ## OOP-principper fra undervsningen
 Nedarvning, komposition, indkapsling, polymorfi, single-reposibility, open/closed princippet og liskovs subsitutionsprincip
 
 ## Litteratur / Materiale
 
-Linket nedenfor, skal i bruge som en kilde i jeres opgave, find mindst et relevant materiale mere selv:
-[https://www.geeksforgeeks.org/best-practices-of-object-oriented-programming-oop/](https://www.geeksforgeeks.org/best-practices-of-object-oriented-programming-oop/)
+Linket nedenfor, skal i bruge som en kilde i jeres opgave, find mindst et relevant materiale mere selv:   
+[geeksforgeeks om oop](https://www.geeksforgeeks.org/best-practices-of-object-oriented-programming-oop/)
 
 # Forløbsplan
 
