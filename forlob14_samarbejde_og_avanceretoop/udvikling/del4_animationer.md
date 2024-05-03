@@ -11,5 +11,5 @@ Alt kode er her:
 Opgaverne er her:    
 [ABOUT_ANIMATION.md fra mappen ](https://github.com/prog2di/PlatformerProjektet/blob/main/AnimationsImplementationV1/ABOUT_ANIMATION.md)
 
-Aflevering ( dette er sidste time med platformerspillet ):   
-Information om aflevering ses i [ABOUT_ANIMATION.md](https://github.com/prog2di/PlatformerProjektet/blob/main/AnimationsImplementationV1/ABOUT_ANIMATION.md)
+Info om aflevering ( dette er sidste time med platformerspillet ):   
+[ABOUT_ANIMATION.md](https://github.com/prog2di/PlatformerProjektet/blob/main/AnimationsImplementationV1/ABOUT_ANIMATION.md)
