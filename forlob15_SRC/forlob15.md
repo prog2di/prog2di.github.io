@@ -13,7 +13,7 @@ Dog skal opgaven indeholde empiri,- som i vores tilfælde er test af jeres progr
 - Design "selvvalgt" matematikværktøj.     
 - Vælg selv OOP-designprincipper
 - Vælg selv sprog og platform 
-- Et nyt oop-princip/design/ide
+- Fokuser på noget OOP vi ikke har arbejdet med før
 
 ## OOP-principper fra undervsningen
 Nedarvning, komposition, indkapsling, polymorfi, single-reposibility, open/closed princippet og liskovs subsitutionsprincip
@@ -72,7 +72,6 @@ I den ovenstående plan ses en oversigt over det generelle SRCforløb - vores st
 | 29/5+30/5 | ***SRC eksamen***   |                                                                               | 
 
 
-Ordforklaring:
 - ***Proof of concept:*** "A proof of concept (POC) is a demonstration of a product in which work is focused on determining whether an idea can be turned into a reality."
 - ***OOP-principper:*** Jeres program skal være designet ud fra selvvalgte oop principper - mindst ét der ligger ud over noget vi har haft i undervisningen 
 
