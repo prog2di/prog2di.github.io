@@ -30,30 +30,27 @@ Generel elevvejledning udarbejdet af skolen:
 
 I den ovenstående plan ses en oversigt over det generelle SRCforløb - vores studieretninger afviger på nogle punkter, som i kan læse nedenfor:
 
-| dag                      | indhold                                | specielt for prog. & komit/mat (2di)                                          |
-|--------------------------|----------------------------------------|-------------------------------------------------------------------------------|
-| 1+2 (6/5+7/5) <br> 12 moduler | Rammer + Problemformulering udarbejdes | skift gerne imellem programmering af "proof of concept",                      |
-|                          |                                        | valg oop-principper (litteratursøgning) og problemformulering                 |
-|                          |                                        | ***ved slutningen af dag 2 skal alle have godkendt deres opgaveformulering*** |
-|                          |                                        |                                                                               |
-| 3 (8/5) 6 moduler        | Mulighed for LAB                       | jeres computer er jeres LAB:                                                  |   
-|                          |                                        | ***design & udvikling*** er også analyse                                      |
-|                          |                                        | ***empiri*** er test af programmet                                            |
-|                          |                                        |                                                                               |
-| 4 (13/5) 6 moduler       | Bearbejd resultater og disposition     | arbejde videre... og lav opgave endelig dispositionen                         | 
-|                          |                                        | (problemformuleringen gøres helt skarp)                                       |
-|                          |                                        | ***ved slutningen af dag 4 skal alle have godkendt deres disposition***       |
-|                          |                                        |                                                                               |
-| 5+6 (14/5+15/5)          | Skrivedage med vejledning              | ***Aflevering d.15/5 23:59 på Lectio***                                       |
-|                          |                                        |                                                                               |
-| 16/5                     | ekstra skrivedag for orblinde/sps      |***Aflevering d.16/5 23:59 - for elever med ekstra tid***                      |
-|                          |                                        |                                                                               |
-| 21/5                     | Om den mundtlige præsentation          |                                                                               |
-|                          |                                        |                                                                               |
-| 29/5+30/5                | ***SRC eksamen***                      |                                                                               | 
+| dag                            | indhold                                | specielt for prog. & komit/mat (2di)                                          |
+|--------------------------------|----------------------------------------|-------------------------------------------------------------------------------|
+| d.6/5 og d.7/5 <br> 12 moduler | Problemformulering udarbejdes          | skift gerne imellem programmering af "proof of concept" <br> valg oop-principper (litteratursøgning) og  problemformulering <br> ***ved slutningen af dag 2 skal alle have godkendt deres opgaveformulering*** |
+|                                |                                        |                                                                               |
+| d.8/5 <br> 6 moduler           | Mulighed for LAB                       | jeres computer er jeres LAB:                                                  |   
+|                                |                                        | ***design & udvikling*** er også analyse                                      |
+|                                |                                        | ***empiri*** er test af programmet                                            |
+|                                |                                        |                                                                               |
+| d.13/5 <br> 6 moduler          | Disposition                            | arbejde videre... og lav opgave endelig dispositionen                         | 
+|                                |                                        | (problemformuleringen gøres helt skarp)                                       |
+|                                |                                        | ***ved slutningen af dag 4 skal alle have godkendt deres disposition***       |
+|                                |                                        |                                                                               |
+| d.14/5 og d.15/5               | Skrivedage med vejledning              | ***Aflevering d.15/5 23:59 på Lectio***                                       |
+|                                |                                        |                                                                               |
+| d.16/5                         | ekstra skrivedag                       |***Aflevering d.16/5 23:59 - for elever med ekstra tid***                      |
+|                                |                                        |                                                                               |
+| d.21/5                         | Om den mundtlige præsentation          |                                                                               |
+|                                |                                        |                                                                               |
+| d.29/5 og 30/5                 | ***SRC eksamen***                      |                                                                               | 
 
 
-<!DOCTYPE html>
 <html>
 <head>
 	<style>
