@@ -32,7 +32,7 @@ I den ovenstående plan ses en oversigt over det generelle SRCforløb - vores st
 
 | dag                      | indhold                                | specielt for prog. & komit/mat (2di)                                          |
 |--------------------------|----------------------------------------|-------------------------------------------------------------------------------|
-| 1+2 (6/5+7/5) 12 moduler | Rammer + Problemformulering udarbejdes | skift gerne imellem programmering af "proof of concept",                      |
+| 1+2 (6/5+7/5) <br> 12 moduler | Rammer + Problemformulering udarbejdes | skift gerne imellem programmering af "proof of concept",                      |
 |                          |                                        | valg oop-principper (litteratursøgning) og problemformulering                 |
 |                          |                                        | ***ved slutningen af dag 2 skal alle have godkendt deres opgaveformulering*** |
 |                          |                                        |                                                                               |
@@ -56,7 +56,6 @@ I den ovenstående plan ses en oversigt over det generelle SRCforløb - vores st
 <!DOCTYPE html>
 <html>
 <head>
-	<title>HTML Table Generator</title> 
 	<style>
 		table {
 			border:1px solid #b3adad;
@@ -78,49 +77,6 @@ I den ovenstående plan ses en oversigt over det generelle SRCforløb - vores st
 		}
 	</style>
 </head>
-<body>
-	<table>
-		<thead>
-			<tr>
-				<th>dag</th>
-				<th>indhold</th>
-				<th><font color="#313030">specielt for prog. &amp; komit/mat (2di)</font></th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-				<td>&nbsp;</td>
-			</tr>
-		</tbody>
-	</table>
-</body>
 </html>
 
 Ordforklaring:
