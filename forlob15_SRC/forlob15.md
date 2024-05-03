@@ -57,15 +57,15 @@ I den ovenstående plan ses en oversigt over det generelle SRCforløb - vores st
 
 | dag       | indhold                                | specielt for prog. & komit/mat (2di)                                          |
 |-----------|----------------------------------------|-------------------------------------------------------------------------------|
-| 6/5+7/5   | Problemformulering udarbejdes          | Skift gerne imellem: <br> (1) programmering af "proof of concept" <br> (2) valg oop-principper (litteratursøgning) <br> (3) Problemformulering <br><br> ***ved slutningen af dag 2 skal alle have godkendt deres opgaveformulering*** |
+| 6/5+7/5   | Problemformulering                     | Skift gerne imellem: <br> (1) programmering af "proof of concept" <br> (2) valg oop-principper (litteratursøgning) <br> (3) Problemformulering <br><br> ***Ved slutningen af dag 2 skal alle have godkendt deres problemformulering*** |
 |           |                                        |                                                                               |
 | 8/5       | Mulighed for LAB                       | ***LAB*** er jeres computer <br> ***design & udvikling*** er også analyse <br> ***empiri*** er test af programmet |
 |           |                                        |                                                                               |
-| 13/5      | Disposition                            | arbejde videre med dispositionen (problemformuleringen gøres helt skarp) <br><br> ***ved slutningen af dag 4 skal alle have godkendt deres disposition*** |
+| 13/5      | Disposition                            | arbejde videre med dispositionen (problemformuleringen gøres helt skarp) <br><br> ***Ved slutningen af dag 4 skal alle have godkendt deres disposition*** |
 |           |                                        |                                                                               |
-| 14/5+15/5 | Skrivedage med vejledning              | ***Aflevering d.15/5 23:59***                                                 |
+| 14/5+15/5 | Skrivedage                             | ***Aflevering d.15/5 23:59***                                                 |
 |           |                                        |                                                                               |
-| 16/5      | ekstra skrivedag                       | ***Aflevering d.16/5 23:59 - for elever med ekstra tid***                     |
+| 16/5      | Ekstra skrivedag                       | ***Aflevering d.16/5 23:59 - for elever med ekstra tid***                     |
 |           |                                        |                                                                               |
 | 21/5      | Om den mundtlige præsentation          |                                                                               |
 |           |                                        |                                                                               |
