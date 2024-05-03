@@ -11,9 +11,8 @@ Dog skal opgaven indeholde empiri,- som i vores tilfælde er test af jeres progr
 ## Krav til design af programmet
 
 - Design "selvvalgt" matematikværktøj.     
-- Vælg selv OOP-designprincipper
 - Vælg selv sprog og platform 
-- Vælg selv OOP-principper men læg fokus på noget OOP vi ikke har arbejdet med før
+- Anvend selvvalgte OOP-principper,- men fokuser på noget OOP vi ikke har arbejdet med før
 
 ## OOP-principper fra undervsningen
 Nedarvning, komposition, indkapsling, polymorfi, single-reposibility, open/closed princippet og liskovs subsitutionsprincip
