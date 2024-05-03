@@ -52,6 +52,77 @@ I den ovenstående plan ses en oversigt over det generelle SRCforløb - vores st
 |                          |                                        |                                                                               |
 | 29/5+30/5                | ***SRC eksamen***                      |                                                                               | 
 
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML Table Generator</title> 
+	<style>
+		table {
+			border:1px solid #b3adad;
+			border-collapse:collapse;
+			padding:5px;
+		}
+		table th {
+			border:1px solid #b3adad;
+			padding:5px;
+			background: #f0f0f0;
+			color: #313030;
+		}
+		table td {
+			border:1px solid #b3adad;
+			text-align:center;
+			padding:5px;
+			background: #ffffff;
+			color: #313030;
+		}
+	</style>
+</head>
+<body>
+	<table>
+		<thead>
+			<tr>
+				<th>dag</th>
+				<th>indhold</th>
+				<th><font color="#313030">specielt for prog. &amp; komit/mat (2di)</font></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>
+
 Ordforklaring:
 - ***Proof of concept:*** "A proof of concept (POC) is a demonstration of a product in which work is focused on determining whether an idea can be turned into a reality."
 - ***OOP-principper:*** Jeres program skal være designet ud fra selvvalgte oop principper - mindst ét der ligger ud over noget vi har haft i undervisningen 
