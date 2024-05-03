@@ -57,11 +57,11 @@ I den ovenstående plan ses en oversigt over det generelle SRCforløb - vores st
 
 | dag       | indhold                                | specielt for prog. & komit/mat (2di)                                          |
 |-----------|----------------------------------------|-------------------------------------------------------------------------------|
-| 6/5+7/5   | Problemformulering udarbejdes          | skift gerne imellem programmering af "proof of concept" <br><br> valg oop-principper (litteratursøgning) og  problemformulering <br><br> ***ved slutningen af dag 2 skal alle have godkendt deres opgaveformulering*** |
+| 6/5+7/5   | Problemformulering udarbejdes          | Skift gerne imellem: <br> (1) programmering af "proof of concept" <br> (2) valg oop-principper (litteratursøgning) <br> (3) Problemformulering <br><br> ***ved slutningen af dag 2 skal alle have godkendt deres opgaveformulering*** |
 |           |                                        |                                                                               |
-| 8/5       | Mulighed for LAB                       | jeres computer er jeres LAB <br><br> ***design & udvikling*** er også analyse <br><br> ***empiri*** er test af programmet |
+| 8/5       | Mulighed for LAB                       | ***LAB*** er jeres computer <br> ***design & udvikling*** er også analyse <br> ***empiri*** er test af programmet |
 |           |                                        |                                                                               |
-| 13/5      | Disposition                            | arbejde videre og lav opgave endelig dispositionen (problemformuleringen gøres helt skarp) <br><br> ***ved slutningen af dag 4 skal alle have godkendt deres disposition*** |
+| 13/5      | Disposition                            | arbejde videre med dispositionen (problemformuleringen gøres helt skarp) <br><br> ***ved slutningen af dag 4 skal alle have godkendt deres disposition*** |
 |           |                                        |                                                                               |
 | 14/5+15/5 | Skrivedage med vejledning              | ***Aflevering d.15/5 23:59***                                                 |
 |           |                                        |                                                                               |
