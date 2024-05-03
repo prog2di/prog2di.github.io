@@ -45,8 +45,6 @@ I den ovenstående plan ses en oversigt over det generelle SRCforløb - vores st
 | d.21/5                         | Om den mundtlige præsentation          |                                                                               |
 |                                |                                        |                                                                               |
 | d.29/5 og 30/5                 | ***SRC eksamen***                      |                                                                               | 
-
-
 <html>
 <head>
 	<style>
