@@ -44,9 +44,9 @@ I den ovenstående plan ses en oversigt over det generelle SRCforløb - vores st
 |                          |                                        | (problemformuleringen gøres helt skarp)                                       |
 |                          |                                        | ***ved slutningen af dag 4 skal alle have godkendt deres disposition***       |
 |                          |                                        |                                                                               |
-| 5+6 (14/5+15/5)          | Skrivedage med vejledning              |                                                                               |
+| 5+6 (14/5+15/5)          | Skrivedage med vejledning              | ***Aflevering d.15/5 23:59 på Lectio***                                       |
 |                          |                                        |                                                                               |
-| 16/5                     | ekstra skrivedag for orblinde/sps      |                                                                               |
+| 16/5                     | ekstra skrivedag for orblinde/sps      |***Aflevering d.16/5 23:59 - for elever med ekstra tid***                      |
 |                          |                                        |                                                                               |
 | 21/5                     | Om den mundtlige præsentation          |                                                                               |
 |                          |                                        |                                                                               |
