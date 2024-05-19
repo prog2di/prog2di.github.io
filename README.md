@@ -61,12 +61,9 @@ Listen nedenfor er kun en grov skitse af undervisingsplanen, der vil forekomme Ã
 
 [**SRC**](/forlob15_SRC/forlob15.md)
 
-**_TEST NUMMER 5_**
-
 <!--forlÃ¸b 14 - tre-lags arkitektur og database (februar)-->
 
 <!--**projekt 3 - GUI bibliotek og anvendelse** (marts)-->
-
 
 
 ----

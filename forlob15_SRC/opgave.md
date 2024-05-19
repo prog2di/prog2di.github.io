@@ -1,5 +1,4 @@
-# Studieretningscase 2024
-## Opgavebeskrivelse og forløbsplan
+# Studieretningscase 2024 - Opgavebeskrivelse og forløbsplan
 
 ## Krav til design af programmet
 

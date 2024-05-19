@@ -7,5 +7,5 @@ Selve vurderingen, dvs. karakteren, er udelukkende baseret på den skriftlige op
 
 Dog skal opgaven indeholde empiri,- som i vores tilfælde er test af jeres program.      
 
-- [udarbejdelse af opgaven og forløbsplan](opgave.md)
-- [mundtlige prøve](prove.md) 
+- [Udarbejdelse af opgaven og forløbsplan](opgave.md)
+- [Mundtlige prøve](prove.md) 

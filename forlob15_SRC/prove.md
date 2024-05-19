@@ -1,5 +1,4 @@
-# Studieretningscasen 2024
-## Mundtlig prøve
+# Studieretningscasen 2024 - Mundtlig prøve
 
 Der udarbejdes talepapir eller et PowerPoint. 
 
